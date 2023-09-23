@@ -144,8 +144,9 @@ body:has(.section-header .drawer-menu) .announcement-bar-section .page-width {
 @media screen and (min-width: 990px) {
   .header:not(.drawer-menu).page-width {
     padding-left: 5rem;
+    background-color: #002900;
     padding-right: 5rem;
-  }
+}
 
   .page-width--narrow {
     max-width: 72.6rem;
@@ -2533,7 +2534,7 @@ product-info .loading-overlay:not(.hidden) ~ *,
 .header__icons {
   display: flex;
   grid-area: icons;
-  justify-self: auto;
+  justify-self: end;
   padding-right: 0.8rem;
 }
 
@@ -2839,9 +2840,8 @@ details[open] > .header__menu-item .icon-caret {
 
 .header__active-menu-item {
   transition: text-decoration-thickness var(--duration-short) ease;
-  color: rgb(var(--color-foreground));
-  text-decoration: underline;
-  text-underline-offset: 0.3rem;
+  color: white;
+  text-decoration: none;
 }
 
 .header__menu-item:hover .header__active-menu-item {
