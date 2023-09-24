@@ -244,7 +244,7 @@
       "custom_css": [
         ".suwasthiHomeAboutBlockLeftContainer {display: flex; justify-content: center; align-items: center;}",
         ".BlockLeftText {width: 100%; padding: 0 180px; position: absolute; z-index: 2;}",
-        ".BlockLeftTextHeading {font-size: 3.6rem; margin: 0; color: #002c00; font-weight: 600; text-align: left; line-height: 3rem}",
+        ".BlockLeftTextHeading {font-size: 3.6rem; margin: 0; color: #002c00; font-weight: 600; text-align: left; line-height: 3rem;}",
         ".BlockLeftTextParagraph {color: #002c00; font-size: 2.3rem; text-align: left; font-weight: 400; line-height: 3rem}",
         ".BlockLeftImgContainer {display: flex; justify-content: end; width: 100%; padding: 0 180px}",
         ".BlockLeftImg {height: 20vw; opacity: 0.7}"
@@ -259,15 +259,32 @@
     "1517112b-7937-458e-ab68-6396f999ed5f": {
       "type": "custom-liquid",
       "custom_css": [
+        ".suwasthiHomeAboutBlockLeftContainer{display: flex; justify-content: center; align-items: center}",
+        ".BlockLeftText{width: 100%; padding: 0 180px; position: absolute; z-index: 2}",
+        ".BlockLeftTextHeading {font-size: 3.6rem; margin: 0; color: #002c00; font-weight: 600; text-align: right; line-height: 3rem}",
+        ".BlockLeftTextParagraph {color: #002c00; font-size: 2.3rem; text-align: right; font-weight: 400; line-height: 3rem}",
+        ".BlockLeftImgContainer{display: flex; justify-content: start; width: 100%; padding: 0 180px}",
+        ".BlockLeftImg{height: 20vw; opacity: .7}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"suwasthiHomeAboutBlockLeftContainer\">\n        <div class=\"BlockLeftText\">\n            <p class=\"BlockLeftTextHeading\">Close to nature as it is the best healer<\/p>\n            <p class=\"BlockLeftTextParagraph\">Formulated with the ancient rarest herbs derived from the nature, loaded with powerful ingredients based on ayurveda which have visible results . We go the extra mile to extract the best from nature's vast repertoire<\/p>\n        <\/div>\n        <div class=\"BlockLeftImgContainer\">\n            <img class=\"BlockLeftImg\" src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Layer_14_648e4dd5-4097-4503-9025-0b86387f1ec6.png?v=1695565020 alt=\"\">\n        <\/div>\n    <\/div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "fa55cb20-6407-4cd7-afa1-9d5e7ae5cdae": {
+      "type": "custom-liquid",
+      "custom_css": [
         ".suwasthiHomeAboutBlockLeftContainer {display: flex; justify-content: center; align-items: center;}",
         ".BlockLeftText {width: 100%; padding: 0 180px; position: absolute; z-index: 2;}",
-        ".BlockLeftTextHeading {font-size: 3.6rem; margin: 0; color: #002c00; font-weight: 600; text-align: left; line-height: 3rem}",
+        ".BlockLeftTextHeading {font-size: 3.6rem; margin: 0; color: #002c00; font-weight: 600; text-align: left; line-height: 3rem;}",
         ".BlockLeftTextParagraph {color: #002c00; font-size: 2.3rem; text-align: left; font-weight: 400; line-height: 3rem}",
         ".BlockLeftImgContainer {display: flex; justify-content: end; width: 100%; padding: 0 180px}",
         ".BlockLeftImg {height: 20vw; opacity: 0.7}"
       ],
       "settings": {
-        "custom_liquid": "<div class=\"suwasthiHomeAboutBlockLeftContainer\">\n        <div class=\"BlockLeftText\">\n            <p class=\"BlockLeftTextHeading\">Close to nature as it is the best healer<\/p>\n            <p class=\"BlockLeftTextParagraph\">Formulated with the ancient rarest herbs derived from the nature, loaded with powerful ingredients based on ayurveda which have visible results . We go the extra mile to extract the best from nature's vast repertoire<\/p>\n        <\/div>\n        <div class=\"BlockLeftImgContainer\">\n            <img class=\"BlockLeftImg\" src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Layer_13.png?v=1695565019 alt=\"\">\n        <\/div>\n    <\/div>",
+        "custom_liquid": "<div class=\"suwasthiHomeAboutBlockLeftContainer\">\n        <div class=\"BlockLeftText\">\n            <p class=\"BlockLeftTextHeading\">Close to nature as it is the best healer<\/p>\n            <p class=\"BlockLeftTextParagraph\">Formulated with the ancient rarest herbs derived from the nature, loaded with powerful ingredients based on ayurveda which have visible results . We go the extra mile to extract the best from nature's vast repertoire<\/p>\n        <\/div>\n        <div class=\"BlockLeftImgContainer\">\n            <img class=\"BlockLeftImg\" src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Layer_15.png?v=1695565020 alt=\"\">\n        <\/div>\n    <\/div>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
@@ -291,6 +308,7 @@
     "16ecc9dc-dba5-463a-9c34-d04333ecfb8f",
     "3ee70ec9-6834-4f3f-b0ed-fb85aed5dbb8",
     "e4a47204-661f-4438-a541-0f8b56437fe3",
-    "1517112b-7937-458e-ab68-6396f999ed5f"
+    "1517112b-7937-458e-ab68-6396f999ed5f",
+    "fa55cb20-6407-4cd7-afa1-9d5e7ae5cdae"
   ]
 }
