@@ -19,7 +19,7 @@
     "feeaaa21-6a7d-46f1-99af-9c46c4d33785": {
       "type": "custom-liquid",
       "custom_css": [
-        "h2 {text-align: center; font-size: 2rem; font-weight: 500; padding: 0 150px; color: #002c00;}"
+        "h2 {text-align: center; font-size: 2rem; font-weight: 500; padding: 0 180px; color: #002c00;}"
       ],
       "settings": {
         "custom_liquid": "<h2>SUWASTHI is a quality-driven, premium brand that specializes in developing innovative products that are unique but natural in their formulations and deliver the results as promised.<\/h2>",
@@ -49,8 +49,8 @@
       "type": "custom-liquid",
       "custom_css": [
         ".headingContainer {justify-content: center; align-items: center; display: flex;}",
-        ".hrBack {height: 3px; width: 100%; border: none; background-color: #002c00; position: absolute;}",
-        ".hrText {font-size: 4rem; font-weight: 600; width: fit-content; color: #002c00; text-align: center; margin: 0; padding: 0 30px; background-color: white; position: relative;}"
+        ".hrBack {height: 1.5px; width: 100%; border: none; background-color: #002c00; position: absolute;}",
+        ".hrText {font-size: 5rem; font-weight: 600; width: fit-content; color: #002c00; text-align: center; margin: 0; padding: 0 30px; background-color: white; position: relative;}"
       ],
       "settings": {
         "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Standards<\/p>\n    <\/div>",
@@ -62,8 +62,8 @@
     "9cdafaa8-a70d-4752-aedc-cf579719c6b9": {
       "type": "custom-liquid",
       "custom_css": [
-        ".iconsStripContainer {display: flex; justify-content: space-between; padding: 0 150px; align-items: start;}",
-        ".iconsStripContainer img {width: 10%; height: auto;}"
+        ".iconsStripContainer {display: flex; justify-content: space-between; padding: 0 180px; align-items: start;}",
+        ".iconsStripContainer img {width: 8%; height: auto;}"
       ],
       "settings": {
         "custom_liquid": "<div class=\"iconsStripContainer\">\n            <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_4.png?v=1695550498 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_3.png?v=1695550498 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_1.png?v=1695550498 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_2.png?v=1695550498 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_5.png?v=1695550498 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_6.png?v=1695550498 alt=\"\">\n    <\/div>",
@@ -76,8 +76,8 @@
       "type": "custom-liquid",
       "custom_css": [
         ".headingContainer {justify-content: center; align-items: center; display: flex;}",
-        ".hrBack {height: 3px; width: 100%; border: none; background-color: #002c00; position: absolute;}",
-        ".hrText {font-size: 4rem; font-weight: 600; width: fit-content; color: #002c00; text-align: center; margin: 0; padding: 0 30px; background-color: white; position: relative;}"
+        ".hrBack {height: 1.5px; width: 100%; border: none; background-color: #002c00; position: absolute;}",
+        ".hrText {font-size: 5rem; font-weight: 600; width: fit-content; color: #002c00; text-align: center; margin: 0; padding: 0 30px; background-color: white; position: relative;}"
       ],
       "settings": {
         "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Shop By Category<\/p>\n    <\/div>",
@@ -89,22 +89,22 @@
     "191fe880-6070-4fed-b39d-a4af438a4777": {
       "type": "custom-liquid",
       "custom_css": [
-        ".iconsStripContainer {display: flex; justify-content: space-between; padding: 0 150px; align-items: end;}",
-        ".iconsStripContainer img {width: 20%; height: auto;}"
+        ".iconsStripContainer {display: flex; justify-content: space-between; padding: 0 180px; align-items: end;}",
+        ".iconsStripContainer img {width: 16%; height: auto;}"
       ],
       "settings": {
         "custom_liquid": "<div class=\"iconsStripContainer\">\n        <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_9.png?v=1695550914 alt=\"\">\n        <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_7.png?v=1695550914  alt=\"\">\n        <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_8.png?v=1695550915 alt=\"\">\n        <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_10.png?v=1695550915 alt=\"\">\n    <\/div>",
         "color_scheme": "",
-        "padding_top": 24,
-        "padding_bottom": 24
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "017306f0-7fc7-4b1f-83a0-850f48dc0893": {
       "type": "custom-liquid",
       "custom_css": [
         ".headingContainer {justify-content: center; align-items: center; display: flex;}",
-        ".hrBack {height: 3px; width: 100%; border: none; background-color: #002c00; position: absolute;}",
-        ".hrText {font-size: 4rem; font-weight: 600; width: fit-content; color: #002c00; text-align: center; margin: 0; padding: 0 30px; background-color: white; position: relative;}"
+        ".hrBack {height: 1.5px; width: 100%; border: none; background-color: #002c00; position: absolute;}",
+        ".hrText {font-size: 5rem; font-weight: 600; width: fit-content; color: #002c00; text-align: center; margin: 0; padding: 0 30px; background-color: white; position: relative;}"
       ],
       "settings": {
         "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Our Diabetic Range<\/p>\n    <\/div>",
@@ -117,8 +117,8 @@
       "type": "custom-liquid",
       "custom_css": [
         ".headingContainer {justify-content: center; align-items: center; display: flex;}",
-        ".hrBack {height: 3px; width: 100%; border: none; background-color: #002c00; position: absolute;}",
-        ".hrText {font-size: 4rem; font-weight: 600; width: fit-content; color: #002c00; text-align: center; margin: 0; padding: 0 30px; background-color: white; position: relative;}"
+        ".hrBack {height: 1.5px; width: 100%; border: none; background-color: #002c00; position: absolute;}",
+        ".hrText {font-size: 5rem; font-weight: 600; width: fit-content; color: #002c00; text-align: center; margin: 0; padding: 0 30px; background-color: white; position: relative;}"
       ],
       "settings": {
         "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Our Bestsellers<\/p>\n    <\/div>",
@@ -131,8 +131,8 @@
       "type": "custom-liquid",
       "custom_css": [
         ".headingContainer {justify-content: center; align-items: center; display: flex;}",
-        ".hrBack {height: 3px; width: 100%; border: none; background-color: #002c00; position: absolute;}",
-        ".hrText {font-size: 4rem; font-weight: 600; width: fit-content; color: #002c00; text-align: center; margin: 0; padding: 0 30px; background-color: white; position: relative;}"
+        ".hrBack {height: 1.5px; width: 100%; border: none; background-color: #002c00; position: absolute;}",
+        ".hrText {font-size: 5rem; font-weight: 600; width: fit-content; color: #002c00; text-align: center; margin: 0; padding: 0 30px; background-color: white; position: relative;}"
       ],
       "settings": {
         "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Why Suwasthi?<\/p>\n    <\/div>",
@@ -145,8 +145,8 @@
       "type": "custom-liquid",
       "custom_css": [
         ".headingContainer {justify-content: center; align-items: center; display: flex;}",
-        ".hrBack {height: 3px; width: 100%; border: none; background-color: #002c00; position: absolute;}",
-        ".hrText {font-size: 4rem; font-weight: 600; width: fit-content; color: #002c00; text-align: center; margin: 0; padding: 0 30px; background-color: white; position: relative;}"
+        ".hrBack {height: 1.5px; width: 100%; border: none; background-color: #002c00; position: absolute;}",
+        ".hrText {font-size: 5rem; font-weight: 600; width: fit-content; color: #002c00; text-align: center; margin: 0; padding: 0 30px; background-color: white; position: relative;}"
       ],
       "settings": {
         "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Testimonials<\/p>\n    <\/div>",
