@@ -384,7 +384,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".CallBanner {background-color: #002c00; width: 100%; height: fit-content; display: flex; flex-direction: column; justify-content: center; align-items: center; padding-top:20px;}",
+      ".CallBanner {background-color: #002c00; width: 100%; height: fit-content; display: flex; flex-direction: column; justify-content: center; align-items: center; padding-top: 20px;}",
       ".CallBannerHeading {font-size: 4rem; color: white; font-weight: 600; text-align: center; margin-top: 10px; margin-bottom: 0;}",
       ".CallBannerSubHeading {font-size: 2.2rem; color: white; font-weight: 100; text-align: center; margin-bottom: 10px; margin-top: 0;}",
       ".CallBannerFlex {display: flex; width: 100%; justify-content: center; align-items: center; justify-content: space-between; padding: 0 180px; margin-top: 10px;}",
