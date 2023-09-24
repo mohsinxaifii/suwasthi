@@ -1,0 +1,41 @@
+<div class="product-grid">
+  {% for product in collection.products %}
+    <div class="product-card">
+      <div class="product-card">
+        <div class="product-image">
+          <img src="{{ product.featured_image | product_img_url: 'medium' }}" alt="{{ product.title }}" />
+        </div>
+
+        <div class="product-info">
+          <h2 class="product-title">{{ product.title }}</h2>
+          <p class="product-subtitle">{{ product.metafields.global.subheading }}</p>
+
+          <div class="product-rating">
+            {% for i in (1..product.rating) %}
+              <span class="star-filled"></span>
+            {% endfor %}
+          </div>
+
+          <div class="product-prices">
+            <span class="product-price">{{ product.price | money }}</span>
+
+            {% if product.compare_at_price > product.price %}
+              <span class="product-discounted-price">{{ product.compare_at_price | money }}</span>
+            {% endif %}
+          </div>
+
+          {% if product.options.size %}
+            <label for="product-size">Size:</label>
+            <select name="id" id="product-size">
+              {% for variant in product.variants %}
+                <option value="{{ variant.id }}">{{ variant.title }}</option>
+              {% endfor %}
+            </select>
+          {% endif %}
+
+          <button class="add-to-cart">Add to Cart</button>
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+</div>
