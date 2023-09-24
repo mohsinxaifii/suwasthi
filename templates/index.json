@@ -31,7 +31,7 @@
     "c1fbb697-3bd4-4539-bbc2-188f71cbea5c": {
       "type": "video",
       "custom_css": [
-        "video:{padding: 0 200px;}"
+        "video: {padding: 0 200px;}"
       ],
       "settings": {
         "heading": "",
@@ -45,32 +45,88 @@
         "padding_bottom": 36
       }
     },
-    "featured_collection": {
-      "type": "featured-collection",
+    "65dac945-f2c4-448b-965f-048de3de2420": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".headingContainer {justify-content: center; align-items: center; display: flex;}",
+        ".hrBack {height: 3px; width: 100%; border: none; background-color: #002c00; position: absolute;}",
+        ".hrText {font-size: 4rem; font-weight: 600; width: fit-content; color: #002c00; text-align: center; margin: 0; padding: 0 30px; background-color: white; position: relative;}"
+      ],
       "settings": {
-        "title": "Featured products",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "all",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 44,
-        "padding_bottom": 36
+        "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Standards<\/p>\n    <\/div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "5712053d-e04e-45ce-bde6-87afcdad8edd": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".headingContainer {justify-content: center; align-items: center; display: flex;}",
+        ".hrBack {height: 3px; width: 100%; border: none; background-color: #002c00; position: absolute;}",
+        ".hrText {font-size: 4rem; font-weight: 600; width: fit-content; color: #002c00; text-align: center; margin: 0; padding: 0 30px; background-color: white; position: relative;}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Shop By Category<\/p>\n    <\/div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "017306f0-7fc7-4b1f-83a0-850f48dc0893": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".headingContainer {justify-content: center; align-items: center; display: flex;}",
+        ".hrBack {height: 3px; width: 100%; border: none; background-color: #002c00; position: absolute;}",
+        ".hrText {font-size: 4rem; font-weight: 600; width: fit-content; color: #002c00; text-align: center; margin: 0; padding: 0 30px; background-color: white; position: relative;}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Our Diabetic Range<\/p>\n    <\/div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "68c20044-34d4-4887-b0e0-5bd2d89af994": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".headingContainer {justify-content: center; align-items: center; display: flex;}",
+        ".hrBack {height: 3px; width: 100%; border: none; background-color: #002c00; position: absolute;}",
+        ".hrText {font-size: 4rem; font-weight: 600; width: fit-content; color: #002c00; text-align: center; margin: 0; padding: 0 30px; background-color: white; position: relative;}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Our Bestsellers<\/p>\n    <\/div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "3e47b047-f29d-4309-a5e8-298d29cd67db": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".headingContainer {justify-content: center; align-items: center; display: flex;}",
+        ".hrBack {height: 3px; width: 100%; border: none; background-color: #002c00; position: absolute;}",
+        ".hrText {font-size: 4rem; font-weight: 600; width: fit-content; color: #002c00; text-align: center; margin: 0; padding: 0 30px; background-color: white; position: relative;}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Why Suwasthi?<\/p>\n    <\/div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "3ee70ec9-6834-4f3f-b0ed-fb85aed5dbb8": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".headingContainer {justify-content: center; align-items: center; display: flex;}",
+        ".hrBack {height: 3px; width: 100%; border: none; background-color: #002c00; position: absolute;}",
+        ".hrText {font-size: 4rem; font-weight: 600; width: fit-content; color: #002c00; text-align: center; margin: 0; padding: 0 30px; background-color: white; position: relative;}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Testimonials<\/p>\n    <\/div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
@@ -78,6 +134,11 @@
     "image_banner",
     "feeaaa21-6a7d-46f1-99af-9c46c4d33785",
     "c1fbb697-3bd4-4539-bbc2-188f71cbea5c",
-    "featured_collection"
+    "65dac945-f2c4-448b-965f-048de3de2420",
+    "5712053d-e04e-45ce-bde6-87afcdad8edd",
+    "017306f0-7fc7-4b1f-83a0-850f48dc0893",
+    "68c20044-34d4-4887-b0e0-5bd2d89af994",
+    "3e47b047-f29d-4309-a5e8-298d29cd67db",
+    "3ee70ec9-6834-4f3f-b0ed-fb85aed5dbb8"
   ]
 }
