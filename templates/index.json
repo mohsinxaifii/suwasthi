@@ -3,6 +3,24 @@
     "ff8314f7-c33c-4d1f-93ca-898087b59d36": {
       "type": "slideshow",
       "blocks": {
+        "0ba57668-4f6f-4b40-86a5-008f293b1e95": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lovepik-green-banner-background-image_500371079.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
         "template--21109731819838__ff8314f7-c33c-4d1f-93ca-898087b59d36-slide-1": {
           "type": "slide",
           "settings": {
@@ -20,48 +38,11 @@
             "color_scheme": "",
             "text_alignment_mobile": "center"
           }
-        },
-        "1838f119-08b0-45de-afbe-acb2754afffd": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Group_17.png",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "98d50523-4bea-4cb2-b886-9e4e89695643": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Group_17.png",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
-          }
         }
       },
       "block_order": [
-        "template--21109731819838__ff8314f7-c33c-4d1f-93ca-898087b59d36-slide-1",
-        "1838f119-08b0-45de-afbe-acb2754afffd",
-        "98d50523-4bea-4cb2-b886-9e4e89695643"
+        "0ba57668-4f6f-4b40-86a5-008f293b1e95",
+        "template--21109731819838__ff8314f7-c33c-4d1f-93ca-898087b59d36-slide-1"
       ],
       "settings": {
         "layout": "full_bleed",
