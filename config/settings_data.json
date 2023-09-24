@@ -1,7 +1,6 @@
 {
   "current": {
-    "logo": "shopify:\/\/shop_images\/Layer_10.png",
-    "logo_width": 60,
+    "logo_width": 50,
     "type_header_font": "assistant_n4",
     "heading_scale": 100,
     "type_body_font": "assistant_n4",
@@ -142,7 +141,7 @@
           "text": "#002900",
           "button": "#002900",
           "button_label": "#ffffff",
-          "secondary_button_label": "#fff",
+          "secondary_button_label": "#ffffff",
           "shadow": "#121212"
         }
       },

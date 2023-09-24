@@ -19,13 +19,13 @@
     "feeaaa21-6a7d-46f1-99af-9c46c4d33785": {
       "type": "custom-liquid",
       "custom_css": [
-        "h2 {text-align: center; font-size: 2rem; font-weight: 600; padding: 0 100px; color: #002c00;}"
+        "h2 {text-align: center; font-size: 2rem; font-weight: 500; padding: 0 150px; color: #002c00;}"
       ],
       "settings": {
         "custom_liquid": "<h2>SUWASTHI is a quality-driven, premium brand that specializes in developing innovative products that are unique but natural in their formulations and deliver the results as promised.<\/h2>",
         "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "c1fbb697-3bd4-4539-bbc2-188f71cbea5c": {
@@ -35,14 +35,14 @@
       ],
       "settings": {
         "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": false,
+        "heading_size": "h2",
+        "enable_video_looping": true,
         "video_url": "https:\/\/www.youtube.com\/watch?v=zBtwd2OfZsI",
         "description": "",
         "full_width": true,
         "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "65dac945-f2c4-448b-965f-048de3de2420": {
