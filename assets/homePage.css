@@ -1,0 +1,68 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'poppins', sans-serif;
+}
+.homePageBanner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: auto;
+}
+.homePageBanner img{
+    width: 100%;
+    height: auto;
+}
+.homePageBannerDescription {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+    padding: 0 10vw;
+}
+.homePageBannerDescriptionText{
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: #002c00;
+}
+.homePageVideoContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: auto;
+}
+.homePageVideoContainer video{
+    width: 80%;
+    height: auto;
+    border-radius: 20px;
+}
+
+.headingContainer{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.hrBack{
+    height: 2px;
+    width: 100%;
+    border: none;
+    background-color: #002c00;
+    position: absolute;
+
+}
+.hrText{
+    font-size: 2rem;
+    font-weight: 600;
+    width: fit-content;
+    color: #002c00;
+    text-align: center;
+    margin: 0;
+    padding: 0 30px;
+    background-color: white;
+    position: relative;
+}
