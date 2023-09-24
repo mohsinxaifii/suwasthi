@@ -64,8 +64,8 @@
       "settings": {
         "custom_liquid": "<div class=\"iconsStripContainer\">\n            <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_4.png?v=1695550498 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_3.png?v=1695550498 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_1.png?v=1695550498 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_2.png?v=1695550498 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_5.png?v=1695550498 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_6.png?v=1695550498 alt=\"\">\n    <\/div>",
         "color_scheme": "",
-        "padding_top": 24,
-        "padding_bottom": 24
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "5712053d-e04e-45ce-bde6-87afcdad8edd": {
@@ -109,37 +109,6 @@
         "padding_bottom": 52
       }
     },
-    "7765811d-b258-4bdb-836b-6d34895f2a60": {
-      "type": "featured-collection",
-      "custom_css": [
-
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "",
-        "products_to_show": 2,
-        "columns_desktop": 3,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": false,
-        "color_scheme": "",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": true,
-        "show_rating": true,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "68c20044-34d4-4887-b0e0-5bd2d89af994": {
       "type": "custom-liquid",
       "custom_css": [
@@ -154,34 +123,6 @@
         "padding_bottom": 52
       }
     },
-    "24fcdce1-c5a9-4250-8a43-25421416d31c": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "",
-        "products_to_show": 2,
-        "columns_desktop": 3,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": false,
-        "color_scheme": "",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": true,
-        "show_rating": true,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "8696c76d-508a-4dec-800b-8181c9f6c309": {
       "type": "custom-liquid",
       "custom_css": [
@@ -190,7 +131,7 @@
       "settings": {
         "custom_liquid": "<div class=\"CallBanner\">\n        <p class=\"CallBannerHeading\">Still Confused to find the best one for you?<\/p>\n        <p class=\"CallBannerSubHeading\">No Worries, We weill help you<\/p>\n        <div class=\"CallBannerFlex\">\n            <div class=\"CallBannerFlexLinks\">\n                <div class=\"CallBannerFlexLink\">\n                    <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" height=\"1em\" viewBox=\"0 0 448 512\"><!--! Font Awesome Free 6.4.2 by @fontawesome - https:\/\/fontawesome.com License - https:\/\/fontawesome.com\/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z\"\/><\/svg>\n                    <p class=\"CallBannerFlexLinkText\">Book a Free Appointment with Our Best Doctors<\/p>\n                <\/div>\n                <div class=\"CallBannerFlexLink\">\n                    <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" height=\"1em\" viewBox=\"0 0 448 512\"><!--! Font Awesome Free 6.4.2 by @fontawesome - https:\/\/fontawesome.com License - https:\/\/fontawesome.com\/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z\"\/><\/svg>\n                    <p class=\"CallBannerFlexLinkText\">Answer to all your Questions with a Personalised Answer<\/p>\n                <\/div>\n            <\/div>\n            <div class=\"CallBannerFlexImgContainer\">\n                                <img class=\"CallBannerFlexImg\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Layer_14.png?v=1695560175\" alt=\"\">\n\n            <\/div>\n        <\/div>\n    <\/div>",
         "color_scheme": "",
-        "padding_top": 24,
+        "padding_top": 0,
         "padding_bottom": 0
       }
     },
@@ -296,9 +237,7 @@
     "5712053d-e04e-45ce-bde6-87afcdad8edd",
     "191fe880-6070-4fed-b39d-a4af438a4777",
     "017306f0-7fc7-4b1f-83a0-850f48dc0893",
-    "7765811d-b258-4bdb-836b-6d34895f2a60",
     "68c20044-34d4-4887-b0e0-5bd2d89af994",
-    "24fcdce1-c5a9-4250-8a43-25421416d31c",
     "8696c76d-508a-4dec-800b-8181c9f6c309",
     "3e47b047-f29d-4309-a5e8-298d29cd67db",
     "16ecc9dc-dba5-463a-9c34-d04333ecfb8f",
