@@ -220,20 +220,6 @@
         "padding_bottom": 0
       }
     },
-    "3ee70ec9-6834-4f3f-b0ed-fb85aed5dbb8": {
-      "type": "custom-liquid",
-      "custom_css": [
-        ".headingContainer {justify-content: center; align-items: center; display: flex;}",
-        ".hrBack {height: 1.5px; width: 100%; border: none; background-color: #002c00; position: absolute;}",
-        ".hrText {font-size: 5rem; font-weight: 600; width: fit-content; color: #002c00; text-align: center; margin: 0; padding: 0 30px; background-color: white; position: relative;}"
-      ],
-      "settings": {
-        "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Testimonials<\/p>\n    <\/div>",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "e4a47204-661f-4438-a541-0f8b56437fe3": {
       "type": "custom-liquid",
       "custom_css": [
@@ -282,7 +268,34 @@
         "custom_liquid": "<div class=\"suwasthiHomeAboutBlockLeftContainer\">\n        <div class=\"BlockLeftText\">\n            <p class=\"BlockLeftTextHeading\">Close to nature as it is the best healer<\/p>\n            <p class=\"BlockLeftTextParagraph\">Formulated with the ancient rarest herbs derived from the nature, loaded with powerful ingredients based on ayurveda which have visible results . We go the extra mile to extract the best from nature's vast repertoire<\/p>\n        <\/div>\n        <div class=\"BlockLeftImgContainer\">\n            <img class=\"BlockLeftImg\" src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Layer_15.png?v=1695565020 alt=\"\">\n        <\/div>\n    <\/div>",
         "color_scheme": "",
         "padding_top": 0,
-        "padding_bottom": 24
+        "padding_bottom": 0
+      }
+    },
+    "3ee70ec9-6834-4f3f-b0ed-fb85aed5dbb8": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".headingContainer {justify-content: center; align-items: center; display: flex;}",
+        ".hrBack {height: 1.5px; width: 100%; border: none; background-color: #002c00; position: absolute;}",
+        ".hrText {font-size: 5rem; font-weight: 600; width: fit-content; color: #002c00; text-align: center; margin: 0; padding: 0 30px; background-color: white; position: relative;}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Testimonials<\/p>\n    <\/div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "9290b968-425c-45a3-bb16-e5e10bd7b47d": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".videoContainer {display: flex; align-items: center; justify-content: center; width: 100%; padding: 0 180px; margin: 0;}",
+        ".videoContainer video {width: 100%; margin: 0; border-radius: 20px;}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"videoContainer\">\n        <video controls src=\"\"><\/video>\n    <\/div>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     }
   },
@@ -299,9 +312,10 @@
     "8696c76d-508a-4dec-800b-8181c9f6c309",
     "3e47b047-f29d-4309-a5e8-298d29cd67db",
     "16ecc9dc-dba5-463a-9c34-d04333ecfb8f",
-    "3ee70ec9-6834-4f3f-b0ed-fb85aed5dbb8",
     "e4a47204-661f-4438-a541-0f8b56437fe3",
     "1517112b-7937-458e-ab68-6396f999ed5f",
-    "fa55cb20-6407-4cd7-afa1-9d5e7ae5cdae"
+    "fa55cb20-6407-4cd7-afa1-9d5e7ae5cdae",
+    "3ee70ec9-6834-4f3f-b0ed-fb85aed5dbb8",
+    "9290b968-425c-45a3-bb16-e5e10bd7b47d"
   ]
 }
