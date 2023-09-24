@@ -302,8 +302,8 @@
       "type": "custom-liquid",
       "custom_css": [
         ".testimonialsContentContainer {display: flex; gap: 30px; justify-content: center; align-items: center; width: 100%; padding: 0 180px;}",
-        ".testimonialsLeftText {text-align: left; color: #002c00; font-weight: 300; font-size: 3rem;}",
-        ".countdown {color: #42200a; font-weight: 600; font-size: 5rem;}",
+        ".testimonialsLeftText {text-align: left; color: #002c00; font-weight: 600; font-size: 4rem;}",
+        ".countdown {color: #42200a; font-weight: 600; font-size: 6rem;}",
         ".testimonialsRightImg {width: 30vw;}"
       ],
       "settings": {
