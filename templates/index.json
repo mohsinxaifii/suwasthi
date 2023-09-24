@@ -1,25 +1,83 @@
 {
   "sections": {
-    "image_banner": {
-      "type": "image-banner",
+    "ff8314f7-c33c-4d1f-93ca-898087b59d36": {
+      "type": "slideshow",
+      "blocks": {
+        "template--21109731819838__ff8314f7-c33c-4d1f-93ca-898087b59d36-slide-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_17.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "1838f119-08b0-45de-afbe-acb2754afffd": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_17.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "98d50523-4bea-4cb2-b886-9e4e89695643": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_17.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--21109731819838__ff8314f7-c33c-4d1f-93ca-898087b59d36-slide-1",
+        "1838f119-08b0-45de-afbe-acb2754afffd",
+        "98d50523-4bea-4cb2-b886-9e4e89695643"
+      ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Group_17.png",
-        "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "desktop_content_position": "bottom-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "inverse",
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 3,
         "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
       }
     },
     "feeaaa21-6a7d-46f1-99af-9c46c4d33785": {
       "type": "custom-liquid",
       "custom_css": [
-        "h2 {text-align: center; font-size: 2rem; font-weight: 500; padding: 0 150px; color: #002c00;}"
+        "h2 {text-align: center; font-size: 2rem; font-weight: 500; padding: 0 180px; color: #002c00;}"
       ],
       "settings": {
         "custom_liquid": "<h2>SUWASTHI is a quality-driven, premium brand that specializes in developing innovative products that are unique but natural in their formulations and deliver the results as promised.<\/h2>",
@@ -28,18 +86,14 @@
         "padding_bottom": 20
       }
     },
-    "c1fbb697-3bd4-4539-bbc2-188f71cbea5c": {
-      "type": "video",
+    "f5ecb6a3-02f6-4738-89d6-8e4d1c28da93": {
+      "type": "custom-liquid",
       "custom_css": [
-        "video: {padding: 0 200px;}"
+        ".videoContainer {display: flex; align-items: center; justify-content: center; width: 100%; padding: 0 180px; margin: 0;}",
+        ".videoContainer video {width: 100%; margin: 0; border-radius: 20px;}"
       ],
       "settings": {
-        "heading": "",
-        "heading_size": "h2",
-        "enable_video_looping": true,
-        "video_url": "https:\/\/www.youtube.com\/watch?v=zBtwd2OfZsI",
-        "description": "",
-        "full_width": true,
+        "custom_liquid": "<div class=\"videoContainer\">\n        <video controls src=\"\"><\/video>\n    <\/div>",
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 0
@@ -49,8 +103,8 @@
       "type": "custom-liquid",
       "custom_css": [
         ".headingContainer {justify-content: center; align-items: center; display: flex;}",
-        ".hrBack {height: 3px; width: 100%; border: none; background-color: #002c00; position: absolute;}",
-        ".hrText {font-size: 4rem; font-weight: 600; width: fit-content; color: #002c00; text-align: center; margin: 0; padding: 0 30px; background-color: white; position: relative;}"
+        ".hrBack {height: 1.5px; width: 100%; border: none; background-color: #002c00; position: absolute;}",
+        ".hrText {font-size: 5rem; font-weight: 600; width: fit-content; color: #002c00; text-align: center; margin: 0; padding: 0 30px; background-color: white; position: relative;}"
       ],
       "settings": {
         "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Standards<\/p>\n    <\/div>",
@@ -62,22 +116,22 @@
     "9cdafaa8-a70d-4752-aedc-cf579719c6b9": {
       "type": "custom-liquid",
       "custom_css": [
-        ".iconsStripContainer {display: flex; justify-content: space-between; padding: 0 150px; align-items: start;}",
-        ".iconsStripContainer img {width: 10%; height: auto;}"
+        ".iconsStripContainer {display: flex; justify-content: space-between; padding: 0 180px; align-items: start;}",
+        ".iconsStripContainer img {width: 8%; height: auto;}"
       ],
       "settings": {
         "custom_liquid": "<div class=\"iconsStripContainer\">\n            <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_4.png?v=1695550498 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_3.png?v=1695550498 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_1.png?v=1695550498 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_2.png?v=1695550498 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_5.png?v=1695550498 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_6.png?v=1695550498 alt=\"\">\n    <\/div>",
         "color_scheme": "",
-        "padding_top": 24,
-        "padding_bottom": 24
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "5712053d-e04e-45ce-bde6-87afcdad8edd": {
       "type": "custom-liquid",
       "custom_css": [
         ".headingContainer {justify-content: center; align-items: center; display: flex;}",
-        ".hrBack {height: 3px; width: 100%; border: none; background-color: #002c00; position: absolute;}",
-        ".hrText {font-size: 4rem; font-weight: 600; width: fit-content; color: #002c00; text-align: center; margin: 0; padding: 0 30px; background-color: white; position: relative;}"
+        ".hrBack {height: 1.5px; width: 100%; border: none; background-color: #002c00; position: absolute;}",
+        ".hrText {font-size: 5rem; font-weight: 600; width: fit-content; color: #002c00; text-align: center; margin: 0; padding: 0 30px; background-color: white; position: relative;}"
       ],
       "settings": {
         "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Shop By Category<\/p>\n    <\/div>",
@@ -89,22 +143,22 @@
     "191fe880-6070-4fed-b39d-a4af438a4777": {
       "type": "custom-liquid",
       "custom_css": [
-        ".iconsStripContainer {display: flex; justify-content: space-between; padding: 0 150px; align-items: end;}",
-        ".iconsStripContainer img {width: 20%; height: auto;}"
+        ".iconsStripContainer {display: flex; justify-content: space-between; padding: 0 180px; align-items: end;}",
+        ".iconsStripContainer img {width: 16%; height: auto;}"
       ],
       "settings": {
         "custom_liquid": "<div class=\"iconsStripContainer\">\n        <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_9.png?v=1695550914 alt=\"\">\n        <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_7.png?v=1695550914  alt=\"\">\n        <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_8.png?v=1695550915 alt=\"\">\n        <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_10.png?v=1695550915 alt=\"\">\n    <\/div>",
         "color_scheme": "",
-        "padding_top": 24,
-        "padding_bottom": 24
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "017306f0-7fc7-4b1f-83a0-850f48dc0893": {
       "type": "custom-liquid",
       "custom_css": [
         ".headingContainer {justify-content: center; align-items: center; display: flex;}",
-        ".hrBack {height: 3px; width: 100%; border: none; background-color: #002c00; position: absolute;}",
-        ".hrText {font-size: 4rem; font-weight: 600; width: fit-content; color: #002c00; text-align: center; margin: 0; padding: 0 30px; background-color: white; position: relative;}"
+        ".hrBack {height: 1.5px; width: 100%; border: none; background-color: #002c00; position: absolute;}",
+        ".hrText {font-size: 5rem; font-weight: 600; width: fit-content; color: #002c00; text-align: center; margin: 0; padding: 0 30px; background-color: white; position: relative;}"
       ],
       "settings": {
         "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Our Diabetic Range<\/p>\n    <\/div>",
@@ -117,8 +171,8 @@
       "type": "custom-liquid",
       "custom_css": [
         ".headingContainer {justify-content: center; align-items: center; display: flex;}",
-        ".hrBack {height: 3px; width: 100%; border: none; background-color: #002c00; position: absolute;}",
-        ".hrText {font-size: 4rem; font-weight: 600; width: fit-content; color: #002c00; text-align: center; margin: 0; padding: 0 30px; background-color: white; position: relative;}"
+        ".hrBack {height: 1.5px; width: 100%; border: none; background-color: #002c00; position: absolute;}",
+        ".hrText {font-size: 5rem; font-weight: 600; width: fit-content; color: #002c00; text-align: center; margin: 0; padding: 0 30px; background-color: white; position: relative;}"
       ],
       "settings": {
         "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Our Bestsellers<\/p>\n    <\/div>",
@@ -127,12 +181,24 @@
         "padding_bottom": 52
       }
     },
+    "8696c76d-508a-4dec-800b-8181c9f6c309": {
+      "type": "custom-liquid",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"CallBanner\">\n        <p class=\"CallBannerHeading\">Still Confused to find the best one for you?<\/p>\n        <p class=\"CallBannerSubHeading\">No Worries, We weill help you<\/p>\n        <div class=\"CallBannerFlex\">\n            <div class=\"CallBannerFlexLinks\">\n                <div class=\"CallBannerFlexLink\">\n                    <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" height=\"1em\" viewBox=\"0 0 448 512\"><!--! Font Awesome Free 6.4.2 by @fontawesome - https:\/\/fontawesome.com License - https:\/\/fontawesome.com\/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z\"\/><\/svg>\n                    <p class=\"CallBannerFlexLinkText\">Book a Free Appointment with Our Best Doctors<\/p>\n                <\/div>\n                <div class=\"CallBannerFlexLink\">\n                    <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" height=\"1em\" viewBox=\"0 0 448 512\"><!--! Font Awesome Free 6.4.2 by @fontawesome - https:\/\/fontawesome.com License - https:\/\/fontawesome.com\/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z\"\/><\/svg>\n                    <p class=\"CallBannerFlexLinkText\">Answer to all your Questions with a Personalised Answer<\/p>\n                <\/div>\n            <\/div>\n            <div class=\"CallBannerFlexImgContainer\">\n                                <img class=\"CallBannerFlexImg\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Layer_14.png?v=1695560175\" alt=\"\">\n\n            <\/div>\n        <\/div>\n    <\/div>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "3e47b047-f29d-4309-a5e8-298d29cd67db": {
       "type": "custom-liquid",
       "custom_css": [
         ".headingContainer {justify-content: center; align-items: center; display: flex;}",
-        ".hrBack {height: 3px; width: 100%; border: none; background-color: #002c00; position: absolute;}",
-        ".hrText {font-size: 4rem; font-weight: 600; width: fit-content; color: #002c00; text-align: center; margin: 0; padding: 0 30px; background-color: white; position: relative;}"
+        ".hrBack {height: 1.5px; width: 100%; border: none; background-color: #002c00; position: absolute;}",
+        ".hrText {font-size: 5rem; font-weight: 600; width: fit-content; color: #002c00; text-align: center; margin: 0; padding: 0 30px; background-color: white; position: relative;}"
       ],
       "settings": {
         "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Why Suwasthi?<\/p>\n    <\/div>",
@@ -141,12 +207,25 @@
         "padding_bottom": 52
       }
     },
+    "16ecc9dc-dba5-463a-9c34-d04333ecfb8f": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".iconsStripContainer {display: flex; justify-content: space-between; padding: 0 180px; align-items: start;}",
+        ".iconsStripContainer img {width: 8%; height: auto;}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"iconsStripContainer\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_16.png?v=1695561175 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_13.png?v=1695561174 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_11.png?v=1695561175 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_14.png?v=1695561174 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_15.png?v=1695561174 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_12.png?v=1695561174 alt=\"\">\n    <\/div>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "3ee70ec9-6834-4f3f-b0ed-fb85aed5dbb8": {
       "type": "custom-liquid",
       "custom_css": [
         ".headingContainer {justify-content: center; align-items: center; display: flex;}",
-        ".hrBack {height: 3px; width: 100%; border: none; background-color: #002c00; position: absolute;}",
-        ".hrText {font-size: 4rem; font-weight: 600; width: fit-content; color: #002c00; text-align: center; margin: 0; padding: 0 30px; background-color: white; position: relative;}"
+        ".hrBack {height: 1.5px; width: 100%; border: none; background-color: #002c00; position: absolute;}",
+        ".hrText {font-size: 5rem; font-weight: 600; width: fit-content; color: #002c00; text-align: center; margin: 0; padding: 0 30px; background-color: white; position: relative;}"
       ],
       "settings": {
         "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Testimonials<\/p>\n    <\/div>",
@@ -155,47 +234,74 @@
         "padding_bottom": 52
       }
     },
-    "7765811d-b258-4bdb-836b-6d34895f2a60": {
-      "type": "featured-collection",
+    "e4a47204-661f-4438-a541-0f8b56437fe3": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".suwasthiHomeAboutBlockLeftContainer {display: flex; align-items: center;}",
+        ".BlockLeftText {width: 100%; padding: 0 180px; position: absolute; z-index: 2;}",
+        ".BlockLeftTextHeading {font-size: 3.6rem; margin: 0; color: #002c00; font-weight: 600; text-align: left; line-height: 3rem;}",
+        ".BlockLeftTextParagraph {color: #002c00; font-size: 2.3rem; text-align: left; font-weight: 400; line-height: 3rem;}",
+        ".BlockLeftImgContainer {display: flex; justify-content: end; padding: 0 180px; width: 100%;}",
+        ".BlockLeftImg {height: 20vw; opacity: 0.7;}"
+      ],
       "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "",
-        "products_to_show": 2,
-        "columns_desktop": 2,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": false,
+        "custom_liquid": "<div class=\"suwasthiHomeAboutBlockLeftContainer\">\n        <div class=\"BlockLeftText\">\n            <p class=\"BlockLeftTextHeading\">Close to nature as it is the best healer<\/p>\n            <p class=\"BlockLeftTextParagraph\">Formulated with the ancient rarest herbs derived from the nature, loaded with powerful ingredients based on ayurveda which have visible results . We go the extra mile to extract the best from nature's vast repertoire<\/p>\n        <\/div>\n        <div class=\"BlockLeftImgContainer\">\n            <img class=\"BlockLeftImg\" src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Layer_13.png?v=1695565019 alt=\"\">\n        <\/div>\n    <\/div>",
         "color_scheme": "",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": true,
-        "show_rating": true,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 24
+      }
+    },
+    "1517112b-7937-458e-ab68-6396f999ed5f": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".suwasthiHomeAboutBlockLeftContainer {display: flex; align-items: center;}",
+        ".BlockLeftText {width: 100%; padding: 0 180px; position: absolute; z-index: 2;}",
+        ".BlockLeftTextHeading {font-size: 3.6rem; margin: 0; color: #002c00; font-weight: 600; text-align: right; line-height: 3rem;}",
+        ".BlockLeftTextParagraph {color: #002c00; font-size: 2.3rem; text-align: right; font-weight: 400; line-height: 3rem;}",
+        ".BlockLeftImgContainer {display: flex; justify-content: start; width: 100%; padding: 0 180px;}",
+        ".BlockLeftImg {height: 20vw; opacity: 0.7;}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"suwasthiHomeAboutBlockLeftContainer\">\n        <div class=\"BlockLeftText\">\n            <p class=\"BlockLeftTextHeading\">Close to nature as it is the best healer<\/p>\n            <p class=\"BlockLeftTextParagraph\">Formulated with the ancient rarest herbs derived from the nature, loaded with powerful ingredients based on ayurveda which have visible results . We go the extra mile to extract the best from nature's vast repertoire<\/p>\n        <\/div>\n        <div class=\"BlockLeftImgContainer\">\n            <img class=\"BlockLeftImg\" src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Layer_14_648e4dd5-4097-4503-9025-0b86387f1ec6.png?v=1695565020 alt=\"\">\n        <\/div>\n    <\/div>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 24
+      }
+    },
+    "fa55cb20-6407-4cd7-afa1-9d5e7ae5cdae": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".suwasthiHomeAboutBlockLeftContainer {display: flex; align-items: center;}",
+        ".BlockLeftText {width: 100%; padding: 0 180px; position: absolute; z-index: 2;}",
+        ".BlockLeftTextHeading {font-size: 3.6rem; margin: 0; color: #002c00; font-weight: 600; text-align: left; line-height: 3rem;}",
+        ".BlockLeftTextParagraph {color: #002c00; font-size: 2.3rem; text-align: left; font-weight: 400; line-height: 3rem;}",
+        ".BlockLeftImgContainer {display: flex; justify-content: end; padding: 0 180px; width: 100%;}",
+        ".BlockLeftImg {height: 20vw; opacity: 0.7;}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"suwasthiHomeAboutBlockLeftContainer\">\n        <div class=\"BlockLeftText\">\n            <p class=\"BlockLeftTextHeading\">Close to nature as it is the best healer<\/p>\n            <p class=\"BlockLeftTextParagraph\">Formulated with the ancient rarest herbs derived from the nature, loaded with powerful ingredients based on ayurveda which have visible results . We go the extra mile to extract the best from nature's vast repertoire<\/p>\n        <\/div>\n        <div class=\"BlockLeftImgContainer\">\n            <img class=\"BlockLeftImg\" src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Layer_15.png?v=1695565020 alt=\"\">\n        <\/div>\n    <\/div>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 24
       }
     }
   },
   "order": [
-    "image_banner",
+    "ff8314f7-c33c-4d1f-93ca-898087b59d36",
     "feeaaa21-6a7d-46f1-99af-9c46c4d33785",
-    "c1fbb697-3bd4-4539-bbc2-188f71cbea5c",
+    "f5ecb6a3-02f6-4738-89d6-8e4d1c28da93",
     "65dac945-f2c4-448b-965f-048de3de2420",
     "9cdafaa8-a70d-4752-aedc-cf579719c6b9",
     "5712053d-e04e-45ce-bde6-87afcdad8edd",
     "191fe880-6070-4fed-b39d-a4af438a4777",
     "017306f0-7fc7-4b1f-83a0-850f48dc0893",
     "68c20044-34d4-4887-b0e0-5bd2d89af994",
+    "8696c76d-508a-4dec-800b-8181c9f6c309",
     "3e47b047-f29d-4309-a5e8-298d29cd67db",
+    "16ecc9dc-dba5-463a-9c34-d04333ecfb8f",
     "3ee70ec9-6834-4f3f-b0ed-fb85aed5dbb8",
-    "7765811d-b258-4bdb-836b-6d34895f2a60"
+    "e4a47204-661f-4438-a541-0f8b56437fe3",
+    "1517112b-7937-458e-ab68-6396f999ed5f",
+    "fa55cb20-6407-4cd7-afa1-9d5e7ae5cdae"
   ]
 }
