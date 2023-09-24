@@ -68,8 +68,8 @@
       "settings": {
         "custom_liquid": "<div class=\"iconsStripContainer\">\n            <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_4.png?v=1695550498 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_3.png?v=1695550498 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_1.png?v=1695550498 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_2.png?v=1695550498 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_5.png?v=1695550498 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_6.png?v=1695550498 alt=\"\">\n    <\/div>",
         "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 0
+        "padding_top": 24,
+        "padding_bottom": 24
       }
     },
     "5712053d-e04e-45ce-bde6-87afcdad8edd": {
