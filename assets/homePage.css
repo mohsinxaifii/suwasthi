@@ -22,6 +22,22 @@ p{
     font-weight: 500;
     color: #002c00;
 }
+/* video */
+.videoContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 0 180px;
+    margin: 0;
+  }
+  .videoContainer video {
+    width: 100%;
+    margin: 0;
+    border-radius:20px;
+  }
+
+
 /* heading */
 .headingContainer {
     justify-content: center;
@@ -119,3 +135,143 @@ p{
     line-height: 1rem;
     font-weight: 500;
 }
+
+/* call banner */
+.CallBanner{
+    background-color: #002c00;
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.CallBannerHeading{
+    font-size: 2.8rem;
+    color: white;
+    font-weight: 600;
+    text-align: center;
+}
+.CallBannerSubHeading{
+    font-size: 1.8rem;
+    color: white;
+    font-weight: 200;
+    text-align: center;
+}
+.CallBannerFlex{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 180px;
+    margin-top: 10px;
+}
+.CallBannerFlexLinks {
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    gap: 30px;
+}
+.CallBannerFlexLink{
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+}
+.CallBannerFlexLink svg{
+    font-size: 4rem;
+    fill: #002c00;
+}
+.CallBannerFlexLinkText{
+    font-size: 2rem;
+    color: #002c00;
+    font-weight: 600;
+    text-align: left;
+}
+.CallBannerFlexImgContainer{
+    height: 400px;
+}
+.CallBannerFlexImg{
+    height: 400px;
+}
+
+/* Suwasthi about lines left */
+/* .suwasthiHomeAboutBlockLeftContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.BlockLeftText{
+    width: 100%;
+    padding: 0 180px;
+    position: absolute;
+    z-index: 2;
+}
+.BlockLeftTextHeading {
+    font-size: 3.6rem;
+    margin: 0;
+    color: #002c00;
+    font-weight: 600;
+    text-align: left;
+    line-height: 3rem;
+}
+.BlockLeftTextParagraph {
+    color: #002c00;
+    font-size: 2.3rem;
+    text-align: left;
+    font-weight: 400;
+    line-height: 3rem;
+}
+.BlockLeftImgContainer{
+    display: flex;
+    justify-content: end;
+    width: 100%;
+    padding: 0 180px;
+}
+.BlockLeftImg{
+    height: 20vw;
+    opacity: .7;
+} */
+
+/* Suwasthi about lines right */
+.suwasthiHomeAboutBlockLeftContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+.BlockLeftText{
+    width: 100%;
+    padding: 0 180px;
+    position: absolute;
+    z-index: 2
+}
+.BlockLeftTextHeading {
+    font-size: 3.6rem;
+    margin: 0;
+    color: #002c00;
+    font-weight: 600;
+    text-align: right;
+    line-height: 3rem
+}
+.BlockLeftTextParagraph {
+    color: #002c00;
+    font-size: 2.3rem;
+    text-align: right;
+    font-weight: 400;
+    line-height: 3rem
+}
+.BlockLeftImgContainer{
+    display: flex;
+    justify-content: start;
+    width: 100%;
+    padding: 0 180px
+}
+.BlockLeftImg{
+    height: 20vw;
+    opacity: .7
+}
+
