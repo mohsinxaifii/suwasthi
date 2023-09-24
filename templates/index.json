@@ -18,20 +18,31 @@
     },
     "feeaaa21-6a7d-46f1-99af-9c46c4d33785": {
       "type": "custom-liquid",
+      "custom_css": [
+        "h2 {text-align: center; font-size: 2rem; font-weight: 600; padding: 0 100px; color: #002c00;}"
+      ],
       "settings": {
-        "custom_liquid": "<div class=\"homePageBannerDescription\">\n        <p class=\"homePageBannerDescriptionText\">SUWASTHI is a quality-driven, premium brand that specializes\n            in developing innovative products that are unique but natural in their\n            formulations and deliver the results as promised.<\/p>\n    <\/div>",
+        "custom_liquid": "<h2>SUWASTHI is a quality-driven, premium brand that specializes in developing innovative products that are unique but natural in their formulations and deliver the results as promised.<\/h2>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
       }
     },
-    "23af5ee9-9ba7-4112-92f3-f68cead5d22b": {
-      "type": "custom-liquid",
+    "c1fbb697-3bd4-4539-bbc2-188f71cbea5c": {
+      "type": "video",
+      "custom_css": [
+        "video:{padding: 0 200px;}"
+      ],
       "settings": {
-        "custom_liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Document<\/title>\n    <link rel=\"preconnect\" href=\"https:\/\/fonts.googleapis.com\">\n    <link rel=\"preconnect\" href=\"https:\/\/fonts.gstatic.com\" crossorigin>\n    <link href=\"https:\/\/fonts.googleapis.com\/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap\" rel=\"stylesheet\">\n    <link rel=\"stylesheet\" href=\"https:\/\/cdn.jsdelivr.net\/npm\/bootstrap@4.3.1\/dist\/css\/bootstrap.min.css\" integrity=\"sha384-ggOyR0iXCbMQv3Xipma34MD+dH\/1fQ784\/j6cY\/iJTQUOhcWr7x9JvoRxT2MZw1T\" crossorigin=\"anonymous\">\n    <link rel=\"stylesheet\" href=\"..\/assets\/homePage.css\">\n<\/head>\n<style>\n    *{\n    padding: 0;\n    margin: 0;\n    font-family: 'poppins', sans-serif;\n}\n.homePageBanner{\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 100%;\n    height: auto;\n}\n.homePageBanner img{\n    width: 100%;\n    height: auto;\n}\n.homePageBannerDescription {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 100%;\n    height: auto;\n    margin-top: 20px;\n    padding: 0 10vw;\n}\n.homePageBannerDescriptionText{\n    text-align: center;\n    font-size: 1.2rem;\n    font-weight: 500;\n    color: #002c00;\n}\n.homePageVideoContainer{\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 100%;\n    height: auto;\n}\n.homePageVideoContainer video{\n    width: 80%;\n    height: auto;\n    border-radius: 20px;\n}\n<\/style>\n<body>\n    <div class=\"homePageBanner\">\n        <img src=\"..\/images\/Group 17.png\" alt=\"\">\n    <\/div>\n    <div class=\"homePageBannerDescription\">\n        <p class=\"homePageBannerDescriptionText\">SUWASTHI is a quality-driven, premium brand that specializes\n            in developing innovative products that are unique but natural in their\n            formulations and deliver the results as promised.<\/p>\n    <\/div>\n    <div class=\"homePageVideoContainer\">\n        <video controls src=\"https:\/\/youtu.be\/aA7-vh6x77o\"><\/video>\n    <\/div>\n<\/body>\n<\/html>",
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=zBtwd2OfZsI",
+        "description": "",
+        "full_width": true,
         "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "featured_collection": {
@@ -66,7 +77,7 @@
   "order": [
     "image_banner",
     "feeaaa21-6a7d-46f1-99af-9c46c4d33785",
-    "23af5ee9-9ba7-4112-92f3-f68cead5d22b",
+    "c1fbb697-3bd4-4539-bbc2-188f71cbea5c",
     "featured_collection"
   ]
 }
