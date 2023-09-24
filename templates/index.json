@@ -297,6 +297,21 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
+    },
+    "08a874f3-aa52-447b-a34e-25799822f316": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".testimonialsContentContainer {display: flex; gap: 30px; justify-content: center; align-items: center; width: 100%; padding: 0 180px;}",
+        ".testimonialsLeftText {text-align: left; color: #002c00; font-weight: 300; font-size: 3rem;}",
+        ".countdown {color: #42200a; font-weight: 600; font-size: 5rem;}",
+        ".testimonialsRightImg {width: 30vw;}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"testimonialsContentContainer\">\n            <p class=\"testimonialsLeftText\">Suwasthi enable more than <span class=\"countdown\">20,00,000<\/span>+ Customers all over India<\/p>\n            <img class=\"testimonialsRightImg\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/delivery-concept-portrait-happy-african-american-delivery-man-red-cloth-holding-box-package-isolated-grey-studio-background-copy-space_copy_1.png?v=1695569171\" alt=\"\">\n    <\/div>",
+        "color_scheme": "",
+        "padding_top": 24,
+        "padding_bottom": 0
+      }
     }
   },
   "order": [
@@ -316,6 +331,7 @@
     "1517112b-7937-458e-ab68-6396f999ed5f",
     "fa55cb20-6407-4cd7-afa1-9d5e7ae5cdae",
     "3ee70ec9-6834-4f3f-b0ed-fb85aed5dbb8",
-    "9290b968-425c-45a3-bb16-e5e10bd7b47d"
+    "9290b968-425c-45a3-bb16-e5e10bd7b47d",
+    "08a874f3-aa52-447b-a34e-25799822f316"
   ]
 }
