@@ -1,3 +1,30 @@
+.headingContainer{
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.hrBack{
+  height: 2px;
+  width: 100%;
+  border: none;
+  background-color: #002c00;
+  position: absolute;
+
+}
+.hrText{
+  font-size: 2rem;
+  font-weight: 600;
+  width: fit-content;
+  color: #002c00;
+  text-align: center;
+  margin: 0;
+  padding: 0 30px;
+  background-color: white;
+  position: relative;
+}
+
+
+
 :root {
   --alpha-button-background: 1;
   --alpha-button-border: 1;
