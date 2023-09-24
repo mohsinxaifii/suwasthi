@@ -6,7 +6,7 @@
         "template--21109731819838__ff8314f7-c33c-4d1f-93ca-898087b59d36-slide-1": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Group_17.png",
+            "image": "shopify:\/\/shop_images\/blog_banners-min_1600x_a043005c-6ac6-4b24-b5b0-349a842c4646.png",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
@@ -201,7 +201,7 @@
         ".hrText {font-size: 5rem; font-weight: 600; width: fit-content; color: #002c00; text-align: center; margin: 0; padding: 0 30px; background-color: white; position: relative;}"
       ],
       "settings": {
-        "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Why Suwasthi?<\/p>\n    <\/div>",
+        "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Why Us?<\/p>\n    <\/div>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
@@ -308,7 +308,7 @@
         ".testimonialsRightImg {width: 30vw;}"
       ],
       "settings": {
-        "custom_liquid": "<div class=\"testimonialsContentContainer\">\n            <p class=\"testimonialsLeftText\">Suwasthi enable<br>more than <span class=\"countdown\">20,00,000<\/span><span class=\"countdownPlus\">+<\/span><br>Customers all over India<\/p>\n            <img class=\"testimonialsRightImg\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/delivery-concept-portrait-happy-african-american-delivery-man-red-cloth-holding-box-package-isolated-grey-studio-background-copy-space_copy_1.png?v=1695569171\" alt=\"\">\n    <\/div>",
+        "custom_liquid": "<div class=\"testimonialsContentContainer\">\n            <p class=\"testimonialsLeftText\">We enable<br>more than <span class=\"countdown\">20,00,000<\/span><span class=\"countdownPlus\">+<\/span><br>Customers all over India<\/p>\n            <img class=\"testimonialsRightImg\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/delivery-concept-portrait-happy-african-american-delivery-man-red-cloth-holding-box-package-isolated-grey-studio-background-copy-space_copy_1.png?v=1695569171\" alt=\"\">\n    <\/div>",
         "color_scheme": "",
         "padding_top": 24,
         "padding_bottom": 0
