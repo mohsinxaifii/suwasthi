@@ -3,48 +3,30 @@
     "ff8314f7-c33c-4d1f-93ca-898087b59d36": {
       "type": "slideshow",
       "blocks": {
+        "0ba57668-4f6f-4b40-86a5-008f293b1e95": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lovepik-green-banner-background-image_500371079.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
         "template--21109731819838__ff8314f7-c33c-4d1f-93ca-898087b59d36-slide-1": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Group_17.png",
+            "image": "shopify:\/\/shop_images\/blog_banners-min_1600x_a043005c-6ac6-4b24-b5b0-349a842c4646.png",
             "heading": "",
             "heading_size": "h2",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "1838f119-08b0-45de-afbe-acb2754afffd": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Group_17.png",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "98d50523-4bea-4cb2-b886-9e4e89695643": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Group_17.png",
-            "heading": "",
-            "heading_size": "h1",
             "subheading": "",
             "button_label": "",
             "link": "",
@@ -59,9 +41,8 @@
         }
       },
       "block_order": [
-        "template--21109731819838__ff8314f7-c33c-4d1f-93ca-898087b59d36-slide-1",
-        "1838f119-08b0-45de-afbe-acb2754afffd",
-        "98d50523-4bea-4cb2-b886-9e4e89695643"
+        "0ba57668-4f6f-4b40-86a5-008f293b1e95",
+        "template--21109731819838__ff8314f7-c33c-4d1f-93ca-898087b59d36-slide-1"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -80,7 +61,7 @@
         "h2 {text-align: center; font-size: 2rem; font-weight: 500; padding: 0 180px; color: #002c00;}"
       ],
       "settings": {
-        "custom_liquid": "<h2>SUWASTHI is a quality-driven, premium brand that specializes in developing innovative products that are unique but natural in their formulations and deliver the results as promised.<\/h2>",
+        "custom_liquid": "<h2>We are a quality-driven, premium brand that specializes in developing innovative products that are unique but natural in their formulations and deliver the results as promised.<\/h2>",
         "color_scheme": "",
         "padding_top": 20,
         "padding_bottom": 20
@@ -201,7 +182,7 @@
         ".hrText {font-size: 5rem; font-weight: 600; width: fit-content; color: #002c00; text-align: center; margin: 0; padding: 0 30px; background-color: white; position: relative;}"
       ],
       "settings": {
-        "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Why Suwasthi?<\/p>\n    <\/div>",
+        "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Why Us?<\/p>\n    <\/div>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
@@ -228,7 +209,7 @@
         ".BlockLeftTextHeading {font-size: 3.6rem; margin: 0; color: #002c00; font-weight: 600; text-align: left; line-height: 3rem;}",
         ".BlockLeftTextParagraph {color: #002c00; font-size: 2.3rem; text-align: left; font-weight: 400; line-height: 3rem;}",
         ".BlockLeftImgContainer {display: flex; justify-content: end; padding: 0 180px; width: 100%;}",
-        ".BlockLeftImg {height: 20vw; opacity: 0.7;}"
+        ".BlockLeftImg {margin-right: -8%; height: 18vw; opacity: 0.7;}"
       ],
       "settings": {
         "custom_liquid": "<div class=\"suwasthiHomeAboutBlockLeftContainer\">\n        <div class=\"BlockLeftText\">\n            <p class=\"BlockLeftTextHeading\">Close to nature as it is the best healer<\/p>\n            <p class=\"BlockLeftTextParagraph\">Formulated with the ancient rarest herbs derived from the nature, loaded with powerful ingredients based on ayurveda which have visible results . We go the extra mile to extract the best from nature's vast repertoire<\/p>\n        <\/div>\n        <div class=\"BlockLeftImgContainer\">\n            <img class=\"BlockLeftImg\" src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Layer_13.png?v=1695565019 alt=\"\">\n        <\/div>\n    <\/div>",
@@ -245,7 +226,7 @@
         ".BlockLeftTextHeading {font-size: 3.6rem; margin: 0; color: #002c00; font-weight: 600; text-align: right; line-height: 3rem;}",
         ".BlockLeftTextParagraph {color: #002c00; font-size: 2.3rem; text-align: right; font-weight: 400; line-height: 3rem;}",
         ".BlockLeftImgContainer {display: flex; justify-content: start; width: 100%; padding: 0 180px;}",
-        ".BlockLeftImg {height: 20vw; opacity: 0.7;}"
+        ".BlockLeftImg {margin-left: -8%; height: 20vw; opacity: 0.7;}"
       ],
       "settings": {
         "custom_liquid": "<div class=\"suwasthiHomeAboutBlockLeftContainer\">\n        <div class=\"BlockLeftText\">\n            <p class=\"BlockLeftTextHeading\">Close to nature as it is the best healer<\/p>\n            <p class=\"BlockLeftTextParagraph\">Formulated with the ancient rarest herbs derived from the nature, loaded with powerful ingredients based on ayurveda which have visible results . We go the extra mile to extract the best from nature's vast repertoire<\/p>\n        <\/div>\n        <div class=\"BlockLeftImgContainer\">\n            <img class=\"BlockLeftImg\" src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Layer_14_648e4dd5-4097-4503-9025-0b86387f1ec6.png?v=1695565020 alt=\"\">\n        <\/div>\n    <\/div>",
@@ -262,7 +243,7 @@
         ".BlockLeftTextHeading {font-size: 3.6rem; margin: 0; color: #002c00; font-weight: 600; text-align: left; line-height: 3rem;}",
         ".BlockLeftTextParagraph {color: #002c00; font-size: 2.3rem; text-align: left; font-weight: 400; line-height: 3rem;}",
         ".BlockLeftImgContainer {display: flex; justify-content: end; padding: 0 180px; width: 100%;}",
-        ".BlockLeftImg {height: 20vw; opacity: 0.7;}"
+        ".BlockLeftImg {margin-right: -8%; height: 18vw; opacity: 0.7;}"
       ],
       "settings": {
         "custom_liquid": "<div class=\"suwasthiHomeAboutBlockLeftContainer\">\n        <div class=\"BlockLeftText\">\n            <p class=\"BlockLeftTextHeading\">Close to nature as it is the best healer<\/p>\n            <p class=\"BlockLeftTextParagraph\">Formulated with the ancient rarest herbs derived from the nature, loaded with powerful ingredients based on ayurveda which have visible results . We go the extra mile to extract the best from nature's vast repertoire<\/p>\n        <\/div>\n        <div class=\"BlockLeftImgContainer\">\n            <img class=\"BlockLeftImg\" src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Layer_15.png?v=1695565020 alt=\"\">\n        <\/div>\n    <\/div>",
@@ -297,6 +278,22 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
+    },
+    "08a874f3-aa52-447b-a34e-25799822f316": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".testimonialsContentContainer {display: flex; justify-content: space-between; align-items: center; width: 100%; padding: 0 180px;}",
+        ".testimonialsLeftText {text-align: left; color: #002c00; font-weight: 400; font-size: 5rem; line-height: 8rem;}",
+        ".countdown {color: #42200a; font-weight: 600; font-size: 7rem;}",
+        ".countdownPlus {color: #42200a; font-weight: 600; font-size: 7rem;}",
+        ".testimonialsRightImg {width: 30vw;}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"testimonialsContentContainer\">\n            <p class=\"testimonialsLeftText\">We enable<br>more than <span class=\"countdown\">20,00,000<\/span><span class=\"countdownPlus\">+<\/span><br>Customers all over India<\/p>\n            <img class=\"testimonialsRightImg\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/delivery-concept-portrait-happy-african-american-delivery-man-red-cloth-holding-box-package-isolated-grey-studio-background-copy-space_copy_1.png?v=1695569171\" alt=\"\">\n    <\/div>",
+        "color_scheme": "",
+        "padding_top": 24,
+        "padding_bottom": 0
+      }
     }
   },
   "order": [
@@ -316,6 +313,7 @@
     "1517112b-7937-458e-ab68-6396f999ed5f",
     "fa55cb20-6407-4cd7-afa1-9d5e7ae5cdae",
     "3ee70ec9-6834-4f3f-b0ed-fb85aed5dbb8",
-    "9290b968-425c-45a3-bb16-e5e10bd7b47d"
+    "9290b968-425c-45a3-bb16-e5e10bd7b47d",
+    "08a874f3-aa52-447b-a34e-25799822f316"
   ]
 }
