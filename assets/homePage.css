@@ -275,3 +275,28 @@ p{
     opacity: .7
 }
 
+/* testimonials Content */
+.testimonialsContentContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.testimonialsLeftText{
+    text-align: left;
+    color: #002c00;
+    font-weight: 300;
+    font-size: 3rem;
+}
+.countdown{
+    color: #42200a;
+    font-weight: 600;
+    font-size: 5rem;
+}
+.countdownPlus{
+    color: #42200a;
+    font-weight: 600;
+    font-size: 5rem;
+}
+.testimonialsRightImg{
+    width: 30vw;
+}
