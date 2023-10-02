@@ -967,8 +967,8 @@ summary::-webkit-details-marker {
 }
 
 .grid--1-col .grid__item {
-  max-width: 100%;
-  width: 100%;
+    /* max-width: 100%; */
+    width: 100vw;
 }
 
 .grid--3-col .grid__item {
