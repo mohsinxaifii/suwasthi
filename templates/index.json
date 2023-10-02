@@ -44,6 +44,9 @@
         "0ba57668-4f6f-4b40-86a5-008f293b1e95",
         "template--21109731819838__ff8314f7-c33c-4d1f-93ca-898087b59d36-slide-1"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
         "layout": "full_bleed",
         "slide_height": "small",
@@ -136,7 +139,6 @@
     },
     "017306f0-7fc7-4b1f-83a0-850f48dc0893": {
       "type": "custom-liquid",
-      "disabled": true,
       "custom_css": [
         ".headingContainer {justify-content: center; align-items: center; display: flex;}",
         ".hrBack {height: 1.5px; width: 100%; border: none; background-color: #002c00; position: absolute;}",
