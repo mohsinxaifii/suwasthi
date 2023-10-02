@@ -8,21 +8,21 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "content1",
+            "text": "Free Delivery above 999",
             "link": ""
           }
         },
         "3b937278-0f12-447f-b06c-ae5e88f57f63": {
           "type": "announcement",
           "settings": {
-            "text": "content2",
+            "text": "COD Available",
             "link": ""
           }
         },
         "a7878877-842b-42da-bfe0-43d4bff8f932": {
           "type": "announcement",
           "settings": {
-            "text": "content3",
+            "text": "Exclusive disvcounts",
             "link": ""
           }
         }
@@ -53,8 +53,8 @@
         "menu_type_desktop": "dropdown",
         "sticky_header_type": "on-scroll-up",
         "show_line_separator": true,
-        "color_scheme": "background-1",
-        "menu_color_scheme": "background-1",
+        "color_scheme": "accent-2",
+        "menu_color_scheme": "accent-2",
         "enable_country_selector": true,
         "enable_language_selector": true,
         "mobile_logo_position": "center",
