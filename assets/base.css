@@ -619,6 +619,7 @@ details > * {
 }
 
 :root {
+  overflow-x: hidden;
   --duration-short: 100ms;
   --duration-default: 200ms;
   --duration-announcement-bar: 250ms;
