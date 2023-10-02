@@ -396,7 +396,7 @@
       ".CallBanner {background-color: #002c00; width: 100%; height: fit-content; display: flex; flex-direction: column; justify-content: center; align-items: center; padding-top: 20px;}",
       ".CallBannerHeading {font-size: 4rem; color: white; font-weight: 600; text-align: center; margin-top: 10px; margin-bottom: 0;}",
       ".CallBannerSubHeading {font-size: 2.5rem; color: white; font-weight: 100; text-align: center; margin-bottom: 30px; margin-top: 0;}",
-      ".CallBannerFlex {display: flex; width: 100%; justify-content: space-between; align-items: center; justify-content: space-between; padding: 0 100px; margin-top: 10px;}",
+      ".CallBannerFlex {display: flex; width: 100%; justify-content: space-between; align-items: center; justify-content: space-between; padding: 0 10vw; margin-top: 10px;}",
       ".CallBannerFlexLinks {display: flex; flex-direction: column; width: 60%; gap: 30px;}",
       ".CallBannerFlexLink {background-color: white; border-radius: 20px; padding: 10px 18px; display: flex; justify-content: center; cursor: pointer; align-items: center; gap: 24px;}",
       ".CallBannerFlexLink svg {font-size: 6rem; fill: #002c00;}",

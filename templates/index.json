@@ -58,7 +58,7 @@
     "feeaaa21-6a7d-46f1-99af-9c46c4d33785": {
       "type": "custom-liquid",
       "custom_css": [
-        "h2 {text-align: center; font-size: 2rem; font-weight: 500; padding: 0 100px; color: #002c00;}"
+        "h2 {text-align: center; font-size: 2rem; font-weight: 500; padding: 0 10vw; color: #002c00;}"
       ],
       "settings": {
         "custom_liquid": "<h2>We are a quality-driven, premium brand that specializes in developing innovative products that are unique but natural in their formulations and deliver the results as promised.<\/h2>",
@@ -70,7 +70,7 @@
     "f5ecb6a3-02f6-4738-89d6-8e4d1c28da93": {
       "type": "custom-liquid",
       "custom_css": [
-        ".videoContainer {display: flex; align-items: center; justify-content: center; width: 100%; padding: 0 100px; margin: 0;}",
+        ".videoContainer {display: flex; align-items: center; justify-content: center; width: 100%; padding: 0 10vw; margin: 0;}",
         ".videoContainer video {width: 100%; margin: 0; border-radius: 20px;}"
       ],
       "settings": {
@@ -97,7 +97,7 @@
     "9cdafaa8-a70d-4752-aedc-cf579719c6b9": {
       "type": "custom-liquid",
       "custom_css": [
-        ".iconsStripContainer {display: flex; justify-content: space-between; padding: 0 100px; align-items: start;}",
+        ".iconsStripContainer {display: flex; justify-content: space-between; padding: 0 10vw; align-items: start;}",
         ".iconsStripContainer img {width: 9%; height: auto;}"
       ],
       "settings": {
@@ -124,7 +124,7 @@
     "191fe880-6070-4fed-b39d-a4af438a4777": {
       "type": "custom-liquid",
       "custom_css": [
-        ".iconsStripContainer {display: flex; justify-content: space-between; padding: 0 100px; align-items: end;}",
+        ".iconsStripContainer {display: flex; justify-content: space-between; padding: 0 10vw; align-items: end;}",
         ".iconsStripContainer img {width: 16%; height: auto; cursor: pointer;}"
       ],
       "settings": {
@@ -193,7 +193,7 @@
     "16ecc9dc-dba5-463a-9c34-d04333ecfb8f": {
       "type": "custom-liquid",
       "custom_css": [
-        ".iconsStripContainer {display: flex; justify-content: space-between; padding: 0 100px; align-items: start;}",
+        ".iconsStripContainer {display: flex; justify-content: space-between; padding: 0 10vw; align-items: start;}",
         ".iconsStripContainer img {width: 9%; height: auto;}"
       ],
       "settings": {
@@ -207,10 +207,10 @@
       "type": "custom-liquid",
       "custom_css": [
         ".suwasthiHomeAboutBlockLeftContainer {display: flex; align-items: center;}",
-        ".BlockLeftText {width: 100%; padding: 0 100px; position: absolute; z-index: 2;}",
+        ".BlockLeftText {width: 100%; padding: 0 10vw; position: absolute; z-index: 2;}",
         ".BlockLeftTextHeading {font-size: 3.6rem; margin: 0; color: #002c00; font-weight: 600; text-align: left; line-height: 3rem;}",
         ".BlockLeftTextParagraph {color: #002c00; font-size: 2.3rem; text-align: left; font-weight: 400; line-height: 3rem;}",
-        ".BlockLeftImgContainer {display: flex; justify-content: end; padding: 0 180px; width: 100%;}",
+        ".BlockLeftImgContainer {display: flex; justify-content: end; padding: 0 10vw; width: 100%;}",
         ".BlockLeftImg {margin-right: -8%; height: 18vw; opacity: 0.7;}"
       ],
       "settings": {
@@ -224,10 +224,10 @@
       "type": "custom-liquid",
       "custom_css": [
         ".suwasthiHomeAboutBlockLeftContainer {display: flex; align-items: center;}",
-        ".BlockLeftText {width: 100%; padding: 0 100px; position: absolute; z-index: 2;}",
+        ".BlockLeftText {width: 100%; padding: 0 10vw; position: absolute; z-index: 2;}",
         ".BlockLeftTextHeading {font-size: 3.6rem; margin: 0; color: #002c00; font-weight: 600; text-align: right; line-height: 3rem;}",
         ".BlockLeftTextParagraph {color: #002c00; font-size: 2.3rem; text-align: right; font-weight: 400; line-height: 3rem;}",
-        ".BlockLeftImgContainer {display: flex; justify-content: start; width: 100%; padding: 0 100px;}",
+        ".BlockLeftImgContainer {display: flex; justify-content: start; width: 100%; padding: 0 10vw;}",
         ".BlockLeftImg {margin-left: -8%; height: 20vw; opacity: 0.7;}"
       ],
       "settings": {
@@ -271,7 +271,7 @@
     "9290b968-425c-45a3-bb16-e5e10bd7b47d": {
       "type": "custom-liquid",
       "custom_css": [
-        ".videoContainer {display: flex; align-items: center; justify-content: center; width: 100%; padding: 0 100px; margin: 0;}",
+        ".videoContainer {display: flex; align-items: center; justify-content: center; width: 100%; padding: 0 10vw; margin: 0;}",
         ".videoContainer video {width: 100%; margin: 0; border-radius: 20px;}"
       ],
       "settings": {
@@ -284,7 +284,7 @@
     "08a874f3-aa52-447b-a34e-25799822f316": {
       "type": "custom-liquid",
       "custom_css": [
-        ".testimonialsContentContainer {display: flex; justify-content: space-between; align-items: center; width: 100%; padding: 0 100px;}",
+        ".testimonialsContentContainer {display: flex; justify-content: space-between; align-items: center; width: 100%; padding: 0 10vw;}",
         ".testimonialsLeftText {text-align: left; color: #002c00; font-weight: 400; font-size: 5rem; line-height: 8rem;}",
         ".countdown {color: #42200a; font-weight: 600; font-size: 7rem;}",
         ".countdownPlus {color: #42200a; font-weight: 600; font-size: 7rem;}",
