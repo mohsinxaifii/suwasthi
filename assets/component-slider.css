@@ -233,6 +233,8 @@ slider-component.slider-component-full-width {
     -ms-overflow-style: none;
     scrollbar-width: none;
     width: 100vw;
+    gap: 20px;
+    padding: 0 10vw;
 }
 
 .slider::-webkit-scrollbar {
