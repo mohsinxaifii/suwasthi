@@ -1,8 +1,8 @@
 .card-wrapper {
-  color: inherit;
-  height: 100%;
-  position: relative;
-  text-decoration: none;
+    color: inherit;
+    width: 20%;
+    position: relative;
+    text-decoration: none;
 }
 
 .card {
