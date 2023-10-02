@@ -2215,6 +2215,10 @@ product-info .loading-overlay:not(.hidden) ~ *,
   flex-wrap: wrap;
   align-content: center;
   grid-area: announcements;
+  width: 40vw;
+    margin: 0;
+    padding: 0;
+
 }
 
 .announcement-bar .slider--everywhere {
@@ -2222,10 +2226,8 @@ product-info .loading-overlay:not(.hidden) ~ *,
   scroll-behavior: auto;
 }
 
-.utility-bar__grid .announcement-bar-slider, .announcement-bar-slider, .announcement-bar-slider .slider {
-    width: 40vw;
-    margin: 0;
-    padding: 0;
+.utility-bar__grid .announcement-bar-slider {
+  width: 100%;
 }
 
 .utility-bar__grid .announcement-bar-slider {
