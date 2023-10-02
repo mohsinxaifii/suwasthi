@@ -1,7 +1,44 @@
-.footer {
+        .footer{
+            background-color: #002900;
+            width: 100%;
+            height: fit-content;
+            padding: 30px 10vw;
+            justify-content: space-between;
+        }
+        .footerColumn1{
+            display: flex;
+            flex-direction: column;
+            gap: 30px;
+            width: 30%;
+        }
+        .footerColumn1Logo{
+            width: 30%;
+            height: auto;
+        }
+        .footerColumn1AboutContainer{
+            display: flex;
+            flex-direction: column;
+            gap: 30px;
+            width: 100%;
+        }
+        .footerColumn1AboutText{
+            text-align: left;
+            font-size: 1.3rem;
+            font-weight: 500;
+            color: white;
+            line-height: 1.7rem;
+        }
+        .footerColumn1AboutTextBold{
+            font-weight: 700;
+        }
+
+
+
+
+/* .footer {
   border-top: 0.1rem solid rgba(var(--color-foreground), 0.08);
   background-color: #002900;
-}
+} */
 
 .footer:not(.color-background-1) {
   border-top: none;
