@@ -148,7 +148,7 @@
         "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Our Diabetic Range<\/p>\n    <\/div>",
         "color_scheme": "",
         "padding_top": 40,
-        "padding_bottom": 52
+        "padding_bottom": 32
       }
     },
     "a698b038-0565-4473-900d-4fca1c8a33b5": {
@@ -203,7 +203,7 @@
         "custom_liquid": "<div class=\"CallBanner\">\n        <p class=\"CallBannerHeading\">Still Confused to find the best one for you?<\/p>\n        <p class=\"CallBannerSubHeading\">No Worries, We weill help you<\/p>\n        <div class=\"CallBannerFlex\">\n            <div class=\"CallBannerFlexLinks\">\n                <div class=\"CallBannerFlexLink\">\n                    <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" height=\"1em\" viewBox=\"0 0 448 512\"><!--! Font Awesome Free 6.4.2 by @fontawesome - https:\/\/fontawesome.com License - https:\/\/fontawesome.com\/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z\"\/><\/svg>\n                    <p class=\"CallBannerFlexLinkText\">Book a Free Appointment with Our Best Doctors<\/p>\n                <\/div>\n                <div class=\"CallBannerFlexLink\">\n                    <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" height=\"1em\" viewBox=\"0 0 448 512\"><!--! Font Awesome Free 6.4.2 by @fontawesome - https:\/\/fontawesome.com License - https:\/\/fontawesome.com\/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z\"\/><\/svg>\n                    <p class=\"CallBannerFlexLinkText\">Answer to all your Questions with a Personalised Answer<\/p>\n                <\/div>\n            <\/div>\n            <div class=\"CallBannerFlexImgContainer\">\n                                <img class=\"CallBannerFlexImg\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Layer_9.png?v=1696229979\" alt=\"\">\n\n            <\/div>\n        <\/div>\n    <\/div>",
         "color_scheme": "",
         "padding_top": 52,
-        "padding_bottom": 40
+        "padding_bottom": 0
       }
     },
     "3e47b047-f29d-4309-a5e8-298d29cd67db": {
@@ -281,7 +281,7 @@
         "custom_liquid": "<div class=\"suwasthiHomeAboutBlockLeftContainer\">\n        <div class=\"BlockLeftText\">\n            <p class=\"BlockLeftTextHeading\">We care for you, a little extra<\/p>\n            <p class=\"BlockLeftTextParagraph\">Not only good products but also We offer free Dr. Consultation with proper guidance and personalised diet plans according to your problem<\/p>\n        <\/div>\n        <div class=\"BlockLeftImgContainer\">\n            <img class=\"BlockLeftImg\" src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Layer_15.png?v=1695565020 alt=\"\">\n        <\/div>\n    <\/div>",
         "color_scheme": "",
         "padding_top": 52,
-        "padding_bottom": 40
+        "padding_bottom": 0
       }
     },
     "3ee70ec9-6834-4f3f-b0ed-fb85aed5dbb8": {
