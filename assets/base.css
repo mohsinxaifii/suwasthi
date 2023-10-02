@@ -3330,10 +3330,11 @@ details-disclosure > details {
     animation: var(--animation-fade-in);
   }
 
-  .scroll-trigger:not(.scroll-trigger--offscreen).animate--slide-in {
+.scroll-trigger:not(.scroll-trigger--offscreen).animate--slide-in {
     animation: var(--animation-slide-in);
     animation-delay: calc(var(--animation-order) * 75ms);
-  }
+    width: 100%;
+}
 
   .scroll-trigger.scroll-trigger--design-mode.animate--fade-in,
   .scroll-trigger.scroll-trigger--design-mode.animate--slide-in,
