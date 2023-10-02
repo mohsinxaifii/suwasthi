@@ -77,7 +77,7 @@
         ".videoContainer video {width: 100%; margin: 0; border-radius: 20px;}"
       ],
       "settings": {
-        "custom_liquid": "<div class=\"videoContainer\">\n        <iframe width=\"560\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/86zuOx_oLV8?si=IqWcsWB-_NG7eBru&amp;controls=0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe><\/video>\n    <\/div>",
+        "custom_liquid": "<div class=\"videoContainer\">\n<iframe width=\"560\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/TSWEXI1X-iY?si=c_XlDI3xbsZoaLt8&amp;controls=0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>\n    <\/div>",
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 0
@@ -305,7 +305,7 @@
         ".videoContainer video {width: 100%; margin: 0; border-radius: 20px;}"
       ],
       "settings": {
-        "custom_liquid": "<div class=\"videoContainer\">\n        <video controls src=\"\"><\/video>\n    <\/div>",
+        "custom_liquid": "<div class=\"videoContainer\">\n        <iframe width=\"560\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/86zuOx_oLV8?si=IqWcsWB-_NG7eBru&amp;controls=0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>\n    <\/div>",
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 0
