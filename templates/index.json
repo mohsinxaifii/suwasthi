@@ -125,7 +125,7 @@
       "type": "custom-liquid",
       "custom_css": [
         ".iconsStripContainer {display: flex; justify-content: space-between; padding: 0 180px; align-items: end;}",
-        ".iconsStripContainer img {width: 16%; height: auto;}"
+        ".iconsStripContainer img {width: 16%; height: auto; cursor: pointer;}"
       ],
       "settings": {
         "custom_liquid": "<div class=\"iconsStripContainer\">\n        <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_9.png?v=1695550914 alt=\"\">\n        <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_7.png?v=1695550914  alt=\"\">\n        <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_8.png?v=1695550915 alt=\"\">\n        <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_10.png?v=1695550915 alt=\"\">\n    <\/div>",
@@ -197,7 +197,7 @@
         ".iconsStripContainer img {width: 8%; height: auto;}"
       ],
       "settings": {
-        "custom_liquid": "<div class=\"iconsStripContainer\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_16.png?v=1695561175 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_13.png?v=1695561174 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_11.png?v=1695561175 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_14.png?v=1695561174 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_15.png?v=1695561174 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_12.png?v=1695561174 alt=\"\">\n    <\/div>",
+        "custom_liquid": "<div class=\"iconsStripContainer\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/reshot-icon-naturally-replenished-GVUJ7ZNFHA_copy.png?v=1696231030 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/filter_copy.png?v=1696231029 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/reshot-icon-quality-control-RG3J6ST4HF_copy_2.png?v=1696231029 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/reshot-icon-leaves-FSXPVEMGRJ_copy.png?v=1696231029 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/meal_copy.png?v=1696231029 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Free_Doctor_Consultat_-ion.png?v=1696231029 alt=\"\">\n    <\/div>",
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 0
@@ -216,8 +216,8 @@
       "settings": {
         "custom_liquid": "<div class=\"suwasthiHomeAboutBlockLeftContainer\">\n        <div class=\"BlockLeftText\">\n            <p class=\"BlockLeftTextHeading\">Close to nature as it is the best healer<\/p>\n            <p class=\"BlockLeftTextParagraph\">Formulated with the ancient rarest herbs derived from the nature, loaded with powerful ingredients based on ayurveda which have visible results . We go the extra mile to extract the best from nature's vast repertoire<\/p>\n        <\/div>\n        <div class=\"BlockLeftImgContainer\">\n            <img class=\"BlockLeftImg\" src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Layer_13.png?v=1695565019 alt=\"\">\n        <\/div>\n    <\/div>",
         "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 24
+        "padding_top": 52,
+        "padding_bottom": 40
       }
     },
     "1517112b-7937-458e-ab68-6396f999ed5f": {
@@ -233,8 +233,8 @@
       "settings": {
         "custom_liquid": "<div class=\"suwasthiHomeAboutBlockLeftContainer\">\n        <div class=\"BlockLeftText\">\n            <p class=\"BlockLeftTextHeading\">Close to nature as it is the best healer<\/p>\n            <p class=\"BlockLeftTextParagraph\">Formulated with the ancient rarest herbs derived from the nature, loaded with powerful ingredients based on ayurveda which have visible results . We go the extra mile to extract the best from nature's vast repertoire<\/p>\n        <\/div>\n        <div class=\"BlockLeftImgContainer\">\n            <img class=\"BlockLeftImg\" src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Layer_14_648e4dd5-4097-4503-9025-0b86387f1ec6.png?v=1695565020 alt=\"\">\n        <\/div>\n    <\/div>",
         "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 24
+        "padding_top": 52,
+        "padding_bottom": 40
       }
     },
     "fa55cb20-6407-4cd7-afa1-9d5e7ae5cdae": {
@@ -250,8 +250,8 @@
       "settings": {
         "custom_liquid": "<div class=\"suwasthiHomeAboutBlockLeftContainer\">\n        <div class=\"BlockLeftText\">\n            <p class=\"BlockLeftTextHeading\">Close to nature as it is the best healer<\/p>\n            <p class=\"BlockLeftTextParagraph\">Formulated with the ancient rarest herbs derived from the nature, loaded with powerful ingredients based on ayurveda which have visible results . We go the extra mile to extract the best from nature's vast repertoire<\/p>\n        <\/div>\n        <div class=\"BlockLeftImgContainer\">\n            <img class=\"BlockLeftImg\" src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Layer_15.png?v=1695565020 alt=\"\">\n        <\/div>\n    <\/div>",
         "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 0
+        "padding_top": 52,
+        "padding_bottom": 40
       }
     },
     "3ee70ec9-6834-4f3f-b0ed-fb85aed5dbb8": {

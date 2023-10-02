@@ -398,7 +398,7 @@
       ".CallBannerSubHeading {font-size: 2.5rem; color: white; font-weight: 100; text-align: center; margin-bottom: 30px; margin-top: 0;}",
       ".CallBannerFlex {display: flex; width: 100%; justify-content: space-between; align-items: center; justify-content: space-between; padding: 0 100px; margin-top: 10px;}",
       ".CallBannerFlexLinks {display: flex; flex-direction: column; width: 60%; gap: 30px;}",
-      ".CallBannerFlexLink {background-color: white; border-radius: 20px; padding: 10px 18px; display: flex; justify-content: center; align-items: center; gap: 24px;}",
+      ".CallBannerFlexLink {background-color: white; border-radius: 20px; padding: 10px 18px; display: flex; justify-content: center; cursor: pointer; align-items: center; gap: 24px;}",
       ".CallBannerFlexLink svg {font-size: 6rem; fill: #002c00;}",
       ".CallBannerFlexLinkText {font-size: 3.2rem; color: #002c00; font-weight: 600; text-align: left; margin: 0; line-height: 5rem;}",
       ".CallBannerFlexImgContainer {height: 400px;}",
