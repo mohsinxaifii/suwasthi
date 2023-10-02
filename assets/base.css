@@ -934,7 +934,7 @@ summary::-webkit-details-marker {
 
 .grid:last-child {
   margin-bottom: 0;
-  gap: 20px;
+  gap: 30px;
 }
 
 .grid__item {
