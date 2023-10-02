@@ -175,8 +175,8 @@
         "enable_quick_add": true,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "68c20044-34d4-4887-b0e0-5bd2d89af994": {
