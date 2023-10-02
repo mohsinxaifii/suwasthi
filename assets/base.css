@@ -1390,8 +1390,8 @@ button.shopify-payment-button__button--unbranded {
 }
 
 .button--full-width {
-  display: flex;
-  width: 100%;
+    display: flex;
+    width: 70%;
 }
 
 .button.loading {
