@@ -1,6 +1,6 @@
 .quick-add__submit {
     padding: 0.8rem;
-    min-width: auto;
+    min-width: auto !important;
     box-sizing: border-box;
     margin: 0 auto;
 }
