@@ -107,8 +107,9 @@
                 {{- card_collection.description | strip_html | truncatewords: 12 -}}
                 <span class="icon-wrap">&nbsp;{% render 'icon-arrow' %}</span>
               </p>
+              <div data-hulkapps-reviews data-hulkapps-reviews-product-id="{{ product.id }}"></div>
+
             {%- endif -%}
-        <div data-hulkapps-reviews data-hulkapps-reviews-product-id="{{ product.id }}"></div>
           </div>
         </div>
       {%- endif -%}
