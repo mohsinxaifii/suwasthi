@@ -21,13 +21,14 @@
             gap: 30px;
             width: 100%;
         }
-        .footerColumn1AboutText{
-            text-align: left;
-            font-size: 1.3rem;
-            font-weight: 500;
-            color: white;
-            line-height: 1.7rem;
-        }
+.footerColumn1AboutText {
+    text-align: left;
+    letter-spacing: .16rem;
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: #fff;
+    line-height: 2.4rem;
+}
         .footerColumn1AboutTextBold{
             font-weight: 700;
         }
