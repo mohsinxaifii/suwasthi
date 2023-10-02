@@ -3333,7 +3333,7 @@ details-disclosure > details {
 .scroll-trigger:not(.scroll-trigger--offscreen).animate--slide-in {
     animation: var(--animation-slide-in);
     animation-delay: calc(var(--animation-order) * 75ms);
-    width: 20vw;
+    width: 100%;
 }
 
   .scroll-trigger.scroll-trigger--design-mode.animate--fade-in,
