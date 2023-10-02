@@ -1,3 +1,9 @@
+.quick-add__submit {
+    padding: 0.8rem;
+    /* min-width: 100%; */
+    box-sizing: border-box;
+    margin: 0 auto;
+}
 .quick-add {
   position: relative;
   grid-row-start: 4;
