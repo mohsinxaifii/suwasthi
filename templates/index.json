@@ -97,8 +97,8 @@
     "9cdafaa8-a70d-4752-aedc-cf579719c6b9": {
       "type": "custom-liquid",
       "custom_css": [
-        ".iconsStripContainer {display: flex; justify-content: space-between; padding: 0 180px; align-items: start;}",
-        ".iconsStripContainer img {width: 8%; height: auto;}"
+        ".iconsStripContainer {display: flex; justify-content: space-between; padding: 0 100px; align-items: start;}",
+        ".iconsStripContainer img {width: 9%; height: auto;}"
       ],
       "settings": {
         "custom_liquid": "<div class=\"iconsStripContainer\">\n            <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_4.png?v=1695550498 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_3.png?v=1695550498 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_1.png?v=1695550498 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_2.png?v=1695550498 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_5.png?v=1695550498 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_6.png?v=1695550498 alt=\"\">\n    <\/div>",
@@ -124,7 +124,7 @@
     "191fe880-6070-4fed-b39d-a4af438a4777": {
       "type": "custom-liquid",
       "custom_css": [
-        ".iconsStripContainer {display: flex; justify-content: space-between; padding: 0 180px; align-items: end;}",
+        ".iconsStripContainer {display: flex; justify-content: space-between; padding: 0 100px; align-items: end;}",
         ".iconsStripContainer img {width: 16%; height: auto; cursor: pointer;}"
       ],
       "settings": {
@@ -193,8 +193,8 @@
     "16ecc9dc-dba5-463a-9c34-d04333ecfb8f": {
       "type": "custom-liquid",
       "custom_css": [
-        ".iconsStripContainer {display: flex; justify-content: space-between; padding: 0 180px; align-items: start;}",
-        ".iconsStripContainer img {width: 8%; height: auto;}"
+        ".iconsStripContainer {display: flex; justify-content: space-between; padding: 0 100px; align-items: start;}",
+        ".iconsStripContainer img {width: 9%; height: auto;}"
       ],
       "settings": {
         "custom_liquid": "<div class=\"iconsStripContainer\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/reshot-icon-naturally-replenished-GVUJ7ZNFHA_copy.png?v=1696231030 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/filter_copy.png?v=1696231029 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/reshot-icon-quality-control-RG3J6ST4HF_copy_2.png?v=1696231029 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/reshot-icon-leaves-FSXPVEMGRJ_copy.png?v=1696231029 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/meal_copy.png?v=1696231029 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Free_Doctor_Consultat_-ion.png?v=1696231029 alt=\"\">\n    <\/div>",
@@ -271,7 +271,7 @@
     "9290b968-425c-45a3-bb16-e5e10bd7b47d": {
       "type": "custom-liquid",
       "custom_css": [
-        ".videoContainer {display: flex; align-items: center; justify-content: center; width: 100%; padding: 0 180px; margin: 0;}",
+        ".videoContainer {display: flex; align-items: center; justify-content: center; width: 100%; padding: 0 100px; margin: 0;}",
         ".videoContainer video {width: 100%; margin: 0; border-radius: 20px;}"
       ],
       "settings": {
