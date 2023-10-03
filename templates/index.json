@@ -231,7 +231,7 @@
         ".BlockLeftTextHeading {font-size: 3.6rem; margin: 0; color: #002c00; font-weight: 600; text-align: right; line-height: 4rem;}",
         ".BlockLeftTextParagraph {color: #002c00; font-size: 2.3rem; text-align: right; font-weight: 400; line-height: 3rem;}",
         ".BlockLeftImgContainer {display: flex; justify-content: start; width: 100%; padding: 0 10vw;}",
-        ".BlockLeftImg {margin-left: -8%; height: 20vw; opacity: 0.7;}"
+        ".BlockLeftImg {margin-left: -8%;}"
       ],
       "settings": {
         "custom_liquid": "<div class=\"suwasthiHomeAboutBlockLeftContainer\">\n        <div class=\"BlockLeftText\">\n            <p class=\"BlockLeftTextHeading\">Designed by our own expert scientists to treat you naturally<\/p>\n            <p class=\"BlockLeftTextParagraph\">Our Research & development team personally test-runs and approves every formulation before release and then We deliver quality driven Natural and 100% safe products at your doorstep<\/p>\n        <\/div>\n        <div class=\"BlockLeftImgContainer\">\n            <img class=\"BlockLeftImg\" src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Layer_14_648e4dd5-4097-4503-9025-0b86387f1ec6.png?v=1695565020 alt=\"\">\n        <\/div>\n    <\/div>",
@@ -248,7 +248,7 @@
         ".BlockLeftTextHeading {font-size: 3.6rem; margin: 0; color: #002c00; font-weight: 600; text-align: left; line-height: 3rem;}",
         ".BlockLeftTextParagraph {color: #002c00; font-size: 2.3rem; text-align: left; font-weight: 400; line-height: 3rem;}",
         ".BlockLeftImgContainer {display: flex; justify-content: end; padding: 0 100px; width: 100%;}",
-        ".BlockLeftImg {margin-right: -8%; height: 18vw; opacity: 0.7;}"
+        ".BlockLeftImg {margin-right: -8%;}"
       ],
       "settings": {
         "custom_liquid": "<div class=\"suwasthiHomeAboutBlockLeftContainer\">\n        <div class=\"BlockLeftText\">\n            <p class=\"BlockLeftTextHeading\">We care for you, a little extra<\/p>\n            <p class=\"BlockLeftTextParagraph\">Not only good products but also We offer free Dr. Consultation with proper guidance and personalised diet plans according to your problem<\/p>\n        <\/div>\n        <div class=\"BlockLeftImgContainer\">\n            <img class=\"BlockLeftImg\" src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Layer_15.png?v=1695565020 alt=\"\">\n        <\/div>\n    <\/div>",
