@@ -1,9 +1,14 @@
 @media(max-width:1200px){
   .CallBannerFlex {
     padding: 0 12vw !important;
+  }
+  .CallBannerFlexLinks{
     height: 32vw !important;
-}
-}
+    align-items: center !important;
+  }
+  .CallBannerFlexImgContainer{
+    height: 32vw !important;
+  }
 }
 
 
