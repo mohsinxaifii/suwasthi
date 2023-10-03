@@ -2,7 +2,9 @@
     height: 23vw;
     opacity: 0.2;
 }
-
+.BlockLeftImgContainer {
+    padding: 0 145px;
+}
 @media(max-width:1200px){
   .CallBannerFlex {
     padding: 0 12vw !important;
