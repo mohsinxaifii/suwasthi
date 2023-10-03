@@ -5,6 +5,7 @@
   .CallBannerFlexLinks{
     height: 32vw !important;
     align-items: center !important;
+    justify-content: center;
   }
   .CallBannerFlexImgContainer{
     height: 32vw !important;
