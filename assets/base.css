@@ -1,3 +1,10 @@
+@media(max-width:1200px){
+  .CallBannerFlex {
+    padding: 0 12vw;
+}
+}
+
+
 .page-width-desktop {
     margin: 0 !important;
 }
