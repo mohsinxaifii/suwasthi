@@ -315,7 +315,6 @@
       "type": "custom-liquid",
       "custom_css": [
         ".testimonialsContentContainer {display: flex; justify-content: space-between; align-items: center; width: 100%; padding: 0 10vw;}",
-        ".testimonialsLeftText {text-align: left; color: #002c00; font-weight: 400; font-size: 5rem; line-height: 8rem;}",
         ".countdown {color: #42200a; font-weight: 600; font-size: 7rem;}",
         ".countdownPlus {color: #42200a; font-weight: 600; font-size: 7rem;}",
         ".testimonialsRightImg {width: 30vw;}"
