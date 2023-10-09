@@ -1,7 +1,7 @@
-/* .rotate {
+.rotate {
     transform: rotate(360deg);
     transition: transform 0.3s ease;
-} */
+}
 .BlockLeftImg {
     height: 19vw;
     opacity: .2;
