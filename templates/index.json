@@ -143,7 +143,7 @@
       "type": "custom-liquid",
       "custom_css": [
         ".iconsStripContainer {display: flex; justify-content: space-between; padding: 0 10vw; align-items: end;}",
-        ".iconsStripContainer img {width: 16%; height: auto; cursor: pointer;}"
+        ".iconsStripContainer img {width: 13%; height: auto; cursor: pointer;}"
       ],
       "settings": {
         "custom_liquid": "<div class=\"iconsStripContainer\">\n        <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_9.png?v=1695550914 alt=\"\">\n        <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_7.png?v=1695550914  alt=\"\">\n        <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_8.png?v=1695550915 alt=\"\">\n        <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_10.png?v=1695550915 alt=\"\">\n    <\/div>",
