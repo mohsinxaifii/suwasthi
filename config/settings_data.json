@@ -402,7 +402,7 @@
       ".CallBannerFlexLink svg {font-size: 6rem; fill: white;}",
       ".CallBannerFlexLinkText {font-size: 2.5rem; color: white; font-weight: 400; text-align: left; margin: 0; line-height: 3.5rem; transition: all ease-in-out 0.3s;}",
       ".CallBannerFlexImgContainer {height: 250px; align-items: end; display: flex;}",
-      ".CallBannerFlexImg {height: 330px;}"
+      ".CallBannerFlexImg {height: 280px;}"
     ]
   }
 }
