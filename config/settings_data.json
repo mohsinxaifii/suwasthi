@@ -395,12 +395,12 @@
     "custom_css": [
       ".CallBanner {background-color: #002c00; width: 100%; height: 400px; display: flex; justify-content: center; align-items: center;}",
       ".CallBannerHeading {font-size: 4rem; color: #002c00; font-weight: 600; margin: 15px 0; text-align: left;}",
-      ".CallBannerSubHeading {font-size: 2.5rem; color: white; font-weight: 100; text-align: center; margin-bottom: 30px; margin-top: 0;}",
+      ".CallBannerSubHeading {font-size: 2.5rem; color: #002c00; font-weight: 100; text-align: center; margin-bottom: 30px; margin-top: 0;}",
       ".CallBannerFlex {display: flex; width: 100%; justify-content: space-between; align-items: end; justify-content: space-between; padding: 0 22vw; margin-top: 10px;}",
       ".CallBannerFlexLinks {display: flex; width: 91%; justify-content: flex-start; align-items: start; height: 250px; gap: 23px;}",
       ".CallBannerFlexLink {background-color: white; border-radius: 20px; padding: 10px 18px; display: flex; justify-content: center; cursor: pointer; align-items: center; gap: 24px;}",
       ".CallBannerFlexLink svg {font-size: 6rem; fill: white;}",
-      ".CallBannerFlexLinkText {font-size: 2.5rem; color: #002c00; font-weight: 400; text-align: left; margin: 0; line-height: 3.5rem;}",
+      ".CallBannerFlexLinkText {font-size: 2.5rem; color: white; font-weight: 400; text-align: left; margin: 0; line-height: 3.5rem;}",
       ".CallBannerFlexImgContainer {height: 250px;}",
       ".CallBannerFlexImg {height: 400px;}"
     ]
