@@ -1,3 +1,21 @@
+.iconsStripContainer {
+  display: flex;
+  justify-content: center;
+  padding: 0 10vw;
+  gap: 125px;
+  align-items: end;
+}
+.iconsStripContainer img {
+  width: 14%;
+  height: auto;
+  cursor: pointer;
+  transition: all ease-in-out 0.3s;
+}
+.iconsStripContainer img:hover {
+  scale: 1.3;
+  opacity: 0.8;
+}
+
 .rotate {
     transform: rotate(360deg);
     transition: transform 0.3s ease;
