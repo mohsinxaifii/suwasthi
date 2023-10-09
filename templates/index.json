@@ -217,7 +217,7 @@
         ".BlockLeftImg {margin-right: -3%;}"
       ],
       "settings": {
-        "custom_liquid": "<div class=\"suwasthiHomeAboutBlockLeftContainer\">\n        <div class=\"BlockLeftText\">\n            <p class=\"BlockLeftTextHeading\">Close to nature as it is the best healer<\/p>\n            <p class=\"BlockLeftTextParagraph\">Formulated with the ancient rarest herbs derived from the nature, loaded with powerful ingredients based on ayurveda which have visible results . We go the extra mile to extract the best from nature's vast repertoire<\/p>\n        <\/div>\n        <div class=\"BlockLeftImgContainer\">\n            <img class=\"BlockLeftImg\" src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Layer_13.png?v=1695565019 alt=\"\">\n        <\/div>\n    <\/div>",
+        "custom_liquid": "<div class=\"suwasthiHomeAboutBlockLeftContainer\">\n        <div class=\"BlockLeftText\">\n            <p class=\"BlockLeftTextHeading\">Close to nature as it is the best healer<\/p>\n            <p class=\"BlockLeftTextParagraph\">Formulated with the ancient rarest herbs derived from the nature, loaded with powerful ingredients based on ayurveda which have visible results . We go the extra mile to extract the best from nature's vast repertoire<\/p>\n        <\/div>\n        <div class=\"BlockLeftImgContainer\">\n            <img class=\"BlockLeftImg\"  id=\"BlockLeftImgRotate\" src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Layer_13.png?v=1695565019 alt=\"\">\n        <\/div>\n    <\/div>",
         "color_scheme": "",
         "padding_top": 52,
         "padding_bottom": 0
@@ -251,7 +251,7 @@
         ".BlockLeftImg {margin-right: -3%;}"
       ],
       "settings": {
-        "custom_liquid": "<div class=\"suwasthiHomeAboutBlockLeftContainer\">\n        <div class=\"BlockLeftText\">\n            <p class=\"BlockLeftTextHeading\">We care for you, a little extra<\/p>\n            <p class=\"BlockLeftTextParagraph\">Not only good products but also We offer free Dr. Consultation with proper guidance and personalised diet plans according to your problem<\/p>\n        <\/div>\n        <div class=\"BlockLeftImgContainer\">\n            <img class=\"BlockLeftImg\" src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Layer_15.png?v=1695565020 alt=\"\">\n        <\/div>\n    <\/div>",
+        "custom_liquid": "<div class=\"suwasthiHomeAboutBlockLeftContainer\">\n        <div class=\"BlockLeftText\">\n            <p class=\"BlockLeftTextHeading\">We care for you, a little extra<\/p>\n            <p class=\"BlockLeftTextParagraph\">Not only good products but also We offer free Dr. Consultation with proper guidance and personalised diet plans according to your problem<\/p>\n        <\/div>\n        <div class=\"BlockLeftImgContainer\">\n            <img class=\"BlockLeftImg\"  id=\"BlockLeftImgRotate\" src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Layer_15.png?v=1695565020 alt=\"\">\n        <\/div>\n    <\/div>",
         "color_scheme": "",
         "padding_top": 4,
         "padding_bottom": 0
