@@ -1,3 +1,8 @@
+.BlockLeftImgContainer {
+  display: flex;
+  justify-content: end;
+  width: 100%;
+}
 .iconsStripContainer {
   display: flex;
   justify-content: center;
