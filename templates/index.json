@@ -228,13 +228,13 @@
         ".BlockLeftText {width: 100%; padding: 0 10vw; position: absolute; z-index: 2; display: flex; flex-direction: column; align-items: end;}",
         ".BlockLeftTextHeading {width: 45vw; font-size: 4rem; margin: 0; color: #002c00; font-weight: 600; text-align: right; line-height: 4.5rem;}",
         ".BlockLeftTextParagraph {color: #002c00; font-size: 2.5rem; width: 45vw; text-align: right; font-weight: 400; line-height: 3.5rem;}",
-        ".BlockLeftImgContainer{justify-content: start;}",
+        ".BlockLeftImgContainer {justify-content: start;}",
         ".BlockLeftImg {margin-right: -3%;}"
       ],
       "settings": {
         "custom_liquid": "<div class=\"suwasthiHomeAboutBlockLeftContainer\">\n        <div class=\"BlockLeftText\">\n            <p class=\"BlockLeftTextHeading\">Designed by our own expert scientists to treat you naturally<\/p>\n            <p class=\"BlockLeftTextParagraph\">Our Research & development team personally test-runs and approves every formulation before release and then We deliver quality driven Natural and 100% safe products at your doorstep<\/p>\n        <\/div>\n        <div class=\"BlockLeftImgContainer\">\n            <img class=\"rotate BlockLeftImg\"  id=\"BlockLeftImgRotate\" src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Layer_14_648e4dd5-4097-4503-9025-0b86387f1ec6.png?v=1695565020 alt=\"\">\n        <\/div>\n    <\/div>\n\n\n<script>\n        \/\/ Function to check if an element is in the viewport\n        function isElementInViewport(el) {\n            const rect = el.getBoundingClientRect();\n            return (\n                rect.top >= 0 &&\n                rect.left >= 0 &&\n                rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&\n                rect.right <= (window.innerWidth || document.documentElement.clientWidth)\n            );\n        }\n\n        \/\/ Rotate the element based on scroll\n        function rotateOnScroll() {\n            const element = document.getElementById('BlockLeftImgRotate'); \/\/ Replace with your element's ID\n            if (isElementInViewport(element)) {\n                const scrollPercentage = window.scrollY \/ (document.body.scrollHeight - window.innerHeight);\n                const rotationAngle = 360 * scrollPercentage; \/\/ Adjust rotation as needed\n                element.style.transform = `rotate(${rotationAngle}deg)`;\n            }\n        }\n\n        \/\/ Attach the scroll event listener\n        window.addEventListener('scroll', rotateOnScroll);\n\n        \/\/ Initially call the function to check if the element is already in the viewport\n        rotateOnScroll();\n    <\/script>",
         "color_scheme": "",
-        "padding_top": 4,
+        "padding_top": 52,
         "padding_bottom": 0
       }
     },
@@ -251,7 +251,7 @@
       "settings": {
         "custom_liquid": "<div class=\"suwasthiHomeAboutBlockLeftContainer\">\n        <div class=\"BlockLeftText\">\n            <p class=\"BlockLeftTextHeading\">We care for you, a little extra<\/p>\n            <p class=\"BlockLeftTextParagraph\">Not only good products but also We offer free Dr. Consultation with proper guidance and personalised diet plans according to your problem<\/p>\n        <\/div>\n        <div class=\"BlockLeftImgContainer\">\n            <img class=\"rotate BlockLeftImg\"  id=\"BlockLeftImgRotate\" src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Layer_15.png?v=1695565020 alt=\"\">\n        <\/div>\n    <\/div>\n    <script>\n        function isElementInViewport(el) {\n            const rect = el.getBoundingClientRect();\n            return (\n                rect.top >= 0 &&\n                rect.left >= 0 &&\n                rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&\n                rect.right <= (window.innerWidth || document.documentElement.clientWidth)\n            );\n        }\n        function rotateOnScroll() {\n            const element = document.getElementById('BlockLeftImgRotate');\n            if (isElementInViewport(element)) {\n                const scrollPercentage = window.scrollY \/ (document.body.scrollHeight - window.innerHeight);\n                const rotationAngle = 360 * scrollPercentage;\n                element.style.transform = `rotate(${rotationAngle}deg)`;\n            }\n        }\n        window.addEventListener('scroll', rotateOnScroll);\n        rotateOnScroll();\n    <\/script>",
         "color_scheme": "",
-        "padding_top": 4,
+        "padding_top": 52,
         "padding_bottom": 0
       }
     },
