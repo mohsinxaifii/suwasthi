@@ -208,7 +208,12 @@
     "e4a47204-661f-4438-a541-0f8b56437fe3": {
       "type": "custom-liquid",
       "custom_css": [
-
+        ".suwasthiHomeAboutBlockLeftContainer {display: flex; align-items: center;}",
+        ".BlockLeftText {width: 100%; padding: 0 10vw; position: absolute; z-index: 2;}",
+        ".BlockLeftTextHeading {width: 45vw; font-size: 4rem; margin: 0; color: #002c00; font-weight: 600; text-align: left; line-height: 4.5rem;}",
+        ".BlockLeftTextParagraph {color: #002c00; font-size: 2.5rem; width: 45vw; text-align: left; font-weight: 400; line-height: 3.5rem;}",
+        ".BlockLeftImgContainer {display: flex; justify-content: end; width: 100%;}",
+        ".BlockLeftImg {margin-right: -3%;}"
       ],
       "settings": {
         "custom_liquid": "<div class=\"suwasthiHomeAboutBlockLeftContainer\">\n        <div class=\"BlockLeftText\">\n            <p class=\"BlockLeftTextHeading\">Close to nature as it is the best healer<\/p>\n            <p class=\"BlockLeftTextParagraph\">Formulated with the ancient rarest herbs derived from the nature, loaded with powerful ingredients based on ayurveda which have visible results . We go the extra mile to extract the best from nature's vast repertoire<\/p>\n        <\/div>\n        <div class=\"BlockLeftImgContainer\" >\n            <img id=\"BlockLeftImgRotate\"  class=\"rotate BlockLeftImg\"  src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Layer_13.png?v=1695565019 alt=\"\">\n        <\/div>\n    <\/div>\n\n\n  <script>\n        function isElementInViewport(el) {\n            const rect = el.getBoundingClientRect();\n            return (\n                rect.top >= 0 &&\n                rect.left >= 0 &&\n                rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&\n                rect.right <= (window.innerWidth || document.documentElement.clientWidth)\n            );\n        }\n        function rotateOnScroll() {\n            const element = document.getElementById('BlockLeftImgRotate');\n            if (isElementInViewport(element)) {\n                const scrollPercentage = window.scrollY \/ (document.body.scrollHeight - window.innerHeight);\n                const rotationAngle = 360 * scrollPercentage;\n                element.style.transform = `rotate(${rotationAngle}deg)`;\n            }\n        }\n        window.addEventListener('scroll', rotateOnScroll);\n        rotateOnScroll();\n    <\/script>",
@@ -232,7 +237,12 @@
     "fa55cb20-6407-4cd7-afa1-9d5e7ae5cdae": {
       "type": "custom-liquid",
       "custom_css": [
-
+        ".suwasthiHomeAboutBlockLeftContainer {display: flex; align-items: center;}",
+        ".BlockLeftText {width: 100%; padding: 0 10vw; position: absolute; z-index: 2;}",
+        ".BlockLeftTextHeading {width: 45vw; font-size: 4rem; margin: 0; color: #002c00; font-weight: 600; text-align: left; line-height: 4.5rem;}",
+        ".BlockLeftTextParagraph {color: #002c00; font-size: 2.5rem; width: 45vw; text-align: left; font-weight: 400; line-height: 3.5rem;}",
+        ".BlockLeftImgContainer {display: flex; justify-content: end; width: 100%;}",
+        ".BlockLeftImg {margin-right: -3%;}"
       ],
       "settings": {
         "custom_liquid": "<div class=\"suwasthiHomeAboutBlockLeftContainer\">\n        <div class=\"BlockLeftText\">\n            <p class=\"BlockLeftTextHeading\">We care for you, a little extra<\/p>\n            <p class=\"BlockLeftTextParagraph\">Not only good products but also We offer free Dr. Consultation with proper guidance and personalised diet plans according to your problem<\/p>\n        <\/div>\n        <div class=\"BlockLeftImgContainer\">\n            <img class=\"rotate BlockLeftImg\"  id=\"BlockLeftImgRotate\" src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Layer_15.png?v=1695565020 alt=\"\">\n        <\/div>\n    <\/div>\n    <script>\n        function isElementInViewport(el) {\n            const rect = el.getBoundingClientRect();\n            return (\n                rect.top >= 0 &&\n                rect.left >= 0 &&\n                rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&\n                rect.right <= (window.innerWidth || document.documentElement.clientWidth)\n            );\n        }\n        function rotateOnScroll() {\n            const element = document.getElementById('BlockLeftImgRotate');\n            if (isElementInViewport(element)) {\n                const scrollPercentage = window.scrollY \/ (document.body.scrollHeight - window.innerHeight);\n                const rotationAngle = 360 * scrollPercentage;\n                element.style.transform = `rotate(${rotationAngle}deg)`;\n            }\n        }\n        window.addEventListener('scroll', rotateOnScroll);\n        rotateOnScroll();\n    <\/script>",
