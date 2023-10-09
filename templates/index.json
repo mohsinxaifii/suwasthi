@@ -236,7 +236,7 @@
       "settings": {
         "custom_liquid": "<div class=\"suwasthiHomeAboutBlockLeftContainer\">\n        <div class=\"BlockLeftText\">\n            <p class=\"BlockLeftTextHeading\">Designed by our own expert scientists to treat you naturally<\/p>\n            <p class=\"BlockLeftTextParagraph\">Our Research & development team personally test-runs and approves every formulation before release and then We deliver quality driven Natural and 100% safe products at your doorstep<\/p>\n        <\/div>\n        <div class=\"BlockLeftImgContainer\">\n            <img class=\"BlockLeftImg\" src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Layer_14_648e4dd5-4097-4503-9025-0b86387f1ec6.png?v=1695565020 alt=\"\">\n        <\/div>\n    <\/div>",
         "color_scheme": "",
-        "padding_top": 52,
+        "padding_top": 4,
         "padding_bottom": 0
       }
     },
@@ -253,7 +253,7 @@
       "settings": {
         "custom_liquid": "<div class=\"suwasthiHomeAboutBlockLeftContainer\">\n        <div class=\"BlockLeftText\">\n            <p class=\"BlockLeftTextHeading\">We care for you, a little extra<\/p>\n            <p class=\"BlockLeftTextParagraph\">Not only good products but also We offer free Dr. Consultation with proper guidance and personalised diet plans according to your problem<\/p>\n        <\/div>\n        <div class=\"BlockLeftImgContainer\">\n            <img class=\"BlockLeftImg\" src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Layer_15.png?v=1695565020 alt=\"\">\n        <\/div>\n    <\/div>",
         "color_scheme": "",
-        "padding_top": 52,
+        "padding_top": 4,
         "padding_bottom": 0
       }
     },
