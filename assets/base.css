@@ -1,7 +1,7 @@
 .CallBannerFlexLink:hover .CallBannerFlexLinkText{
   opacity: .7;
 }
-.CallBannerFlexLink:hover .CallBannerFlexLink<svg{
+.CallBannerFlexLink:hover .arrowSvg{
   scale: 1.3;
 }
 
