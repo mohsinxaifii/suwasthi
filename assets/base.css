@@ -1,3 +1,7 @@
+.suwasthiHomeAboutBlockLeftContainer {
+  display: flex;
+  align-items: center;
+}
 .BlockLeftImgContainer {
   display: flex;
   justify-content: end;
