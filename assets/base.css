@@ -1,3 +1,8 @@
+        .rotate {
+            transform: rotate(0deg); /* Initial rotation angle */
+            transition: transform 0.5s ease; /* Transition for smooth rotation */
+        }
+
 .BlockLeftImg {
     height: 19vw;
     opacity: .2;
