@@ -178,7 +178,7 @@
         "padding_bottom": 0
       }
     },
-    "65dac945-f2c4-448b-965f-048de3de2420": {
+    "3e47b047-f29d-4309-a5e8-298d29cd67db": {
       "type": "custom-liquid",
       "custom_css": [
         ".headingContainer {justify-content: center; align-items: center; display: flex;}",
@@ -186,23 +186,23 @@
         ".hrText {font-size: 5rem; font-weight: 600; width: fit-content; color: #002c00; text-align: center; margin: 0; padding: 0 30px; background-color: white; position: relative;}"
       ],
       "settings": {
-        "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Standards<\/p>\n    <\/div>",
+        "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Why Us?<\/p>\n    <\/div>",
         "color_scheme": "",
-        "padding_top": 24,
-        "padding_bottom": 24
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
-    "9cdafaa8-a70d-4752-aedc-cf579719c6b9": {
+    "16ecc9dc-dba5-463a-9c34-d04333ecfb8f": {
       "type": "custom-liquid",
       "custom_css": [
         ".iconsStripContainer {display: flex; justify-content: space-between; padding: 0 10vw; align-items: start;}",
         ".iconsStripContainer img {width: 9%; height: auto;}"
       ],
       "settings": {
-        "custom_liquid": "<div class=\"iconsStripContainer\">\n            <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_4.png?v=1695550498 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_3.png?v=1695550498 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_1.png?v=1695550498 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_2.png?v=1695550498 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_5.png?v=1695550498 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_6.png?v=1695550498 alt=\"\">\n    <\/div>",
+        "custom_liquid": "<div class=\"iconsStripContainer\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/reshot-icon-naturally-replenished-GVUJ7ZNFHA_copy.png?v=1696231030 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/filter_copy.png?v=1696231029 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/reshot-icon-quality-control-RG3J6ST4HF_copy_2.png?v=1696231029 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/reshot-icon-leaves-FSXPVEMGRJ_copy.png?v=1696231029 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/meal_copy.png?v=1696231029 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Free_Doctor_Consultat_-ion.png?v=1696231029 alt=\"\">\n    <\/div>",
         "color_scheme": "",
         "padding_top": 0,
-        "padding_bottom": 0
+        "padding_bottom": 40
       }
     },
     "e4a47204-661f-4438-a541-0f8b56437fe3": {
@@ -255,7 +255,7 @@
         "padding_bottom": 0
       }
     },
-    "3e47b047-f29d-4309-a5e8-298d29cd67db": {
+    "65dac945-f2c4-448b-965f-048de3de2420": {
       "type": "custom-liquid",
       "custom_css": [
         ".headingContainer {justify-content: center; align-items: center; display: flex;}",
@@ -263,23 +263,23 @@
         ".hrText {font-size: 5rem; font-weight: 600; width: fit-content; color: #002c00; text-align: center; margin: 0; padding: 0 30px; background-color: white; position: relative;}"
       ],
       "settings": {
-        "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Why Us?<\/p>\n    <\/div>",
+        "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Standards<\/p>\n    <\/div>",
         "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 24,
+        "padding_bottom": 24
       }
     },
-    "16ecc9dc-dba5-463a-9c34-d04333ecfb8f": {
+    "9cdafaa8-a70d-4752-aedc-cf579719c6b9": {
       "type": "custom-liquid",
       "custom_css": [
         ".iconsStripContainer {display: flex; justify-content: space-between; padding: 0 10vw; align-items: start;}",
         ".iconsStripContainer img {width: 9%; height: auto;}"
       ],
       "settings": {
-        "custom_liquid": "<div class=\"iconsStripContainer\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/reshot-icon-naturally-replenished-GVUJ7ZNFHA_copy.png?v=1696231030 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/filter_copy.png?v=1696231029 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/reshot-icon-quality-control-RG3J6ST4HF_copy_2.png?v=1696231029 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/reshot-icon-leaves-FSXPVEMGRJ_copy.png?v=1696231029 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/meal_copy.png?v=1696231029 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Free_Doctor_Consultat_-ion.png?v=1696231029 alt=\"\">\n    <\/div>",
+        "custom_liquid": "<div class=\"iconsStripContainer\">\n            <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_4.png?v=1695550498 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_3.png?v=1695550498 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_1.png?v=1695550498 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_2.png?v=1695550498 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_5.png?v=1695550498 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_6.png?v=1695550498 alt=\"\">\n    <\/div>",
         "color_scheme": "",
         "padding_top": 0,
-        "padding_bottom": 40
+        "padding_bottom": 0
       }
     },
     "3ee70ec9-6834-4f3f-b0ed-fb85aed5dbb8": {
@@ -335,13 +335,13 @@
     "191fe880-6070-4fed-b39d-a4af438a4777",
     "68c20044-34d4-4887-b0e0-5bd2d89af994",
     "8696c76d-508a-4dec-800b-8181c9f6c309",
-    "65dac945-f2c4-448b-965f-048de3de2420",
-    "9cdafaa8-a70d-4752-aedc-cf579719c6b9",
+    "3e47b047-f29d-4309-a5e8-298d29cd67db",
+    "16ecc9dc-dba5-463a-9c34-d04333ecfb8f",
     "e4a47204-661f-4438-a541-0f8b56437fe3",
     "1517112b-7937-458e-ab68-6396f999ed5f",
     "fa55cb20-6407-4cd7-afa1-9d5e7ae5cdae",
-    "3e47b047-f29d-4309-a5e8-298d29cd67db",
-    "16ecc9dc-dba5-463a-9c34-d04333ecfb8f",
+    "65dac945-f2c4-448b-965f-048de3de2420",
+    "9cdafaa8-a70d-4752-aedc-cf579719c6b9",
     "3ee70ec9-6834-4f3f-b0ed-fb85aed5dbb8",
     "9290b968-425c-45a3-bb16-e5e10bd7b47d",
     "08a874f3-aa52-447b-a34e-25799822f316"
