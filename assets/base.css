@@ -1,6 +1,7 @@
-.CallBannerLeft{
-  width: 50vw;
+.CallBannerLeft {
+    width: 55vw;
 }
+
 .suwasthiHomeAboutBlockLeftContainer {
   display: flex;
   align-items: center;
