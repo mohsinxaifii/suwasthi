@@ -1,10 +1,10 @@
-/* .CallBannerFlexLink:hover .CallBannerFlexLinkText{
+.CallBannerFlexLink:hover .CallBannerFlexLinkText{
   opacity: .7;
-} */
-.CallBannerFlexLink:hover .arrowSvg{
+}
+/* .CallBannerFlexLink:hover .arrowSvgg{
   scale: 1.3;
 }
-
+ */
 
 .CallBannerLeft {
     width: 55vw;
