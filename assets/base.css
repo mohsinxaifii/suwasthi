@@ -2470,13 +2470,14 @@ product-info .loading-overlay:not(.hidden) ~ *,
   vertical-align: middle;
   margin-bottom: 0.2rem;
 }
-
 .announcement-bar__message {
-  text-align: center;
-  padding: 1rem 0;
-  margin: 0;
-  letter-spacing: 0.1rem;
-  min-height: 3.8rem;
+    text-align: center;
+    padding: 1rem 0;
+    font-size: 1.7rem;
+    margin: 0;
+    letter-spacing: .1rem;
+    min-height: 3.8rem;
+    font-weight: 600;
 }
 
 .announcement-bar-slider--fade-in-next .announcement-bar__message,
