@@ -85,8 +85,8 @@
 
 .card .card__inner .card__media {
     overflow: hidden;
-    z-index: 0;
     width: 100%;
+    z-index: 0;
     border-radius: calc(var(--border-radius) - var(--border-width) - var(--image-padding));
 }
 
