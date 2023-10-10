@@ -6,7 +6,7 @@
     letter-spacing: .2rem;
     margin: auto;
     font-size: 2.5rem;
-    min-width: auto;
+    min-width: auto !important;
     box-sizing: border-box;
     font-weight: 600;
 }
