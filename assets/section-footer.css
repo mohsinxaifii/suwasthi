@@ -1,4 +1,10 @@
-        .footer{
+.footerImgFull{
+  width: 100%;
+  height: auto;
+}
+
+
+.footer{
             background-color: #002900;
             width: 100%;
             height: fit-content;
