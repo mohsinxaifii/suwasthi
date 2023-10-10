@@ -15,8 +15,10 @@
     margin-bottom: 0;
     color: #002c00;
 }
-.inline-richtext{
-  font-size:10rem;
+.inline-richtext {
+    font-size: 5rem;
+    width: 100% !important;
+    font-weight: 600;
 }
 
 .newsletter__wrapper > * + * {
