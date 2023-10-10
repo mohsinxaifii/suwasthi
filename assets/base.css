@@ -2045,12 +2045,11 @@ input[type='checkbox'] {
   text-align: left;
 }
 
-.form__message .icon,
-.customer .form__message svg {
-  flex-shrink: 0;
-  height: 1.3rem;
-  margin-right: 0.5rem;
-  width: 1.3rem;
+.form__message .icon, .customer .form__message svg {
+    flex-shrink: 0;
+    height: 3.3rem;
+    margin-right: 0.5rem;
+    width: 5.3rem;
 }
 
 .form__message--large .icon,
