@@ -2,9 +2,12 @@
     border: solid 1px #002c00;
     align-items: flex-start;
     margin: 0 auto;
+    display: flex;
+    justify-content: center;
     border-radius: 12px;
     padding: 10px 30px;
     width: 33vw;
+    align-items: center;
 }
 
 @media screen and (min-width: 750px) {
