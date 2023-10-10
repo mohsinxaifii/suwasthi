@@ -330,14 +330,14 @@
         "template--21109731819838__5263ce76-a002-4162-a4ea-6c5bd998cd01-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Subscribe to our emails",
+            "heading": "Unlock Offers &",
             "heading_size": "h1"
           }
         },
         "template--21109731819838__5263ce76-a002-4162-a4ea-6c5bd998cd01-paragraph-1": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+            "text": "<p>Subscribe for Content<\/p>"
           }
         },
         "template--21109731819838__5263ce76-a002-4162-a4ea-6c5bd998cd01-email_form-1": {
