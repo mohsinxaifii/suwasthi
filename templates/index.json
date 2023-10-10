@@ -299,11 +299,10 @@
     "9290b968-425c-45a3-bb16-e5e10bd7b47d": {
       "type": "custom-liquid",
       "custom_css": [
-        ".videoContainer {display: flex; align-items: center; justify-content: center; width: 100%; padding: 0 10vw; margin: 0;}",
-        ".videoContainer video {width: 100%; margin: 0; border-radius: 20px;}"
+
       ],
       "settings": {
-        "custom_liquid": "<div class=\"videoContainer\">\n    <iframe width=\"1400\" height=\"600\" src=\"https:\/\/www.youtube.com\/embed\/86zuOx_oLV8?si=IqWcsWB-_NG7eBru&amp;controls=0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>      \n<\/div>",
+        "custom_liquid": "<div class=\"videoContainer\">\n    <video src=\"https:\/\/www.instagram.com\/p\/CJYnfpHp8G2\/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==\"><\/video>\n    <video src=\"https:\/\/www.instagram.com\/p\/CJYnfpHp8G2\/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==\"><\/video>\n    <video src=\"https:\/\/www.instagram.com\/p\/CJYnfpHp8G2\/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==\"><\/video>\n    <video src=\"https:\/\/www.instagram.com\/p\/CJYnfpHp8G2\/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==\"><\/video>\n<\/div>\n\n<style>\n    .videoContainer {\n  display: flex;\n  flex-wrap: wrap;\n  align-items: center;\n  justify-content: center;\n  width: 100%;\n  padding: 0 10vw;\n  margin: 0;\n}\n.videoContainer video {\n  width: 20vw;\n  height: auto;\n  aspect-ratio: 9 \/ 16;\n  margin: 0;\n  border-radius: 20px;\n}\n<\/style>",
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 52
