@@ -76,6 +76,7 @@
 
 .CallBannerFlexLink:hover{
   scale: 1.3;
+  z-index: 99;
 }
 
 .CallBannerFlexLink:hover .CallBannerFlexLinkText{
