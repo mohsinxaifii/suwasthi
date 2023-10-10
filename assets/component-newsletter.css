@@ -49,9 +49,11 @@
 }
 
 @media screen and (min-width: 750px) {
-  .newsletter-form__message {
+.newsletter-form__message {
     justify-content: flex-start;
-  }
+    position: absolute;
+    margin-left: 757px;
+}
 }
 
 .newsletter-form__button {
