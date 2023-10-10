@@ -1,3 +1,14 @@
+.newsletter__wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 40px;
+    padding-bottom: 52px;
+    align-items: center;
+}
+
+
+
 .CallBanner {
   background: linear-gradient(180deg, transparent, rgba(0, 44, 0, 0.1));
   width: 100%;
