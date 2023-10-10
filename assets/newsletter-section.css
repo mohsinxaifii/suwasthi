@@ -17,10 +17,11 @@
 }
 .inline-richtext {
     font-size: 5rem;
-    width: 100% !important;
+    width: 100%!important;
     font-weight: 600;
+    line-height: 3rem;
+    font-family: var(--font-body-family);
 }
-
 .newsletter__wrapper > * + * {
   margin-top: 2rem;
 }
