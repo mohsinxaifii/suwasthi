@@ -49,6 +49,7 @@
   cursor: pointer;
   align-items: center;
   gap: 24px;
+  transition: all ease-in-out .3s;
 }
 .CallBannerFlexLink svg {
   font-size: 6rem;
