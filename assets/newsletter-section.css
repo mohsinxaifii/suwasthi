@@ -15,6 +15,9 @@
     margin-bottom: 0;
     color: #002c00;
 }
+.inline-richtext{
+  font-size:10rem;
+}
 
 .newsletter__wrapper > * + * {
   margin-top: 2rem;
