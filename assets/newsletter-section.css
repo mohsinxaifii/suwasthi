@@ -43,6 +43,7 @@
 
 .newsletter__wrapper .newsletter-form__field-wrapper {
     width: 100% !important;
+    max-width: 100%;
 }
 
 .newsletter-form__field-wrapper .newsletter-form__message {
