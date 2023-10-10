@@ -1,19 +1,19 @@
 .newsletter-form {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  width: 100%;
-  position: relative;
+    border: solid 1px #002c00;
+    align-items: flex-start;
+    margin: 0 auto;
+    border-radius: 12px;
+    padding: 10px 30px;
+    width: 33vw;
 }
 
 @media screen and (min-width: 750px) {
-  .newsletter-form {
+  /* .newsletter-form {
     align-items: flex-start;
     margin: 0 auto;
     max-width: 36rem;
   }
-}
+} */
 
 .newsletter-form__field-wrapper {
   width: 100%;
