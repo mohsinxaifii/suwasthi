@@ -3021,12 +3021,11 @@ details[open] > .header__submenu {
 }
 
 .header__menu-item span {
-  transition: text-decoration var(--duration-short) ease;
+  transition: all ease-in .3s;
 }
 
 .header__menu-item:hover span {
-  text-decoration: underline;
-  text-underline-offset: 0.3rem;
+  font-weight: 600;
 }
 
 details[open] > .header__menu-item {
