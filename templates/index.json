@@ -380,6 +380,21 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "10163cdf-957c-4fbb-9ae6-5b56727a1718": {
+      "type": "video",
+      "settings": {
+        "heading": "Video",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video": "shopify:\/\/files\/videos\/Snapinsta.app_video_133618310_428759761646041_4020651354723498590_n.mp4",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -403,6 +418,7 @@
     "3ee70ec9-6834-4f3f-b0ed-fb85aed5dbb8",
     "9290b968-425c-45a3-bb16-e5e10bd7b47d",
     "08a874f3-aa52-447b-a34e-25799822f316",
-    "5263ce76-a002-4162-a4ea-6c5bd998cd01"
+    "5263ce76-a002-4162-a4ea-6c5bd998cd01",
+    "10163cdf-957c-4fbb-9ae6-5b56727a1718"
   ]
 }
