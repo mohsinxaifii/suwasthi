@@ -3012,27 +3012,19 @@ details[open] > .header__submenu {
 
 .header__menu-item {
     padding: 1.2rem 2.4rem;
+    font-weight: 500;
     text-decoration: none;
     color: rgba(var(--color-foreground),.75);
 }
 
 .header__menu-item:hover {
   color: rgb(var(--color-foreground));
+  text-decoration: none;
+      font-weight: 600;
 }
 
 .header__menu-item span {
   transition: all ease-in .3s;
-}
-
-.header__menu-item:hover span {
-  font-weight: 600;
-}
-.list-menu--inline span{
-  font-weight: 300;
-  transition: all ease-in .3s;
-}
-.list-menu--inline span:hover{
-  font-weight: 600;
 }
 
 details[open] > .header__menu-item {
