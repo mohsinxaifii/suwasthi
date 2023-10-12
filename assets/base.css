@@ -3013,6 +3013,7 @@ details[open] > .header__submenu {
 .header__menu-item {
     padding: 1.2rem 2.4rem;
     font-weight: 500;
+    font-size: 1rem;
     text-decoration: none;
     transition: all ease-in .3s;
     color: rgba(var(--color-foreground),.75);
