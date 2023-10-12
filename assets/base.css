@@ -10,13 +10,16 @@
 
 
 .CallBanner {
-  background: linear-gradient(180deg, transparent, rgba(0, 44, 0, 0.1));
-  width: 100%;
-  height: 250px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 2vw;
+    background: linear-gradient(180deg,rgba(0,44,0,.01),rgba(0,44,0,.1));
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 18px;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2vw;
+    border: solid #002c00 1px;
 }
 .CallBannerHeading {
   font-size: 4rem;
