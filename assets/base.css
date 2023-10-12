@@ -3027,6 +3027,13 @@ details[open] > .header__submenu {
 .header__menu-item:hover span {
   font-weight: 600;
 }
+.list-menu--inline span{
+  font-weight: 300;
+  transition: all ease-in .3s;
+}
+.list-menu--inline span:hover{
+  font-weight: 600;
+}
 
 details[open] > .header__menu-item {
   text-decoration: underline;
