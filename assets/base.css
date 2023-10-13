@@ -2757,7 +2757,9 @@ product-info .loading-overlay:not(.hidden) ~ *,
 }
 
 .header__icon {
-  color: rgb(var(--color-foreground));
+    color: rgb(var(--color-foreground));
+    fill: white;
+    font-size: 2.4rem !important;
 }
 
 .header__icon span {
