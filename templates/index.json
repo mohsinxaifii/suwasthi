@@ -96,7 +96,7 @@
         ".videoContainer video {width: 100%; margin: 0; border-radius: 20px;}"
       ],
       "settings": {
-        "custom_liquid": "<div class=\"videoContainer\">\n<iframe width=\"1400\" height=\"600\" src=\"https:\/\/www.youtube.com\/embed\/TSWEXI1X-iY?si=c_XlDI3xbsZoaLt8&amp;controls=0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\"><\/iframe>\n    <\/div>",
+        "custom_liquid": "<div class=\"videoContainer\">\n<iframe width=\"1400\" height=\"600\" src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/519927dc131f4100b07c78ce8d94a786.mp4\"><\/iframe>\n    <\/div>",
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 0
