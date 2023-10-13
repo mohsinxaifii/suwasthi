@@ -2249,7 +2249,9 @@ product-info .loading-overlay:not(.hidden) ~ *,
 }
 
 .modal__toggle-open {
-  display: flex;
+    fill: white;
+    height: 2.5rem;
+    display: flex;
 }
 
 .no-js details[open] .modal__toggle-open {
