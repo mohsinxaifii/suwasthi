@@ -89,21 +89,6 @@
         "padding_bottom": 20
       }
     },
-    "10163cdf-957c-4fbb-9ae6-5b56727a1718": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "video": "shopify:\/\/files\/videos\/bdffd5bb62514c58a80bf49d8b1f494d.mp4",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "f5ecb6a3-02f6-4738-89d6-8e4d1c28da93": {
       "type": "custom-liquid",
       "custom_css": [
@@ -198,7 +183,7 @@
         "full_width": false,
         "show_view_all": true,
         "view_all_style": "link",
-        "enable_desktop_slider": false,
+        "enable_desktop_slider": true,
         "color_scheme": "",
         "image_ratio": "square",
         "image_shape": "default",
@@ -306,7 +291,7 @@
       "settings": {
         "custom_liquid": "<div class=\"suwasthiHomeAboutBlockLeftContainer\">\n    <div class=\"BlockLeftText\">\n        <p class=\"BlockLeftTextHeading\">Close to nature as it is the best healer<\/p>\n        <p class=\"BlockLeftTextParagraph\">Formulated with the ancient rarest herbs derived from the nature, loaded with powerful ingredients based on ayurveda which have visible results . We go the extra mile to extract the best from nature's vast repertoire<\/p>\n    <\/div>\n    <div class=\"BlockLeftImgContainer\" >\n        <img id=\"BlockLeftImgRotate\"  class=\"BlockLeftImg\"  src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Layer_13.png?v=1695565019 alt=\"\">\n    <\/div>\n<\/div>\n\n\n<script>\n function isElementInViewport(el) {\n    const rect = el.getBoundingClientRect();\n    return (\n        rect.bottom >= 0 &&\n        rect.right >= 0 &&\n        rect.top <= (window.innerHeight || document.documentElement.clientHeight) &&\n        rect.left <= (window.innerWidth || document.documentElement.clientWidth)\n    );\n}\n\nfunction rotateOnScroll() {\n    const element = document.getElementById('BlockLeftImgRotate');\n    if (isElementInViewport(element)) {\n        const rect = element.getBoundingClientRect();\n        const scrollPercentage = Math.min(1, Math.max(0, (window.innerHeight - rect.top) \/ rect.height));\n        const maxRotationAngle = 30; \/\/ Maximum rotation angle in degrees\n        const rotationAngle = maxRotationAngle * scrollPercentage;\n        element.style.transform = `rotate(${rotationAngle}deg)`;\n    }\n}\n\nwindow.addEventListener('scroll', rotateOnScroll);\nrotateOnScroll();\n\n<\/script>",
         "color_scheme": "",
-        "padding_top": 52,
+        "padding_top": 20,
         "padding_bottom": 20
       }
     },
@@ -322,7 +307,7 @@
       "settings": {
         "custom_liquid": "<div class=\"suwasthiHomeAboutBlockLeftContainer\">\n    <div class=\"BlockLeftText\">\n        <p class=\"BlockLeftTextHeading\">Designed by our own expert scientists to treat you naturally<\/p>\n        <p class=\"BlockLeftTextParagraph\">Our Research & development team personally test-runs and approves every formulation before release and then We deliver quality driven Natural and 100% safe products at your doorstep<\/p>\n    <\/div>\n    <div class=\"BlockLeftImgContainer\">\n        <img class=\" BlockLeftImg\"  id=\"BlockLeftImgRotate\" src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Layer_14_648e4dd5-4097-4503-9025-0b86387f1ec6.png?v=1695565020 alt=\"\">\n    <\/div>\n<\/div>\n<script>\n function isElementInViewport(el) {\n    const rect = el.getBoundingClientRect();\n    return (\n        rect.bottom >= 0 &&\n        rect.right >= 0 &&\n        rect.top <= (window.innerHeight || document.documentElement.clientHeight) &&\n        rect.left <= (window.innerWidth || document.documentElement.clientWidth)\n    );\n}\n\nfunction rotateOnScroll() {\n    const element = document.getElementById('BlockLeftImgRotate');\n    if (isElementInViewport(element)) {\n        const rect = element.getBoundingClientRect();\n        const scrollPercentage = Math.min(1, Math.max(0, (window.innerHeight - rect.top) \/ rect.height));\n        const maxRotationAngle = 30; \/\/ Maximum rotation angle in degrees\n        const rotationAngle = maxRotationAngle * scrollPercentage;\n        element.style.transform = `rotate(${rotationAngle}deg)`;\n    }\n}\n\nwindow.addEventListener('scroll', rotateOnScroll);\nrotateOnScroll();\n\n<\/script>\n<style>\n.suwasthiHomeAboutBlockLeftContainer {\ndisplay: flex;\nalign-items: center;\n}\n<\/style>",
         "color_scheme": "",
-        "padding_top": 52,
+        "padding_top": 20,
         "padding_bottom": 20
       }
     },
@@ -339,7 +324,7 @@
       "settings": {
         "custom_liquid": "<div class=\"suwasthiHomeAboutBlockLeftContainer\">\n        <div class=\"BlockLeftText\">\n            <p class=\"BlockLeftTextHeading\">We care for you, a little extra<\/p>\n            <p class=\"BlockLeftTextParagraph\">Not only good products but also We offer free Dr. Consultation with proper guidance and personalised diet plans according to your problem<\/p>\n        <\/div>\n        <div class=\"BlockLeftImgContainer\">\n            <img class=\" BlockLeftImg\"  id=\"BlockLeftImgRotate\" src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Layer_15.png?v=1695565020 alt=\"\">\n        <\/div>\n    <\/div>\n<script>\n function isElementInViewport(el) {\n    const rect = el.getBoundingClientRect();\n    return (\n        rect.bottom >= 0 &&\n        rect.right >= 0 &&\n        rect.top <= (window.innerHeight || document.documentElement.clientHeight) &&\n        rect.left <= (window.innerWidth || document.documentElement.clientWidth)\n    );\n}\n\nfunction rotateOnScroll() {\n    const element = document.getElementById('BlockLeftImgRotate');\n    if (isElementInViewport(element)) {\n        const rect = element.getBoundingClientRect();\n        const scrollPercentage = Math.min(1, Math.max(0, (window.innerHeight - rect.top) \/ rect.height));\n        const maxRotationAngle = 30; \/\/ Maximum rotation angle in degrees\n        const rotationAngle = maxRotationAngle * scrollPercentage;\n        element.style.transform = `rotate(${rotationAngle}deg)`;\n    }\n}\n\nwindow.addEventListener('scroll', rotateOnScroll);\nrotateOnScroll();\n\n<\/script>",
         "color_scheme": "",
-        "padding_top": 52,
+        "padding_top": 20,
         "padding_bottom": 0
       }
     },
@@ -419,7 +404,6 @@
   "order": [
     "ff8314f7-c33c-4d1f-93ca-898087b59d36",
     "feeaaa21-6a7d-46f1-99af-9c46c4d33785",
-    "10163cdf-957c-4fbb-9ae6-5b56727a1718",
     "f5ecb6a3-02f6-4738-89d6-8e4d1c28da93",
     "65dac945-f2c4-448b-965f-048de3de2420",
     "9cdafaa8-a70d-4752-aedc-cf579719c6b9",
