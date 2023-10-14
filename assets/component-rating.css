@@ -1,5 +1,8 @@
 .card__quantity {
-  margin-top: 10px;
+    margin-top: 4px;
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 6px;
 }
 
 .quantity-text {
