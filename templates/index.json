@@ -91,6 +91,7 @@
     },
     "9fb2bd52-5b61-48d1-8d3e-c093ece6fc70": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "heading": "",
         "heading_size": "h1",
@@ -107,8 +108,8 @@
     "f5ecb6a3-02f6-4738-89d6-8e4d1c28da93": {
       "type": "custom-liquid",
       "custom_css": [
-        ".videoContainer {display: flex; align-items: center; justify-content: center; width: 100%; object-fit: cover; padding: 0 10vw; margin: 0;}",
-        ".videoContainer video {width: 100%; margin: 0; object-fit: cover; border-radius: 20px;}"
+        ".videoContainer {display: flex; align-items: center; justify-content: center; width: 100vw; object-fit: cover; \/* padding: 0 10vw; *\/ margin: 0;}",
+        ".videoContainer video {width: 100vw; margin: 0; object-fit: cover; border-radius: 20px;}"
       ],
       "settings": {
         "custom_liquid": "<div class=\"videoContainer\">\n  <iframe autoplay muted src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/519927dc131f4100b07c78ce8d94a786.mp4\"><\/iframe>\n<\/div>",
