@@ -108,7 +108,7 @@
     "cfc074df-e90a-4b69-9c15-e064a105bdf0": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div class=\"videoContainer\">\n  <video src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/cade06bee53c46b987614660ad39b4f1.mp4\"><\/video>\n<\/div>\n\n<style>\n  .videoContainer {\n    display: flex;\n    flex-wrap: wrap;\n    align-items: center;\n    justify-content: center;\n    width: 100%;\n    padding: 0 10vw;\n    margin: 0;\n  }\n\n  .videoContainer video {\n    width: 100%;\n    object-fit: cover;\n    height: auto;\n    background-color: #002c0020;\n    margin: 0;\n    border-radius: 20px;\n  }\n<\/style>",
+        "custom_liquid": "<div class=\"videoContainer\">\n  <video src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/cade06bee53c46b987614660ad39b4f1.mp4\"><\/video>\n<\/div>\n\n<style>\n  .videoContainerTop {\n    display: flex;\n    flex-wrap: wrap;\n    align-items: center;\n    justify-content: center;\n    width: 100%;\n    padding: 0 10vw;\n    margin: 0;\n  }\n\n  .videoContainerTop video {\n    width: 100%;\n    object-fit: cover;\n    height: auto;\n    background-color: #002c0020;\n    margin: 0;\n    border-radius: 20px;\n  }\n<\/style>",
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 0
