@@ -105,6 +105,15 @@
         "padding_bottom": 36
       }
     },
+    "cfc074df-e90a-4b69-9c15-e064a105bdf0": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"videoContainer\">\n  <video src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/cade06bee53c46b987614660ad39b4f1.mp4\"><\/video>\n<\/div>\n\n<style>\n  .videoContainer {\n    display: flex;\n    flex-wrap: wrap;\n    align-items: center;\n    justify-content: center;\n    width: 100%;\n    padding: 0 10vw;\n    margin: 0;\n  }\n\n  .videoContainer video {\n    width: 100%;\n    object-fit: cover;\n    height: auto;\n    background-color: #002c0020;\n    margin: 0;\n    border-radius: 20px;\n  }\n<\/style>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "f5ecb6a3-02f6-4738-89d6-8e4d1c28da93": {
       "type": "custom-liquid",
       "custom_css": [
@@ -421,6 +430,7 @@
     "ff8314f7-c33c-4d1f-93ca-898087b59d36",
     "feeaaa21-6a7d-46f1-99af-9c46c4d33785",
     "9fb2bd52-5b61-48d1-8d3e-c093ece6fc70",
+    "cfc074df-e90a-4b69-9c15-e064a105bdf0",
     "f5ecb6a3-02f6-4738-89d6-8e4d1c28da93",
     "65dac945-f2c4-448b-965f-048de3de2420",
     "9cdafaa8-a70d-4752-aedc-cf579719c6b9",
