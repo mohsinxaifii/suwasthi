@@ -1,12 +1,115 @@
-{% schema %}
-  {
-    "name": "Section name",
-    "settings": []
-  }
-{% endschema %}
+
+
+<div class="testimonialsContentContainer">
+  <p class="testimonialsLeftText">We enable<br>more than <span class="countdown">24998449</span><span
+          class="countdownPlus">+</span><br>Customers all over India</p>
+  <img id="floatingImage" class="testimonialsRightImg"
+      src="https://cdn.shopify.com/s/files/1/0830/2723/1038/files/delivery-concept-portrait-happy-african-american-delivery-man-red-cloth-holding-box-package-isolated-grey-studio-background-copy-space_copy_1.png?v=1695569171"
+      alt="">
+</div>
+
+
+
+
+
 
 {% stylesheet %}
+  #floatingImage {
+      position: relative;
+      height: auto;
+      transition: transform 3s ease-in-out;
+  }
+
+  .testimonialsContentContainer {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      width: 100%;
+      padding: 0 10vw;
+      overflow: visible;
+      position: relative;
+  }
+
+.countdown {
+  color: #42200a;
+  font-weight: 500;
+  font-size: 9rem;
+  font-family: fantasy;
+}
+
+  .countdownPlus {
+      color: #42200a;
+      font-weight: 600;
+      font-size: 7rem;
+  }
+
+.testimonialsRightImg {
+    width: 22vw;
+}
 {% endstylesheet %}
 
 {% javascript %}
+  const floatingImage = document.getElementById("floatingImage");
+const container = document.querySelector(".testimonialsContentContainer");
+const countdownSpan = document.querySelector(".countdown");
+
+const floatRadius = 18; // Radius in pixels
+let hasCountdownAnimated = false;
+
+// function moveImage() {
+//   const maxX = floatRadius * 6;
+//   const maxY = floatRadius * 6;
+
+//   const newX = Math.random() * maxX - floatRadius;
+//   const newY = Math.random() * maxY - floatRadius;
+//   const rotation = (Math.random() * 10 - 5).toFixed(2); // Random rotation between -5deg and 5deg
+
+//   floatingImage.style.transform = `translate(${newX}px, ${newY}px) rotate(${rotation}deg)`;
+// }
+
+
+
+// Function to animate the countdown
+function animateCountdown() {
+  if (!hasCountdownAnimated) {
+      hasCountdownAnimated = true;
+      let start = 24998449;
+      const end = 25000000;
+      // const duration = 100;
+      const step = 30;
+
+      const interval = setInterval(() => {
+          start += step;
+          countdownSpan.textContent = start;
+
+          if (start >= end) {
+              countdownSpan.textContent = end;
+              clearInterval(interval);
+          }
+      }, step);
+  }
+}
+
+// Check if the countdown element is in the viewport
+function isCountdownInViewport() {
+  const rect = countdownSpan.getBoundingClientRect();
+  return (
+      rect.top >= 0 &&
+      rect.bottom <= (window.innerHeight || document.documentElement.clientHeight)
+  );
+}
+
+// Set the initial position and rotation
+// moveImage();
+
+// Update the position and rotation every 3 seconds (you can adjust the interval)
+// setInterval(moveImage, 3000);
+
+// Check if the countdown element is in the viewport and start the animation
+window.addEventListener("scroll", () => {
+  if (isCountdownInViewport()) {
+      animateCountdown();
+  }
+});
+
 {% endjavascript %}
