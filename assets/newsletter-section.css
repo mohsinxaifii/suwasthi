@@ -10,9 +10,11 @@
   }
 }
 
-.element-container{
+.element-container {
     display: flex;
     flex-direction: column;
+    text-align: left;
+    justify-content: start;
 }
 .inline-richtext {
     margin: 10px 0;
