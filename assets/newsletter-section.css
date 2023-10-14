@@ -10,6 +10,11 @@
   }
 }
 
+.element-container{
+    display: flex;
+    flex-direction: column;
+}
+
 .newsletter__wrapper>* {
     margin-top: 0;
     margin-bottom: 0;
