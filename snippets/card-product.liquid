@@ -155,14 +155,15 @@
               {{ card_product.title | escape }}
             </a>
           </h3>
-          <div class="card__quantity">
+<div class="card__quantity">
   <p class="quantity-text">
-    Quantity: {{ custom.product_card_net_contents }}
-    {% if custom.product_card_net_contents %}
-      ({{ custom.product_card_net_contents | escape }})
+    Quantity: {{ card_product.quantity }}
+    {% if card_product.metafields.custom.product_card_net_contents %}
+      ({{ card_product.metafields.custom.product_card_net_contents | escape }})
     {% endif %}
   </p>
 </div>
+
 
           <div class="card-information">
             {%- if show_vendor -%}
