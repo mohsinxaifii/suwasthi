@@ -17,6 +17,11 @@
 .inline-richtext {
     margin: 10px 0;
 }
+.newsletter__wrapper {
+    flex-direction: row;
+    gap: 100px;
+}
+
 
 .newsletter__wrapper>* {
     margin-top: 0;
