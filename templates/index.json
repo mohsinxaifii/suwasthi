@@ -113,7 +113,7 @@
         "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Standards<\/p>\n    <\/div>",
         "color_scheme": "",
         "padding_top": 52,
-        "padding_bottom": 52
+        "padding_bottom": 20
       }
     },
     "9cdafaa8-a70d-4752-aedc-cf579719c6b9": {
@@ -139,8 +139,8 @@
       "settings": {
         "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Shop By Category<\/p>\n    <\/div>",
         "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 52,
+        "padding_bottom": 20
       }
     },
     "191fe880-6070-4fed-b39d-a4af438a4777": {
@@ -166,7 +166,7 @@
         "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Our Diabetic Range<\/p>\n    <\/div>",
         "color_scheme": "",
         "padding_top": 52,
-        "padding_bottom": 52
+        "padding_bottom": 20
       }
     },
     "a698b038-0565-4473-900d-4fca1c8a33b5": {
@@ -194,7 +194,7 @@
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 0,
-        "padding_bottom": 52
+        "padding_bottom": 0
       }
     },
     "68c20044-34d4-4887-b0e0-5bd2d89af994": {
@@ -207,8 +207,8 @@
       "settings": {
         "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Our Bestsellers<\/p>\n    <\/div>",
         "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 52,
+        "padding_bottom": 20
       }
     },
     "2b446514-eee9-4230-b5b7-edd87d21552e": {
@@ -236,7 +236,7 @@
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 0,
-        "padding_bottom": 52
+        "padding_bottom": 0
       }
     },
     "8696c76d-508a-4dec-800b-8181c9f6c309": {
@@ -247,7 +247,7 @@
       "settings": {
         "custom_liquid": "<div class=\"CallBanner\">\n    <div class=\"CallBannerLeft\">\n        <p class=\"CallBannerHeading\">Still Confused to find the best one for you?<\/p>\n        <div class=\"CallBannerFlexLinks\">\n            <div class=\"CallBannerFlexLink\">\n                <svg class=\"arrowSvg\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" height=\"1em\" viewBox=\"0 0 448 512\"><path d=\"M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z\" \/><\/svg>\n                <p class=\"CallBannerFlexLinkText\">Free Doctor Consult<\/p>\n            <\/div>\n            <div class=\"CallBannerFlexLink\">\n                <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" height=\"1em\" viewBox=\"0 0 448 512\"><path d=\"M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z\" \/><\/svg>\n                <p class=\"CallBannerFlexLinkText\">Get Customized Solution<\/p>\n            <\/div>\n        <\/div>\n    <\/div>\n    <div class=\"CallBannerRight\">\n        <div class=\"CallBannerFlexImgContainer\">\n            <img class=\"CallBannerFlexImg\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Layer_9.png?v=1696229979\" alt=\"\">\n        <\/div>\n    <\/div>\n<\/div>",
         "color_scheme": "",
-        "padding_top": 0,
+        "padding_top": 52,
         "padding_bottom": 0
       }
     },
@@ -261,8 +261,8 @@
       "settings": {
         "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Why Suwasthi?<\/p>\n    <\/div>",
         "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 52,
+        "padding_bottom": 20
       }
     },
     "16ecc9dc-dba5-463a-9c34-d04333ecfb8f": {
@@ -291,7 +291,7 @@
       "settings": {
         "custom_liquid": "<div class=\"suwasthiHomeAboutBlockLeftContainer\">\n    <div class=\"BlockLeftText\">\n        <p class=\"BlockLeftTextHeading\">Close to nature as it is the best healer<\/p>\n        <p class=\"BlockLeftTextParagraph\">Formulated with the ancient rarest herbs derived from the nature, loaded with powerful ingredients based on ayurveda which have visible results . We go the extra mile to extract the best from nature's vast repertoire<\/p>\n    <\/div>\n    <div class=\"BlockLeftImgContainer\" >\n        <img id=\"BlockLeftImgRotate\"  class=\"BlockLeftImg\"  src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Layer_13.png?v=1695565019 alt=\"\">\n    <\/div>\n<\/div>\n\n\n<script>\n function isElementInViewport(el) {\n    const rect = el.getBoundingClientRect();\n    return (\n        rect.bottom >= 0 &&\n        rect.right >= 0 &&\n        rect.top <= (window.innerHeight || document.documentElement.clientHeight) &&\n        rect.left <= (window.innerWidth || document.documentElement.clientWidth)\n    );\n}\n\nfunction rotateOnScroll() {\n    const element = document.getElementById('BlockLeftImgRotate');\n    if (isElementInViewport(element)) {\n        const rect = element.getBoundingClientRect();\n        const scrollPercentage = Math.min(1, Math.max(0, (window.innerHeight - rect.top) \/ rect.height));\n        const maxRotationAngle = 30; \/\/ Maximum rotation angle in degrees\n        const rotationAngle = maxRotationAngle * scrollPercentage;\n        element.style.transform = `rotate(${rotationAngle}deg)`;\n    }\n}\n\nwindow.addEventListener('scroll', rotateOnScroll);\nrotateOnScroll();\n\n<\/script>",
         "color_scheme": "",
-        "padding_top": 20,
+        "padding_top": 0,
         "padding_bottom": 20
       }
     },
@@ -307,7 +307,7 @@
       "settings": {
         "custom_liquid": "<div class=\"suwasthiHomeAboutBlockLeftContainer\">\n    <div class=\"BlockLeftText\">\n        <p class=\"BlockLeftTextHeading\">Designed by our own expert scientists to treat you naturally<\/p>\n        <p class=\"BlockLeftTextParagraph\">Our Research & development team personally test-runs and approves every formulation before release and then We deliver quality driven Natural and 100% safe products at your doorstep<\/p>\n    <\/div>\n    <div class=\"BlockLeftImgContainer\">\n        <img class=\" BlockLeftImg\"  id=\"BlockLeftImgRotate\" src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Layer_14_648e4dd5-4097-4503-9025-0b86387f1ec6.png?v=1695565020 alt=\"\">\n    <\/div>\n<\/div>\n<script>\n function isElementInViewport(el) {\n    const rect = el.getBoundingClientRect();\n    return (\n        rect.bottom >= 0 &&\n        rect.right >= 0 &&\n        rect.top <= (window.innerHeight || document.documentElement.clientHeight) &&\n        rect.left <= (window.innerWidth || document.documentElement.clientWidth)\n    );\n}\n\nfunction rotateOnScroll() {\n    const element = document.getElementById('BlockLeftImgRotate');\n    if (isElementInViewport(element)) {\n        const rect = element.getBoundingClientRect();\n        const scrollPercentage = Math.min(1, Math.max(0, (window.innerHeight - rect.top) \/ rect.height));\n        const maxRotationAngle = 30; \/\/ Maximum rotation angle in degrees\n        const rotationAngle = maxRotationAngle * scrollPercentage;\n        element.style.transform = `rotate(${rotationAngle}deg)`;\n    }\n}\n\nwindow.addEventListener('scroll', rotateOnScroll);\nrotateOnScroll();\n\n<\/script>\n<style>\n.suwasthiHomeAboutBlockLeftContainer {\ndisplay: flex;\nalign-items: center;\n}\n<\/style>",
         "color_scheme": "",
-        "padding_top": 20,
+        "padding_top": 0,
         "padding_bottom": 20
       }
     },
@@ -324,7 +324,7 @@
       "settings": {
         "custom_liquid": "<div class=\"suwasthiHomeAboutBlockLeftContainer\">\n        <div class=\"BlockLeftText\">\n            <p class=\"BlockLeftTextHeading\">We care for you, a little extra<\/p>\n            <p class=\"BlockLeftTextParagraph\">Not only good products but also We offer free Dr. Consultation with proper guidance and personalised diet plans according to your problem<\/p>\n        <\/div>\n        <div class=\"BlockLeftImgContainer\">\n            <img class=\" BlockLeftImg\"  id=\"BlockLeftImgRotate\" src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Layer_15.png?v=1695565020 alt=\"\">\n        <\/div>\n    <\/div>\n<script>\n function isElementInViewport(el) {\n    const rect = el.getBoundingClientRect();\n    return (\n        rect.bottom >= 0 &&\n        rect.right >= 0 &&\n        rect.top <= (window.innerHeight || document.documentElement.clientHeight) &&\n        rect.left <= (window.innerWidth || document.documentElement.clientWidth)\n    );\n}\n\nfunction rotateOnScroll() {\n    const element = document.getElementById('BlockLeftImgRotate');\n    if (isElementInViewport(element)) {\n        const rect = element.getBoundingClientRect();\n        const scrollPercentage = Math.min(1, Math.max(0, (window.innerHeight - rect.top) \/ rect.height));\n        const maxRotationAngle = 30; \/\/ Maximum rotation angle in degrees\n        const rotationAngle = maxRotationAngle * scrollPercentage;\n        element.style.transform = `rotate(${rotationAngle}deg)`;\n    }\n}\n\nwindow.addEventListener('scroll', rotateOnScroll);\nrotateOnScroll();\n\n<\/script>",
         "color_scheme": "",
-        "padding_top": 20,
+        "padding_top": 0,
         "padding_bottom": 0
       }
     },
@@ -339,7 +339,7 @@
         "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Testimonials<\/p>\n    <\/div>",
         "color_scheme": "",
         "padding_top": 52,
-        "padding_bottom": 52
+        "padding_bottom": 20
       }
     },
     "9290b968-425c-45a3-bb16-e5e10bd7b47d": {
@@ -351,7 +351,7 @@
         "custom_liquid": "<div class=\"videoContainer\">\n    <video autoplay src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/d5caac08e18c4ce4b5c7a41f18843b51.mp4\"><\/video>\n    <video autoplay src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/d5caac08e18c4ce4b5c7a41f18843b51.mp4\"><\/video>\n    <video autoplay src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/d5caac08e18c4ce4b5c7a41f18843b51.mp4\"><\/video>\n    <video autoplay src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/d5caac08e18c4ce4b5c7a41f18843b51.mp4\"><\/video>\n\n<\/div>\n\n<style>\n    .videoContainer {\n  display: flex;\n  flex-wrap: wrap;\n  align-items: center;\n  justify-content: center;\n  width: 100%;\n  padding: 0 10vw;\n  margin: 0;\n  gap: 2vw;\n}\n.videoContainer video {\n  width: 17vw;\n  border-radius: 10px;\n  height: auto;\n  aspect-ratio: 9 \/ 16;\n  background-color: #002c0020;\n  margin: 0;\n  border-radius: 20px;\n}\n<\/style>",
         "color_scheme": "",
         "padding_top": 0,
-        "padding_bottom": 52
+        "padding_bottom": 0
       }
     },
     "08a874f3-aa52-447b-a34e-25799822f316": {
@@ -362,8 +362,8 @@
       "settings": {
         "custom_liquid": "<div class=\"testimonialsContentContainer\">\n    <p class=\"testimonialsLeftText\">We enable<br>more than <span class=\"countdown\">0<\/span><span\n            class=\"countdownPlus\">+<\/span><br>Customers all over India<\/p>\n    <img id=\"floatingImage\" class=\"testimonialsRightImg\"\n        src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/delivery-concept-portrait-happy-african-american-delivery-man-red-cloth-holding-box-package-isolated-grey-studio-background-copy-space_copy_1.png?v=1695569171\"\n        alt=\"\">\n<\/div>\n\n<style>\n    #floatingImage {\n        position: relative;\n        height: auto;\n        transition: transform 3s ease-in-out;\n    }\n\n    .testimonialsContentContainer {\n        display: flex;\n        justify-content: space-between;\n        align-items: center;\n        width: 100%;\n        padding: 0 10vw;\n        overflow: visible;\n        position: relative;\n    }\n\n    .countdown {\n        color: #42200a;\n        font-weight: 600;\n        font-size: 7rem;\n    }\n\n    .countdownPlus {\n        color: #42200a;\n        font-weight: 600;\n        font-size: 7rem;\n    }\n\n    .testimonialsRightImg {\n        width: 30vw;\n    }\n<\/style>\n\n<script>\n    const floatingImage = document.getElementById(\"floatingImage\");\nconst container = document.querySelector(\".testimonialsContentContainer\");\nconst countdownSpan = document.querySelector(\".countdown\");\n\nconst floatRadius = 18; \/\/ Radius in pixels\nlet hasCountdownAnimated = false;\n\n\/\/ Function to move the image within a radius\nfunction moveImage() {\n    const maxX = floatRadius * 6;\n    const maxY = floatRadius * 6;\n\n    const newX = Math.random() * maxX - floatRadius;\n    const newY = Math.random() * maxY - floatRadius;\n    const rotation = (Math.random() * 10 - 5).toFixed(2); \/\/ Random rotation between -5deg and 5deg\n\n    floatingImage.style.transform = `translate(${newX}px, ${newY}px) rotate(${rotation}deg)`;\n}\n\n\n\n\/\/ Function to animate the countdown\nfunction animateCountdown() {\n    if (!hasCountdownAnimated) {\n        hasCountdownAnimated = true;\n        let start = 1700;\n        const end = 2500;\n        \/\/ const duration = 100;\n        const step = 30;\n\n        const interval = setInterval(() => {\n            start += step;\n            countdownSpan.textContent = start;\n\n            if (start >= end) {\n                countdownSpan.textContent = end; \/\/ Ensure it stops at 2500\n                clearInterval(interval);\n            }\n        }, step);\n    }\n}\n\n\/\/ Check if the countdown element is in the viewport\nfunction isCountdownInViewport() {\n    const rect = countdownSpan.getBoundingClientRect();\n    return (\n        rect.top >= 0 &&\n        rect.bottom <= (window.innerHeight || document.documentElement.clientHeight)\n    );\n}\n\n\/\/ Set the initial position and rotation\nmoveImage();\n\n\/\/ Update the position and rotation every 3 seconds (you can adjust the interval)\nsetInterval(moveImage, 3000);\n\n\/\/ Check if the countdown element is in the viewport and start the animation\nwindow.addEventListener(\"scroll\", () => {\n    if (isCountdownInViewport()) {\n        animateCountdown();\n    }\n});\n\n<\/script>\n<\/body>\n\n<\/html>",
         "color_scheme": "",
-        "padding_top": 24,
-        "padding_bottom": 28
+        "padding_top": 20,
+        "padding_bottom": 0
       }
     },
     "5263ce76-a002-4162-a4ea-6c5bd998cd01": {
@@ -396,7 +396,7 @@
       "settings": {
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 40,
+        "padding_top": 52,
         "padding_bottom": 52
       }
     }
