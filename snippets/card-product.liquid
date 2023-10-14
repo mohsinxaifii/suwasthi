@@ -155,9 +155,15 @@
               {{ card_product.title | escape }}
             </a>
           </h3>
-  <div class="card__quantity">
-  <p class="quantity-text">Quantity: {{ card_product.quantity }}</p>
+          <div class="card__quantity">
+  <p class="quantity-text">
+    Quantity: {{ card_product.quantity }}
+    {% if card_product.metafields.custom.unit %}
+      ({{ card_product.metafields.custom.unit | escape }})
+    {% endif %}
+  </p>
 </div>
+
           <div class="card-information">
             {%- if show_vendor -%}
               <span class="visually-hidden">{{ 'accessibility.vendor' | t }}</span>
