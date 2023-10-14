@@ -92,7 +92,7 @@
     "f5ecb6a3-02f6-4738-89d6-8e4d1c28da93": {
       "type": "custom-liquid",
       "custom_css": [
-        ".videoContainer {display: flex; align-items: center; justify-content: center; width: 100%; padding: 0 10vw; margin: 0;}",
+        ".videoContainer {display: flex; align-items: center; justify-content: center; width: 100%; object-fit: cover; padding: 0 10vw; margin: 0;}",
         ".videoContainer video {width: 100%; margin: 0; object-fit: cover; border-radius: 20px;}"
       ],
       "settings": {
