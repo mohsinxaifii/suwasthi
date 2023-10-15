@@ -57,13 +57,10 @@
 }
 
 .newsletter-form__button {
-    position: inherit;
-    width: 6.4rem;
-    margin: 0;
-    right: var(--inputs-border-width);
-    top: 0;
-    height: 100%;
-    z-index: 2;
+box-shadow: inherit;
+    background-color: #002c00;
+    height: 46px;
+    border-radius: 9px;
 }
 
 
