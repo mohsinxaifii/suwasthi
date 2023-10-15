@@ -235,9 +235,9 @@ slider-component.slider-component-full-width {
     scrollbar-color: rgb(var(--color-foreground)) rgba(var(--color-foreground),.04);
     -ms-overflow-style: none;
     scrollbar-width: none;
-    width: calc(100vw - 20vw);
+    width: 100%;
     gap: 20px;
-    padding: 0 10vw;
+    padding: 0 80px;
 }
 
 .slider::-webkit-scrollbar {
