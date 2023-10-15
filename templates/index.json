@@ -243,7 +243,7 @@
         "show_description": false,
         "description_style": "body",
         "collection": "testproduct",
-        "products_to_show": 4,
+        "products_to_show": 8,
         "columns_desktop": 4,
         "full_width": false,
         "show_view_all": false,
@@ -256,7 +256,7 @@
         "show_vendor": false,
         "show_rating": true,
         "enable_quick_add": true,
-        "columns_mobile": "2",
+        "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 0,
         "padding_bottom": 0
