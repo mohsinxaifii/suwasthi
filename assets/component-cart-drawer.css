@@ -19,10 +19,7 @@ card-drawer {
 .drawer.active {
   visibility: visible;
 }
-.drawer.active cart-drawer {
-      background-color: white;
-    border-left: solid 2px #002c00;
-}
+
 .drawer__inner {
   height: 100%;
   width: 40rem;
