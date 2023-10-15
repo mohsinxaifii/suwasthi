@@ -186,7 +186,7 @@
       "accent-1": {
         "settings": {
           "background": "#002c00",
-          "background_gradient": "linear-gradient(180deg, rgba(255, 228, 49, 1), rgba(249, 32, 32, 1) 100%)",
+          "background_gradient": "",
           "text": "#ffffff",
           "button": "#002c00",
           "button_label": "#ffffff",
