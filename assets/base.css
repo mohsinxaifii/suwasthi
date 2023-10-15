@@ -130,7 +130,7 @@
 .iconsStripContainer {
     display: flex;
     justify-content: space-between;
-    padding: 0 10vw;
+    padding: 0 80px;
     align-items: end;
 }
 .iconsStripContainer img {
