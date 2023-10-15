@@ -85,8 +85,8 @@
       "settings": {
         "custom_liquid": "<h2>We are a quality-driven, premium brand that specializes in developing innovative products that are unique but natural in their formulations and deliver the results as promised.<\/h2>",
         "color_scheme": "",
-        "padding_top": 20,
-        "padding_bottom": 20
+        "padding_top": 40,
+        "padding_bottom": 40
       }
     },
     "9fb2bd52-5b61-48d1-8d3e-c093ece6fc70": {
@@ -139,7 +139,7 @@
         "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Standards<\/p>\n    <\/div>",
         "color_scheme": "",
         "padding_top": 72,
-        "padding_bottom": 32
+        "padding_bottom": 40
       }
     },
     "9cdafaa8-a70d-4752-aedc-cf579719c6b9": {
@@ -166,7 +166,7 @@
         "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Shop By Category<\/p>\n    <\/div>",
         "color_scheme": "",
         "padding_top": 72,
-        "padding_bottom": 20
+        "padding_bottom": 40
       }
     },
     "191fe880-6070-4fed-b39d-a4af438a4777": {
@@ -191,8 +191,8 @@
       "settings": {
         "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Our Diabetic Range<\/p>\n    <\/div>",
         "color_scheme": "",
-        "padding_top": 52,
-        "padding_bottom": 20
+        "padding_top": 72,
+        "padding_bottom": 40
       }
     },
     "a698b038-0565-4473-900d-4fca1c8a33b5": {
@@ -233,8 +233,8 @@
       "settings": {
         "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Our Bestsellers<\/p>\n    <\/div>",
         "color_scheme": "",
-        "padding_top": 52,
-        "padding_bottom": 20
+        "padding_top": 72,
+        "padding_bottom": 40
       }
     },
     "2b446514-eee9-4230-b5b7-edd87d21552e": {
@@ -273,7 +273,7 @@
       "settings": {
         "custom_liquid": "<div class=\"CallBanner\">\n    <div class=\"CallBannerLeft\">\n        <p class=\"CallBannerHeading\">Still Confused to find the best one for you?<\/p>\n        <div class=\"CallBannerFlexLinks\">\n            <div class=\"CallBannerFlexLink\">\n                <svg class=\"arrowSvg\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" height=\"1em\" viewBox=\"0 0 448 512\"><path d=\"M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z\" \/><\/svg>\n                <p class=\"CallBannerFlexLinkText\">Free Doctor Consult<\/p>\n            <\/div>\n            <div class=\"CallBannerFlexLink\">\n                <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" height=\"1em\" viewBox=\"0 0 448 512\"><path d=\"M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z\" \/><\/svg>\n                <p class=\"CallBannerFlexLinkText\">Get Customized Solution<\/p>\n            <\/div>\n        <\/div>\n    <\/div>\n    <div class=\"CallBannerRight\">\n        <div class=\"CallBannerFlexImgContainer\">\n            <img class=\"CallBannerFlexImg\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Layer_9.png?v=1696229979\" alt=\"\">\n        <\/div>\n    <\/div>\n<\/div>",
         "color_scheme": "",
-        "padding_top": 52,
+        "padding_top": 40,
         "padding_bottom": 0
       }
     },
@@ -287,8 +287,8 @@
       "settings": {
         "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Why Suwasthi?<\/p>\n    <\/div>",
         "color_scheme": "",
-        "padding_top": 52,
-        "padding_bottom": 20
+        "padding_top": 72,
+        "padding_bottom": 40
       }
     },
     "16ecc9dc-dba5-463a-9c34-d04333ecfb8f": {
@@ -301,7 +301,7 @@
         "custom_liquid": "<div class=\"iconsStripContainer\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/reshot-icon-naturally-replenished-GVUJ7ZNFHA_copy.png?v=1696231030 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/filter_copy.png?v=1696231029 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/reshot-icon-quality-control-RG3J6ST4HF_copy_2.png?v=1696231029 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/reshot-icon-leaves-FSXPVEMGRJ_copy.png?v=1696231029 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/meal_copy.png?v=1696231029 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Free_Doctor_Consultat_-ion.png?v=1696231029 alt=\"\">\n    <\/div>",
         "color_scheme": "",
         "padding_top": 0,
-        "padding_bottom": 52
+        "padding_bottom": 72
       }
     },
     "e4a47204-661f-4438-a541-0f8b56437fe3": {
@@ -318,7 +318,7 @@
         "custom_liquid": "<div class=\"suwasthiHomeAboutBlockLeftContainer\">\n  <div class=\"BlockLeftText\">\n      <p class=\"BlockLeftTextHeading\">Close to nature as it is the best healer<\/p>\n      <p class=\"BlockLeftTextParagraph\">Formulated with the ancient rarest herbs derived from the nature, loaded with powerful ingredients based on ayurveda which have visible results . We go the extra mile to extract the best from nature's vast repertoire<\/p>\n  <\/div>\n  <div class=\"BlockLeftImgContainer\" >\n      <img id=\"BlockLeftImgRotate1\"  class=\"BlockLeftImg\"  src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Layer_13.png?v=1695565019 alt=\"\">\n  <\/div>\n<\/div>\n\n\n<script>\nfunction isElementInViewport(el) {\n  const rect = el.getBoundingClientRect();\n  return (\n      rect.bottom >= 0 &&\n      rect.right >= 0 &&\n      rect.top <= (window.innerHeight || document.documentElement.clientHeight) &&\n      rect.left <= (window.innerWidth || document.documentElement.clientWidth)\n  );\n}\n\nfunction rotateOnScroll() {\n  const element = document.getElementById('BlockLeftImgRotate1');\n  if (isElementInViewport(element)) {\n      const rect = element.getBoundingClientRect();\n      const scrollPercentage = Math.min(1, Math.max(0, (window.innerHeight - rect.top) \/ rect.height));\n      const maxRotationAngle = 30; \/\/ Maximum rotation angle in degrees\n      const rotationAngle = maxRotationAngle * scrollPercentage;\n      element.style.transform = `rotate(${rotationAngle}deg)`;\n  }\n}\n\nwindow.addEventListener('scroll', rotateOnScroll);\nrotateOnScroll();\n\n<\/script>",
         "color_scheme": "",
         "padding_top": 0,
-        "padding_bottom": 20
+        "padding_bottom": 40
       }
     },
     "1517112b-7937-458e-ab68-6396f999ed5f": {
@@ -334,7 +334,7 @@
         "custom_liquid": "<div class=\"suwasthiHomeAboutBlockLeftContainer\">\n    <div class=\"BlockLeftText\">\n        <p class=\"BlockLeftTextHeading\">Designed by our own expert scientists to treat you naturally<\/p>\n        <p class=\"BlockLeftTextParagraph\">Our Research & development team personally test-runs and approves every formulation before release and then We deliver quality driven Natural and 100% safe products at your doorstep<\/p>\n    <\/div>\n    <div class=\"BlockLeftImgContainer\">\n        <img class=\"BlockLeftImg\" id=\"BlockLeftImgRotate2\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Layer_14_648e4dd5-4097-4503-9025-0b86387f1ec6.png?v=1695565020\" alt=\"\">\n    <\/div>\n<\/div>\n\n<script>\nfunction isElementInViewport(el) {\n    const rect = el.getBoundingClientRect();\n    return (\n        rect.bottom >= 0 &&\n        rect.right >= 0 &&\n        rect.top <= (window.innerHeight || document.documentElement.clientHeight) &&\n        rect.left <= (window.innerWidth || document.documentElement.clientWidth)\n    );\n}\n\nfunction rotateOnScroll() {\n    const element = document.getElementById('BlockLeftImgRotate2');\n    if (isElementInViewport(element)) {\n        const rect = element.getBoundingClientRect();\n        const scrollPercentage = Math.min(1, Math.max(0, (window.innerHeight - rect.top) \/ rect.height));\n        const startRotationAngle = -10; \/\/ Starting rotation angle in degrees\n        const endRotationAngle = 30; \/\/ Ending rotation angle in degrees\n        const rotationAngle = startRotationAngle + (endRotationAngle - startRotationAngle) * scrollPercentage;\n        element.style.transform = `rotate(${rotationAngle}deg)`;\n    }\n}\n\nwindow.addEventListener('scroll', rotateOnScroll);\nrotateOnScroll();\n<\/script>\n<style>\n.suwasthiHomeAboutBlockLeftContainer {\n    display: flex;\n    align-items: center;\n}\n<\/style>",
         "color_scheme": "",
         "padding_top": 0,
-        "padding_bottom": 20
+        "padding_bottom": 40
       }
     },
     "fa55cb20-6407-4cd7-afa1-9d5e7ae5cdae": {
@@ -364,8 +364,8 @@
       "settings": {
         "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Testimonials<\/p>\n    <\/div>",
         "color_scheme": "",
-        "padding_top": 52,
-        "padding_bottom": 20
+        "padding_top": 72,
+        "padding_bottom": 40
       }
     },
     "9290b968-425c-45a3-bb16-e5e10bd7b47d": {
@@ -388,7 +388,7 @@
       "settings": {
         "custom_liquid": "<div class=\"testimonialsContentContainer\">\n  <p class=\"testimonialsLeftText\">We enable<br>more than <span class=\"countdown\">24998449<\/span><span class=\"countdownPlus\">+<\/span><br>Customers all over India<\/p>\n  <img id=\"floatingImage\" class=\"testimonialsRightImg\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/delivery-concept-portrait-happy-african-american-delivery-man-red-cloth-holding-box-package-isolated-grey-studio-background-copy-space_copy_1.png?v=1695569171\" alt=\"\">\n<\/div>\n\n<style>\n  #floatingImage {\n    position: relative;\n    height: auto;\n    \/* transition: transform 1s ease-in-out; *\/\n    width: 15vw; \/* Set the initial width *\/\n  }\n\n  .testimonialsContentContainer {\n    display: flex;\n    justify-content: space-between;\n    align-items: center;\n    width: 100%;\n    padding: 0 18vw;\n    overflow: visible;\n    position: relative;\n  }\n\n  .countdown {\n    color: #42200a;\n    font-weight: 500;\n    font-size: 9rem;\n    font-family: fantasy;\n  }\n\n  .countdownPlus {\n    color: #42200a;\n    font-weight: 600;\n    font-size: 7rem;\n  }\n\n  .testimonialsRightImg {\n    width: 30vw; \/* Set the initial width *\/\n  }\n<\/style>\n\n<script>\n  const floatingImage = document.getElementById(\"floatingImage\");\n  const countdownSpan = document.querySelector(\".countdown\");\n  let hasCountdownAnimated = false;\n  let isCountdownInViewport = false;\n  \n  \/\/ Function to animate the countdown\n  function animateCountdown() {\n    if (!hasCountdownAnimated && isCountdownInViewport) {\n      hasCountdownAnimated = true;\n      let start = 24998449;\n      const end = 25000000;\n      const step = 30;\n  \n      const interval = setInterval(() => {\n        start += step;\n        countdownSpan.textContent = start;\n  \n        if (start >= end) {\n          countdownSpan.textContent = end;\n          clearInterval(interval);\n        }\n      }, step);\n    }\n  }\n  \n  \/\/ Check if the countdown element is in the viewport and start the animation\n  function checkCountdownInViewport() {\n    const elementTop = countdownSpan.getBoundingClientRect().top;\n    const viewportHeight = window.innerHeight || document.documentElement.clientHeight;\n  \n    isCountdownInViewport = elementTop < viewportHeight;\n  }\n  \n  \/\/ Initially, pause the countdown\n  countdownSpan.textContent = \"24998449\";\n  \n  \/\/ Check if the countdown is in the viewport when the page loads\n  checkCountdownInViewport();\n  \n  \/\/ Add a scroll event listener to trigger the countdown animation\n  window.addEventListener(\"scroll\", () => {\n    checkCountdownInViewport();\n    animateCountdown();\n  });\n  \n  \/\/ Function to scale and rotate the floating image on scroll\n  function scaleAndRotateImageOnScroll() {\n    const scrollY = window.scrollY || window.pageYOffset;\n    const elementTop = floatingImage.getBoundingClientRect().top;\n    const elementHeight = floatingImage.offsetHeight;\n    const viewportHeight = window.innerHeight || document.documentElement.clientHeight;\n  \n    if (elementTop < viewportHeight && elementTop + elementHeight > 0) {\n      \/\/ Calculate the scale factor and rotation based on scroll position\n      const scaleValue = 1 + 0.2 * (1 - elementTop \/ viewportHeight);\n      const rotateValue = 5 * (1 - elementTop \/ viewportHeight); \/\/ Adjust the rotation value as needed\n      floatingImage.style.transform = `scale(${scaleValue}) rotate(${rotateValue}deg)`;\n    }\n  }\n  \n  \/\/ Add a scroll event listener to trigger the image animation\n  window.addEventListener(\"scroll\", () => {\n    scaleAndRotateImageOnScroll();\n  });\n  \n<\/script>",
         "color_scheme": "",
-        "padding_top": 32,
+        "padding_top": 40,
         "padding_bottom": 0
       }
     },
@@ -422,8 +422,8 @@
       "settings": {
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 64,
-        "padding_bottom": 52
+        "padding_top": 40,
+        "padding_bottom": 40
       }
     }
   },
