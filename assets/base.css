@@ -3028,9 +3028,8 @@ details[open] > .header__submenu {
 }
 
 .header__menu-item:hover {
-  color: rgb(var(--color-foreground));
+  color: #ffffff80;
   text-decoration: none;
-      font-weight: 600;
 }
 
 .header__menu-item span {
