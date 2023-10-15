@@ -139,7 +139,7 @@
         "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Standards<\/p>\n    <\/div>",
         "color_scheme": "",
         "padding_top": 72,
-        "padding_bottom": 32
+        "padding_bottom": 40
       }
     },
     "9cdafaa8-a70d-4752-aedc-cf579719c6b9": {
@@ -166,7 +166,7 @@
         "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Shop By Category<\/p>\n    <\/div>",
         "color_scheme": "",
         "padding_top": 72,
-        "padding_bottom": 20
+        "padding_bottom": 40
       }
     },
     "191fe880-6070-4fed-b39d-a4af438a4777": {
@@ -191,8 +191,8 @@
       "settings": {
         "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Our Diabetic Range<\/p>\n    <\/div>",
         "color_scheme": "",
-        "padding_top": 52,
-        "padding_bottom": 20
+        "padding_top": 72,
+        "padding_bottom": 40
       }
     },
     "a698b038-0565-4473-900d-4fca1c8a33b5": {
