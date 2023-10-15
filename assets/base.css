@@ -2486,7 +2486,7 @@ product-info .loading-overlay:not(.hidden) ~ *,
     margin: 0;
     letter-spacing: .1rem;
     min-height: 3.8rem;
-    font-weight: 600;
+    font-weight: 500;
 }
 
 .announcement-bar-slider--fade-in-next .announcement-bar__message,
