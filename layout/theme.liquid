@@ -447,7 +447,7 @@
   
   {% render 'shogun-head' %}
 </head>
-<div class="boxed-layout">
+
 
   <body class="gradient{% if settings.animations_hover_elements != 'none' %} animate--hover-{{ settings.animations_hover_elements }}{% endif %}">
     <a class="skip-to-content-link button visually-hidden" href="#MainContent">
@@ -462,7 +462,7 @@
 
 
 
-
+    <div class="boxed-layout">
     <main
       id="MainContent"
       class="content-for-layout focus-none"
@@ -470,7 +470,7 @@
       tabindex="-1">
         {{ content_for_layout }}
     </main>
-
+    </div>
     {% sections 'footer-group' %}
 
     <ul hidden>
@@ -523,6 +523,6 @@
       <script src="{{ 'predictive-search.js' | asset_url }}" defer="defer"></script>
     {%- endif -%}
   </body>
-  </div>
+
 
 </html>
