@@ -22,15 +22,15 @@
 .newsletter__wrapper {
     flex-direction: row;
     gap: 100px;
-    width: 80%;
+    /* width: 80%; */
+    padding: 0 150px;
     border: solid 1px #002c00;
-    border-radius: 20px;
+    /* border-radius: 20px; */
     margin: 0 auto;
     background-color: #002c0007;
     align-items: center;
     justify-content: space-between;
 }
-
 
 .newsletter__wrapper>* {
     margin-top: 0;
