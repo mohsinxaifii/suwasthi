@@ -2740,10 +2740,12 @@ product-info .loading-overlay:not(.hidden) ~ *,
 
 /* Header icons */
 .header__icons {
-  display: flex;
-  grid-area: icons;
-  justify-self: end;
-  padding-right: 0.8rem;
+    display: flex;
+    grid-area: icons;
+    width: fit-content;
+    gap: 12px;
+    justify-self: end;
+    padding-right: 0.8rem;
 }
 
 .header__icons .shopify-app-block {
