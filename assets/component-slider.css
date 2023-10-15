@@ -4,8 +4,8 @@ slider-component {
     display: block;
     border: 1px solid #002c00;
     border-radius: 10px;
+    margin: 0 80px !important;
 }
-
 slider-component.slider-component-full-width {
   --desktop-margin-left-first-item: 1.5rem;
 }
