@@ -291,7 +291,7 @@
     "16ecc9dc-dba5-463a-9c34-d04333ecfb8f": {
       "type": "custom-liquid",
       "custom_css": [
-        ".iconsStripContainer {display: flex; justify-content: space-between; padding: 0 10vw; align-items: start;}",
+        ".iconsStripContainer {width: 100%; display: flex; justify-content: space-between; padding: 0 10vw; align-items: start;}",
         ".iconsStripContainer img {width: 9%; height: auto;}"
       ],
       "settings": {
