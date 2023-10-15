@@ -138,8 +138,8 @@
       "settings": {
         "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Standards<\/p>\n    <\/div>",
         "color_scheme": "",
-        "padding_top": 52,
-        "padding_bottom": 20
+        "padding_top": 72,
+        "padding_bottom": 32
       }
     },
     "9cdafaa8-a70d-4752-aedc-cf579719c6b9": {
@@ -165,7 +165,7 @@
       "settings": {
         "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Shop By Category<\/p>\n    <\/div>",
         "color_scheme": "",
-        "padding_top": 52,
+        "padding_top": 72,
         "padding_bottom": 20
       }
     },
