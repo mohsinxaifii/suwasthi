@@ -192,35 +192,6 @@
         "padding_bottom": 40
       }
     },
-    "a698b038-0565-4473-900d-4fca1c8a33b5": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "heading_size": "h0",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "testproduct",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "link",
-        "enable_desktop_slider": true,
-        "color_scheme": "",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": true,
-        "enable_quick_add": true,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "1d0eca0a-a320-473e-a6fd-62f0f1897ebf": {
       "type": "featured-collection",
       "settings": {
@@ -263,7 +234,7 @@
         "padding_bottom": 40
       }
     },
-    "2b446514-eee9-4230-b5b7-edd87d21552e": {
+    "9ac28636-ce2e-4e17-99ea-69529861496b": {
       "type": "featured-collection",
       "settings": {
         "title": "",
@@ -272,20 +243,20 @@
         "show_description": false,
         "description_style": "body",
         "collection": "testproduct",
-        "products_to_show": 20,
+        "products_to_show": 7,
         "columns_desktop": 5,
-        "full_width": false,
+        "full_width": true,
         "show_view_all": false,
-        "view_all_style": "link",
+        "view_all_style": "solid",
         "enable_desktop_slider": true,
-        "color_scheme": "",
+        "color_scheme": "background-1",
         "image_ratio": "square",
         "image_shape": "default",
         "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": true,
         "enable_quick_add": true,
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 0,
         "padding_bottom": 0
@@ -451,10 +422,9 @@
     "5712053d-e04e-45ce-bde6-87afcdad8edd",
     "191fe880-6070-4fed-b39d-a4af438a4777",
     "017306f0-7fc7-4b1f-83a0-850f48dc0893",
-    "a698b038-0565-4473-900d-4fca1c8a33b5",
     "1d0eca0a-a320-473e-a6fd-62f0f1897ebf",
     "68c20044-34d4-4887-b0e0-5bd2d89af994",
-    "2b446514-eee9-4230-b5b7-edd87d21552e",
+    "9ac28636-ce2e-4e17-99ea-69529861496b",
     "8696c76d-508a-4dec-800b-8181c9f6c309",
     "3e47b047-f29d-4309-a5e8-298d29cd67db",
     "16ecc9dc-dba5-463a-9c34-d04333ecfb8f",
