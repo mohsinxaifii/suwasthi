@@ -23,9 +23,9 @@
 
 .CallBanner {
     background: linear-gradient(180deg,rgba(0,44,0,.01),rgba(0,44,0,.1));
-    width: 100%;
+    width: auto;
     padding: 0 80px;
-    margin: 0 auto;
+    margin: 0 80px;
     border-radius: 18px;
     height: 250px;
     display: flex;
