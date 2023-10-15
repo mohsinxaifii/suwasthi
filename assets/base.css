@@ -3513,10 +3513,11 @@ details-disclosure > details {
     transform: translateY(2rem);
   }
 
-  .scroll-trigger:not(.scroll-trigger--offscreen).animate--fade-in {
+.scroll-trigger:not(.scroll-trigger--offscreen).animate--fade-in {
     opacity: 1;
+    padding: 0;
     animation: var(--animation-fade-in);
-  }
+}
 
 .scroll-trigger:not(.scroll-trigger--offscreen).animate--slide-in {
     animation: var(--animation-slide-in);
