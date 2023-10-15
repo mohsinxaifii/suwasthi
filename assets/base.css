@@ -126,7 +126,7 @@
     align-items: end;
 }
 .iconsStripContainer img {
-  width: 14%;
+  width: 15%;
   height: auto;
   cursor: pointer;
   transition: all ease-in-out 0.3s;
