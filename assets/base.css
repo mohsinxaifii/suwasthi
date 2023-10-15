@@ -23,7 +23,8 @@
 
 .CallBanner {
     background: linear-gradient(180deg,rgba(0,44,0,.01),rgba(0,44,0,.1));
-    width: 80%;
+    width: 100%;
+    padding: 0 80px;
     margin: 0 auto;
     border-radius: 18px;
     height: 250px;
