@@ -2743,7 +2743,7 @@ product-info .loading-overlay:not(.hidden) ~ *,
     display: flex;
     grid-area: icons;
     width: fit-content;
-    gap: 12px;
+    gap: 15px;
     justify-self: end;
     padding-right: 0.8rem;
 }
@@ -2781,8 +2781,8 @@ product-info .loading-overlay:not(.hidden) ~ *,
 }
 
 .header__icon .icon {
-  height: 2rem;
-  width: 2rem;
+  height: 3rem;
+  width: 3rem;
   fill: none;
   vertical-align: middle;
 }
