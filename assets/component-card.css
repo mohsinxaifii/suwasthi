@@ -1,6 +1,6 @@
 .card-wrapper {
     color: inherit;
-    width: 100%;
+    width: fit-content;
     position: relative;
     text-decoration: none;
 }
