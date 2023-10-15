@@ -2386,7 +2386,6 @@ product-info .loading-overlay:not(.hidden) ~ *,
     margin: auto;
   }
 }
-
 .announcement-bar, .announcement-bar__announcement {
     color: rgb(var(--color-foreground));
     width: 100%;
@@ -2396,11 +2395,10 @@ product-info .loading-overlay:not(.hidden) ~ *,
     flex-wrap: wrap;
     align-content: center;
     grid-area: announcements;
-    width: 40vw;
-    margin: auto;
+    width: 36vw;
+    margin: 0 auto;
     padding: 0;
 }
-
 .announcement-bar .slider--everywhere {
   margin-bottom: 0;
   scroll-behavior: auto;
