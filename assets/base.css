@@ -160,8 +160,8 @@
     text-align: left;
     color: #002c00;
     font-weight: 400;
-    font-size: 6rem;
-    line-height: 8.4rem;
+    font-size: 4.5rem;
+    line-height: 6.4rem;
 }
 @media(max-width:1200px){
   .CallBannerFlex {
