@@ -167,9 +167,9 @@
 }
 
 .card__badge {
-  /* align-self: flex-end;
-  grid-row-start: 3; */
-  justify-self: flex-start;
+    justify-content: center;
+    justify-self: flex-start;
+    display: flex;
 }
 
 .card__badge.top {
