@@ -2,8 +2,8 @@ slider-component {
     --desktop-margin-left-first-item: max( 5rem, calc((100vw - var(--page-width) + 10rem - var(--grid-desktop-horizontal-spacing)) / 2) );
     position: relative;
     display: block;
-    border: 1px solid #002c00;
-    border-radius: 10px;
+    /* border: 1px solid #002c00;
+    border-radius: 10px; */
     margin: 0 80px !important;
 }
 slider-component.slider-component-full-width {
