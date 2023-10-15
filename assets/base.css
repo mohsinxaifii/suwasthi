@@ -3155,10 +3155,14 @@ details-disclosure > details {
 
 .badge {
     border-radius: 10px;
-    padding: 10px 30px;
+    padding: 4px 27px;
+    height: fit-content;
+    font-size: 2rem;
+    line-height: 3rem;
+    font-weight: 400;
     text-align: center;
     background: linear-gradient(45deg,#612f0e,#42200a);
-    color: white;
+    color: #fff;
 }
 
 
