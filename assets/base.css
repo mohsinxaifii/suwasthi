@@ -120,10 +120,10 @@
   width: 100%;
 }
 .iconsStripContainer {
-  display: flex;
-  justify-content: center;
-  padding: 0 10vw;
-  align-items: end;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10vw;
+    align-items: end;
 }
 .iconsStripContainer img {
   width: 14%;
