@@ -1,9 +1,9 @@
 {
   "sections": {
-    "ff8314f7-c33c-4d1f-93ca-898087b59d36": {
+    "9abfe8f0-e385-4ed8-9e49-cd177b90020a": {
       "type": "slideshow",
       "blocks": {
-        "0ba57668-4f6f-4b40-86a5-008f293b1e95": {
+        "template--21109731819838__9abfe8f0-e385-4ed8-9e49-cd177b90020a-slide-1": {
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/Group_17.png",
@@ -14,14 +14,14 @@
             "link": "",
             "button_style_secondary": false,
             "box_align": "middle-center",
-            "show_text_box": true,
+            "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
+            "color_scheme": "",
             "text_alignment_mobile": "center"
           }
         },
-        "40ab8e1e-2ba9-4293-99ce-cf7eaf14283e": {
+        "9a4b964d-871c-4777-b0a2-d5e22baf12cc": {
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/Artboard_1.jpg",
@@ -32,25 +32,25 @@
             "link": "",
             "button_style_secondary": false,
             "box_align": "middle-center",
-            "show_text_box": true,
+            "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
+            "color_scheme": "",
             "text_alignment_mobile": "center"
           }
         },
-        "template--21109731819838__ff8314f7-c33c-4d1f-93ca-898087b59d36-slide-1": {
+        "5078e07b-7f8f-4bd5-8656-839cae30371e": {
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/DIACUREX.jpg",
             "heading": "",
-            "heading_size": "h2",
+            "heading_size": "h1",
             "subheading": "",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
             "box_align": "middle-center",
-            "show_text_box": true,
+            "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
             "color_scheme": "",
@@ -59,22 +59,19 @@
         }
       },
       "block_order": [
-        "0ba57668-4f6f-4b40-86a5-008f293b1e95",
-        "40ab8e1e-2ba9-4293-99ce-cf7eaf14283e",
-        "template--21109731819838__ff8314f7-c33c-4d1f-93ca-898087b59d36-slide-1"
-      ],
-      "custom_css": [
-
+        "template--21109731819838__9abfe8f0-e385-4ed8-9e49-cd177b90020a-slide-1",
+        "9a4b964d-871c-4777-b0a2-d5e22baf12cc",
+        "5078e07b-7f8f-4bd5-8656-839cae30371e"
       ],
       "settings": {
         "layout": "full_bleed",
         "slide_height": "medium",
         "slider_visual": "dots",
-        "auto_rotate": true,
+        "auto_rotate": false,
         "change_slides_speed": 5,
         "image_behavior": "none",
-        "show_text_below": false,
-        "accessibility_info": ""
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
       }
     },
     "feeaaa21-6a7d-46f1-99af-9c46c4d33785": {
@@ -428,7 +425,7 @@
     }
   },
   "order": [
-    "ff8314f7-c33c-4d1f-93ca-898087b59d36",
+    "9abfe8f0-e385-4ed8-9e49-cd177b90020a",
     "feeaaa21-6a7d-46f1-99af-9c46c4d33785",
     "9fb2bd52-5b61-48d1-8d3e-c093ece6fc70",
     "cfc074df-e90a-4b69-9c15-e064a105bdf0",
