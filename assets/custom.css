@@ -9,3 +9,7 @@
 .product-form__quantity .form__label {
     font-weight: 400 !important;
 }
+.quantity {
+    border: dashed 1.5px black;
+    padding: 10px 20px;
+}
