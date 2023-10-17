@@ -16,4 +16,5 @@
 }
 .product--medium:not(.product--no-media) .product__info-wrapper, .product--small:not(.product--no-media) .product__media-wrapper {
     background-color: #f8ddaa;
+    padding: 50px;
 }
