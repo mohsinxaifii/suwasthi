@@ -5,10 +5,11 @@
 }
 .product__info-container .product-form, .product__info-container .product__description, .product__info-container .icon-with-text {
     font-weight: 400 !important;
+      margin: 0 !important;
+
 }
 .product-form__quantity .form__label {
     font-weight: 400 !important;
-  margin: 0 !important;
 }
 .quantity {
     border: dashed 1.5px black;
