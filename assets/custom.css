@@ -48,8 +48,8 @@
 }
 .animate--hover-vertical-lift .button:not(.button--tertiary), .animate--hover-vertical-lift .shopify-challenge__button, .animate--hover-vertical-lift .customer button, .animate--hover-vertical-lift .shopify-payment-button__button {
     width: 100%;
-    background: #002c00;
-    color: white;
+    /* background: #002c00; */
+    /* color: white; */
     letter-spacing: 0;
     font-size: 2.4rem;
     height: 50px;
@@ -57,10 +57,15 @@
     border-radius: 10px;
 }
 .animate--hover-vertical-lift .button:not(.button--tertiary), .animate--hover-vertical-lift .shopify-challenge__button, .animate--hover-vertical-lift .customer button, .animate--hover-vertical-lift .shopify-payment-button__button:hover {
-    background-color: #002c00 !important;
+    /* background-color: #002c00 !important; */
 }
-
-
+.product-form__submit {
+    background-color: #42200a;
+}
+.shopify-payment-button__button {
+    background-color: white;
+    color: #42200a;
+}
 
 
 
