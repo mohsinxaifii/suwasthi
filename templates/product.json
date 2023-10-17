@@ -72,6 +72,15 @@
           "settings": {
             "custom_liquid": "<hr class=\"hrPdpCard\">\n<style>\n  .hrPdpCard{\n     border:none;\n     height:2px;\n     width:70%;\n     background-color: #42200a;\nmargin: 30px auto;\n   }\n<\/style>"
           }
+        },
+        "9bfe3270-b8c7-4eb9-8881-3bd898ac3d2e": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "content": "",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -85,7 +94,8 @@
         "buy_buttons",
         "share",
         "d24bb003-49df-40e9-aedf-440fe9372a6a",
-        "2f9ccc49-5f93-4b44-8e4e-7672a5ada25b"
+        "2f9ccc49-5f93-4b44-8e4e-7672a5ada25b",
+        "9bfe3270-b8c7-4eb9-8881-3bd898ac3d2e"
       ],
       "settings": {
         "enable_sticky_info": true,
