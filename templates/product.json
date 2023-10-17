@@ -70,7 +70,7 @@
         "2f9ccc49-5f93-4b44-8e4e-7672a5ada25b": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<hr class=\"hrPdpCard\">\n<style>\n  .hrPdpCard{\n     border:none;\n     height:2px;\n     width:70%;\n     background-color: #42200a;\n   }\n<\/style>"
+            "custom_liquid": "<hr class=\"hrPdpCard\">\n<style>\n  .hrPdpCard{\n     border:none;\n     height:2px;\n     width:70%;\n     background-color: #42200a;\nmargin: auto;\n   }\n<\/style>"
           }
         }
       },
