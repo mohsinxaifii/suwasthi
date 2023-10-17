@@ -8,6 +8,7 @@
 }
 .product-form__quantity .form__label {
     font-weight: 400 !important;
+  margin: 0 !important;
 }
 .quantity {
     border: dashed 1.5px black;
