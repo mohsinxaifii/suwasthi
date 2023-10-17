@@ -25,6 +25,11 @@
           "settings": {
           }
         },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -34,11 +39,6 @@
           "type": "variant_picker",
           "settings": {
             "picker_type": "button"
-          }
-        },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "settings": {
           }
         },
         "buy_buttons": {
@@ -60,9 +60,9 @@
         "title",
         "4af37451-e098-4378-81b1-6e418ff462bf",
         "description",
+        "quantity_selector",
         "price",
         "variant_picker",
-        "quantity_selector",
         "buy_buttons",
         "share"
       ],
