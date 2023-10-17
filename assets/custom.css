@@ -46,3 +46,24 @@
     margin-left: 10px;
     padding: 3px 30px;
 }
+.animate--hover-vertical-lift .button:not(.button--tertiary), .animate--hover-vertical-lift .shopify-challenge__button, .animate--hover-vertical-lift .customer button, .animate--hover-vertical-lift .shopify-payment-button__button {
+    width: 100%;
+    background: #002c00;
+    color: white;
+    letter-spacing: 0;
+    font-size: 2.4rem;
+    height: 50px;
+    padding: 0;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
