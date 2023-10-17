@@ -57,7 +57,7 @@
     border-radius: 10px;
 }
 .animate--hover-vertical-lift .button:not(.button--tertiary), .animate--hover-vertical-lift .shopify-challenge__button, .animate--hover-vertical-lift .customer button, .animate--hover-vertical-lift .shopify-payment-button__button:hover {
-    opacity: .7;
+    background-color: #002c00 !important;
 }
 
 
