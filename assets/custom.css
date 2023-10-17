@@ -18,3 +18,9 @@
     background-color: #f8ddaa;
     padding: 50px;
 }
+.quantity__input {
+    font-size: 2rem;
+    font-weight: 700;
+    padding: 0;
+    width: 60px;
+}
