@@ -33,3 +33,6 @@
 .product__info-container .price--on-sale .price-item--regular {
     font-size: 2.2rem;
 }
+.price .price-item {
+    font-size: 2.6rem;
+}
