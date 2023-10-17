@@ -71,7 +71,10 @@
     font-size: 2.6rem;
     text-align: center;
 }
-
+.product__accordion .accordion__content {
+    font-weight: 400;
+    opacity: .7;
+}
 
 
 
