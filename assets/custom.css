@@ -14,3 +14,6 @@
     padding: 10px 20px;
   border-radius: 10px !important;
 }
+.product--medium:not(.product--no-media) .product__info-wrapper, .product--small:not(.product--no-media) .product__media-wrapper {
+    background-color: #f8ddaa;
+}
