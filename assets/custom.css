@@ -63,7 +63,7 @@
     background-color: #42200a;
 }
 .shopify-payment-button__button {
-    background-color: white;
+    background-color: white !important;
     color: #42200a;
 }
 
