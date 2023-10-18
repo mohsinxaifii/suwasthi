@@ -1,3 +1,26 @@
+.headingContainer {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.hrBack {
+  height: 1.5px;
+  width: 100%;
+  border: none;
+  background-color: #002c00;
+  position: absolute;
+}
+.hrText {
+  font-size: 5rem;
+  font-weight: 600;
+  width: fit-content;
+  color: #002c00;
+  text-align: center;
+  margin: 0;
+  padding: 0 30px;
+  background-color: white;
+  position: relative;
+}
 .product__text {
     font-size: 2rem;
     font-weight: 400;
