@@ -175,8 +175,33 @@
     },
     "b00b959a-7e91-4d71-aff7-cbe2078ec51b": {
       "type": "custom-liquid",
+      "custom_css": [
+
+      ],
       "settings": {
         "custom_liquid": "<div class=\"videoContainerTop\">\n  <video id=\"autoplayVideo\" src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/cade06bee53c46b987614660ad39b4f1.mp4\" controls muted loop><\/video>\n<\/div>\n\n<style>\n  .videoContainerTop {\n    display: flex;\n    flex-wrap: wrap;\n    align-items: center;\n    justify-content: center;\n    width: 100%;\n    padding: 0 80px;\n    margin: 0;\n  }\n\n  .videoContainerTop video {\n    width: 100%;\n    object-fit: cover;\n    height: auto;\n    background-color: #002c0020;\n    margin: 0;\n    border-radius: 20px;\n  }\n<\/style>\n\n<script>\nconst video = document.getElementById('autoplayVideo');\nconst options = {\n  root: null,\n  rootMargin: '0px',\n  threshold: 0.4, \/\/ Adjust this threshold to control when the video starts playing\n};\n\nconst handleIntersection = (entries, observer) => {\n  entries.forEach((entry) => {\n    if (entry.isIntersecting) {\n      video.play();\n    } else {\n      video.pause();\n    }\n  });\n};\n\nconst observer = new IntersectionObserver(handleIntersection, options);\nobserver.observe(video);\n<\/script>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "6fb2b1ae-9872-4a40-9dc3-3cbb5c018be2": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".iconsStripContainer {display: flex; justify-content: space-between; padding: 0 80px; align-items: start;}",
+        ".iconsStripContainer img {width: 9%; height: auto;}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"iconsStripContainer\">\n            <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_5_17b102ad-9897-4bb7-a5cb-7c307af94b4e.png?v=1697357588 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_4_b7b5d8aa-a2ff-4b24-8449-d458f68a5fa4.png?v=1697357587 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_6_f744b382-2f18-4758-b1fd-1203c3cc7964.png?v=1697357587 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_7_cb2bbb0e-8c80-42ba-943f-5069346049d2.png?v=1697357587 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_8_8665dc7e-bffd-49d2-ad15-20394abc9545.png?v=1697357587 alt=\"\">\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/Group_9_ef28afb0-efdc-493e-8450-a2f4e882a5e3.png?v=1697357588 alt=\"\">\n    <\/div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "c1c7afe3-5619-4989-a512-218c1b7cb00e": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Why Choose Suwasthi?<\/p>\n    <\/div>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
@@ -221,6 +246,8 @@
     "main",
     "18b5c052-af9a-46cd-8041-16235774483b",
     "b00b959a-7e91-4d71-aff7-cbe2078ec51b",
+    "6fb2b1ae-9872-4a40-9dc3-3cbb5c018be2",
+    "c1c7afe3-5619-4989-a512-218c1b7cb00e",
     "related-products",
     "1697562007abf553aa"
   ]
