@@ -128,7 +128,9 @@
     "65dac945-f2c4-448b-965f-048de3de2420": {
       "type": "custom-liquid",
       "custom_css": [
-
+        ".headingContainer {justify-content: center; align-items: center; display: flex;}",
+        ".hrBack {height: 1.5px; width: 100%; border: none; background-color: #002c00; position: absolute;}",
+        ".hrText {font-size: 5rem; font-weight: 600; width: fit-content; color: #002c00; text-align: center; margin: 0; padding: 0 30px; background-color: white; position: relative;}"
       ],
       "settings": {
         "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Standards<\/p>\n    <\/div>",
@@ -153,7 +155,9 @@
     "5712053d-e04e-45ce-bde6-87afcdad8edd": {
       "type": "custom-liquid",
       "custom_css": [
-
+        ".headingContainer {justify-content: center; align-items: center; display: flex;}",
+        ".hrBack {height: 1.5px; width: 100%; border: none; background-color: #002c00; position: absolute;}",
+        ".hrText {font-size: 5rem; font-weight: 600; width: fit-content; color: #002c00; text-align: center; margin: 0; padding: 0 30px; background-color: white; position: relative;}"
       ],
       "settings": {
         "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Shop By Category<\/p>\n    <\/div>",
@@ -177,7 +181,9 @@
     "017306f0-7fc7-4b1f-83a0-850f48dc0893": {
       "type": "custom-liquid",
       "custom_css": [
-
+        ".headingContainer {justify-content: center; align-items: center; display: flex;}",
+        ".hrBack {height: 1.5px; width: 100%; border: none; background-color: #002c00; position: absolute;}",
+        ".hrText {font-size: 5rem; font-weight: 600; width: fit-content; color: #002c00; text-align: center; margin: 0; padding: 0 30px; background-color: white; position: relative;}"
       ],
       "settings": {
         "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Our Diabetic Range<\/p>\n    <\/div>",
