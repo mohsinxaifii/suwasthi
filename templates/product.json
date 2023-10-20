@@ -279,6 +279,15 @@
         "padding_bottom": 52
       }
     },
+    "6c8b489a-b345-4017-9ab9-80a563a15ffb": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">FAQS<\/p>\n    <\/div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -328,6 +337,7 @@
     "dddbb04b-f817-49f2-a2d8-9d0cda9766d9",
     "88d47c02-d17b-4024-8059-3b18b6c33516",
     "c056bad4-a2fd-4f45-9818-754835b693e9",
+    "6c8b489a-b345-4017-9ab9-80a563a15ffb",
     "related-products",
     "1697562007abf553aa"
   ]
