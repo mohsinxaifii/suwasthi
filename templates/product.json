@@ -270,6 +270,15 @@
         "padding_bottom": 0
       }
     },
+    "c056bad4-a2fd-4f45-9818-754835b693e9": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">Stories of Good Health<\/p>\n    <\/div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -318,6 +327,7 @@
     "513e7bf4-6a1f-4fa0-9584-46e3093a71e8",
     "dddbb04b-f817-49f2-a2d8-9d0cda9766d9",
     "88d47c02-d17b-4024-8059-3b18b6c33516",
+    "c056bad4-a2fd-4f45-9818-754835b693e9",
     "related-products",
     "1697562007abf553aa"
   ]
