@@ -52,6 +52,15 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
+    },
+    "489e11ec-eaaa-49ee-9e5c-19f2ea4f992d": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"brand-qualities-steps-container\">\n    <div class=\"brand-qualities-steps-containerleft\">\n        <p class=\"brand-qualities-steps-containerleftTextHeading\">Step 1: Herb Extraction<\/p>\n        <p class=\"brand-qualities-steps-containerleftTextSubHeading\">All the herbs for our products are handpicked and only the best part of the herb which is full of goodness is used in the products.<\/p>\n    <\/div>\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/delivery-concept-portrait-happy-african-american-delivery-man-red-cloth-holding-box-package-isolated-grey-studio-background-copy-space_copy_1.png?v=1695569171\" alt=\"\">\n<\/div>\n\n<style>\n    .brand-qualities-steps-container {\n        width: 75%;\n        display: flex;\n        justify-content: space-between;\n        align-items: center;\n        margin: 0 auto;\n    }\n\n    .brand-qualities-steps-containerleft {\n        display: flex;\n        flex-direction: column;\n        justify-content: start;\n        align-items: start;\n        width: 60%;\n        gap: 15px;\n    }\n    .brand-qualities-steps-containerleftTextHeading{\n        text-align: left;\n        font-size: 3rem;\n        font-weight: 600;\n        margin: 0;\n    }\n    .brand-qualities-steps-containerleftTextSubHeading{\n        text-align: left;\n        font-size: 2.5rem;\n        font-weight: 500;\n        margin: 0;\n    }\n    .brand-qualities-steps-container img{\n        width: 30%;\n    }\n<\/style>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -60,6 +69,7 @@
     "dda2ec7c-ea82-4c1a-bd36-64e59a92517b",
     "bd6208a6-0743-46d4-9d42-d548ce067dd9",
     "ed3b1901-a54c-4e2b-bcf8-465e803428c0",
-    "a77b8728-41fc-4aa3-9c5e-5b444d809cee"
+    "a77b8728-41fc-4aa3-9c5e-5b444d809cee",
+    "489e11ec-eaaa-49ee-9e5c-19f2ea4f992d"
   ]
 }
