@@ -1,7 +1,5 @@
 .product__media-wrapper .product--thumbnail_slider .thumbnail-slider {
-    display: flex;
-    padding: 0 80px;
-    align-items: center;
+    padding: 0 80px !important;
 }
  
 .product .product__info-wrapper .product__info-container .icon-with-text {
