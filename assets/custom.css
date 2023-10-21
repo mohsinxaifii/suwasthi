@@ -1,5 +1,5 @@
-.product-form__input{
-  margin: 0 0 1rem 0 !important;
+.product .price .badge, .product .price__container {
+    margin-top: 2.5rem;
 }
 .quantity-with-price-align {
     display: flex;
