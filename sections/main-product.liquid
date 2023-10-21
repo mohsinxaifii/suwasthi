@@ -221,8 +221,7 @@
                 {% # theme-check-disable %}
                 {%- assign cart_qty = cart | item_count_for_variant: product.selected_or_first_available_variant.id -%}
                 {% # theme-check-enable %}
-               
-                  <span class="quantity__rules-cart no-js-hidden{% if cart_qty == 0 %} hidden{% endif %}">
+                
                     <span class="loading-overlay hidden">
                       <span class="loading-overlay__spinner">
                         <svg
@@ -237,7 +236,6 @@
                       </span>
                     </span>
                     <span>({{- 'products.product.quantity.in_cart_html' | t: quantity: cart_qty -}})</span>
-                  </span>
                 <div class="price-per-item__container">
                   <quantity-input class="quantity" data-url="{{ product.url }}" data-section="{{ section.id }}">
                     <button class="quantity__button no-js-hidden" name="minus" type="button">
