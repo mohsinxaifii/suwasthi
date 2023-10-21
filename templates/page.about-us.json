@@ -2,13 +2,24 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "f137dc92-3faf-4678-9d76-66849ceb96c0": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"videoContainerTop\">\n  <video id=\"autoplayVideo\" src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/cade06bee53c46b987614660ad39b4f1.mp4\" controls muted loop><\/video>\n<\/div>\n\n<style>\n  .videoContainerTop {\n    display: flex;\n    flex-wrap: wrap;\n    align-items: center;\n    justify-content: center;\n    width: 100%;\n    padding: 0 80px;\n    margin: 0;\n  }\n\n  .videoContainerTop video {\n    width: 100%;\n    object-fit: cover;\n    height: auto;\n    background-color: #002c0020;\n    margin: 0;\n    border-radius: 20px;\n  }\n<\/style>\n\n<script>\nconst video = document.getElementById('autoplayVideo');\nconst options = {\n  root: null,\n  rootMargin: '0px',\n  threshold: 0.4, \/\/ Adjust this threshold to control when the video starts playing\n};\n\nconst handleIntersection = (entries, observer) => {\n  entries.forEach((entry) => {\n    if (entry.isIntersecting) {\n      video.play();\n    } else {\n      video.pause();\n    }\n  });\n};\n\nconst observer = new IntersectionObserver(handleIntersection, options);\nobserver.observe(video);\n<\/script>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "f137dc92-3faf-4678-9d76-66849ceb96c0"
   ]
 }
