@@ -95,7 +95,7 @@
     "5406f0e8-c649-4f96-8eed-4728e45c1f99": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div class=\"boxed-text-container-about-us\">\n    <p class=\"boxed-text-container-about-usBold\">\"If it's not good enough for us,<\/p>\n    <p class=\"boxed-text-container-about-usThin\">it's not good enough for you\"<\/p>\n<\/div>\n<style>\n.boxed-text-container-about-us{\n    width: fit-content;\n    margin: 0 auto;\n    background-color: #002c00;\n    border-radius: 10px;\n    padding: 3rem 5rem;\n}\n.boxed-text-container-about-usBold{\n    color: white;\n    font-size: 4.5rem;\n    font-weight: 600;\n    text-align: center;\n    margin: 0;\n}\n.boxed-text-container-about-usThin{\n    color: white;\n    font-size: 4.5rem;\n    font-weight: 500;\n    text-align: center;\n    margin: 0;\n}\n<\/style>",
+        "custom_liquid": "<div class=\"boxed-text-container-about-us\">\n    <p class=\"boxed-text-container-about-usBold\">\"If it's not good enough for us,<\/p>\n    <p class=\"boxed-text-container-about-usThin\">it's not good enough for you\"<\/p>\n<\/div>\n<style>\n.boxed-text-container-about-us{\n    width: 70%;\n    margin: 0 auto;\n    background-color: #002c00;\n    border-radius: 10px;\n    padding: 3rem 5rem;\n}\n.boxed-text-container-about-usBold{\n    color: white;\n    font-size: 5rem;\n    font-weight: 600;\n    text-align: center;\n    margin: 0;\ntext-wrap:nowrap;\n}\n.boxed-text-container-about-usThin{\n    color: white;\n    font-size: 5rem;\n    font-weight: 500;\n    text-align: center;\n    margin: 0;\ntext-wrap:nowrap;\n}\n<\/style>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
