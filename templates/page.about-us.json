@@ -91,6 +91,15 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "5406f0e8-c649-4f96-8eed-4728e45c1f99": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"boxed-text-container-about-us\">\n    <p class=\"boxed-text-container-about-usBold\">\"If it's not good enough for us,<\/p>\n    <p class=\"boxed-text-container-about-usThin\">it's not good enough for you\"<\/p>\n<\/div>\n<style>\n.boxed-text-container-about-us{\n    width: fit-content;\n    margin: 0 auto;\n    background-color: #002c00;\n    border-radius: 10px;\n    padding: 3rem 5rem;\n}\n.boxed-text-container-about-usBold{\n    color: white;\n    font-size: 4.5rem;\n    font-weight: 600;\n    text-align: center;\n    margin: 0;\n}\n.boxed-text-container-about-usThin{\n    color: white;\n    font-size: 4.5rem;\n    font-weight: 500;\n    text-align: center;\n    margin: 0;\n}\n<\/style>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -103,6 +112,7 @@
     "489e11ec-eaaa-49ee-9e5c-19f2ea4f992d",
     "5dc8d113-d72a-47ce-97a5-cf206057336f",
     "2d251170-e84c-4f58-b5c7-c1058f8bb1c6",
-    "b6d121f1-d51b-4933-abfc-88315ea45857"
+    "b6d121f1-d51b-4933-abfc-88315ea45857",
+    "5406f0e8-c649-4f96-8eed-4728e45c1f99"
   ]
 }
