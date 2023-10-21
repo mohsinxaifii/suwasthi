@@ -136,6 +136,24 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
+    },
+    "bfec6a57-5559-456d-82be-8d232908198b": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">What Motivates Us?<\/p>\n    <\/div>\n<style>\n.headingContainer {\n  justify-content: center;\n  align-items: center;\n  display: flex;\n}\n.hrBack {\n  height: 1.5px;\n  width: 100%;\n  border: none;\n  background-color: #002c00;\n  position: absolute;\n}\n.hrText {\n  font-size: 5rem;\n  font-weight: 600;\n  width: fit-content;\n  color: #002c00;\n  text-align: center;\n  margin: 0;\n  padding: 0 30px;\n  background-color: white;\n  position: relative;\n}\n<\/style>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "def033a3-3144-44b0-9e14-6049d82782c3": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"about-us-paragraph-yellow-container\">\n    <p class=\"about-us-paragraph-transparent-container-thin\">Suwasthi intense beauty products started it's journey with\n        the vision to create a brand that stands not just for luxury\n        alone but to bring out the transformation in the lives of people. Since then, we are creating pure, luxurious\n        and safe\n        ayurvedic natural health and skincare products according to authentic prescription. SUWASTHI is a\n        quality-driven,\n        premium brand that specializes in developing innovative products that are unique but natural in their\n        formulations and\n        deliver the results as promised.<\/p>\n<\/div>\n<div class=\"about-us-paragraph-transparent-container\">\n    <p class=\"about-us-paragraph-transparent-container-thin\">We are obliged to offer our customers with natural products that remind everyone to\n        ancient rarest herb's and their natural healing powers mentioned in Ayurvedic Bhaishajyas and Sushruta Samhita. Suwasthi\n        intense beauty extracts the best from nature's vast repertoire and recreates fresh seasonal formulation using natural\n        rare plant extracts herb's infusion, SECRET BLENDING of nature's rarest herbs infused with fine and pure quality\n        Essential Oils. There is a perfect fusion between ancient recipes and modern technology to create a whole new experience\n        to world with luxurious Natural Health care and skin care products that delivers visible results.<\/p>\n<\/div>\n\n<style>\n    .about-us-paragraph-transparent-container {\n        display: flex;\n        justify-content: center;\n        align-items: center;\n        padding: 0 15rem;\n    }\n\n    .about-us-paragraph-yellow-container {\n        display: flex;\n        justify-content: center;\n        align-items: center;\n        background-color: #f8ddaa;\n        padding: 0 15rem;\n    }\n\n    .about-us-paragraph-transparent-container-thin {\n        text-align: center;\n        color: #002c00;\n        font-size: 2rem;\n        font-weight: 500;\n        font-stretch: expanded;\n        text-align: justify;\n    }\n\n    .about-us-paragraph-transparent-container-bold {\n        text-align: center;\n        color: #002c00;\n        font-size: 2.3rem;\n        font-weight: 600;\n        text-align: justify;\n    }\n<\/style>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
     }
   },
   "order": [
@@ -153,6 +171,8 @@
     "f9824191-60c1-4ed9-b9fa-118c1e6aeae9",
     "ecacc497-bcad-4246-a352-a0fce7da3e98",
     "f7292fad-3aa3-4a37-9bdb-9e6d8816d408",
-    "972e1468-13a9-4ed5-806f-0489b63a015c"
+    "972e1468-13a9-4ed5-806f-0489b63a015c",
+    "bfec6a57-5559-456d-82be-8d232908198b",
+    "def033a3-3144-44b0-9e14-6049d82782c3"
   ]
 }
