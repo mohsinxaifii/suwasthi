@@ -107,7 +107,7 @@
         "custom_liquid": "<p class=\"brown-text-paragraph-about-us\">100% Natural & Premium Quality Products with Organic Ingredients picked & extracted exclusively for you!<\/p>\n\n<style>\n    .brown-text-paragraph-about-us{\n        width: 75%;\nmargin: 0 auto;\n        text-align: center;\n        color: #42200b;\n        font-size: 3rem;\n        font-weight: 600;\nline-height: 4rem;\n    }\n<\/style>",
         "color_scheme": "",
         "padding_top": 40,
-        "padding_bottom": 52
+        "padding_bottom": 40
       }
     },
     "ecacc497-bcad-4246-a352-a0fce7da3e98": {
