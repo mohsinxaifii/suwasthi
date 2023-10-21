@@ -43,6 +43,15 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "a77b8728-41fc-4aa3-9c5e-5b444d809cee": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"about-us-paragraph-transparent-container\">\n    <p class=\"about-us-paragraph-transparent-container-thin\">Our passion for quality goes hand-in-hand with a steadfast\n        devotion to our customers. Personalised 'extra mile' service is the cornerstone of our company and it's our\n        mission to provide standout support. We create magic loaded with powerful nutrients as we follow this process.\n    <\/p>\n<\/div>\n<style>\n    .about-us-paragraph-transparent-container {\n        display: flex;\n        justify-content: center;\n        align-items: center;\n        padding: 0 15rem;\n    }\n\n    .about-us-paragraph-transparent-container-thin {\n        text-align: center;\n        color: #002c00;\n        font-size: 2rem;\n        font-weight: 500;    }\n<\/style>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
     }
   },
   "order": [
@@ -50,6 +59,7 @@
     "f137dc92-3faf-4678-9d76-66849ceb96c0",
     "dda2ec7c-ea82-4c1a-bd36-64e59a92517b",
     "bd6208a6-0743-46d4-9d42-d548ce067dd9",
-    "ed3b1901-a54c-4e2b-bcf8-465e803428c0"
+    "ed3b1901-a54c-4e2b-bcf8-465e803428c0",
+    "a77b8728-41fc-4aa3-9c5e-5b444d809cee"
   ]
 }
