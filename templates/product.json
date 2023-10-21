@@ -183,7 +183,7 @@
         "custom_liquid": "<div class=\"videoContainerTop\">\n  <video id=\"autoplayVideo\" src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/cade06bee53c46b987614660ad39b4f1.mp4\" controls muted loop><\/video>\n<\/div>\n\n<style>\n  .videoContainerTop {\n    display: flex;\n    flex-wrap: wrap;\n    align-items: center;\n    justify-content: center;\n    width: 100%;\n    padding: 0 80px;\n    margin: 0;\n  }\n\n  .videoContainerTop video {\n    width: 100%;\n    object-fit: cover;\n    height: auto;\n    background-color: #002c0020;\n    margin: 0;\n    border-radius: 20px;\n  }\n<\/style>\n\n<script>\nconst video = document.getElementById('autoplayVideo');\nconst options = {\n  root: null,\n  rootMargin: '0px',\n  threshold: 0.4, \/\/ Adjust this threshold to control when the video starts playing\n};\n\nconst handleIntersection = (entries, observer) => {\n  entries.forEach((entry) => {\n    if (entry.isIntersecting) {\n      video.play();\n    } else {\n      video.pause();\n    }\n  });\n};\n\nconst observer = new IntersectionObserver(handleIntersection, options);\nobserver.observe(video);\n<\/script>",
         "color_scheme": "",
         "padding_top": 0,
-        "padding_bottom": 52
+        "padding_bottom": 40
       }
     },
     "6fb2b1ae-9872-4a40-9dc3-3cbb5c018be2": {
@@ -285,8 +285,8 @@
       "settings": {
         "custom_liquid": "<div class=\"testimonialStoryWithText\">\n    <div class=\"testimonialStoryWithTextvideoContainerLeft\">\n        <video id=\"autoplayVideo2\" src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/cade06bee53c46b987614660ad39b4f1.mp4\" controls muted loop><\/video>\n      <\/div>\n      <div class=\"testimonialStoryWithTextvideoContainerRight\">\n        <p class=\"testimonialStoryWithTextvideoContainerRightHeading\">Makes you feel Healthy and Energetic again<\/p>\n        <p class=\"testimonialStoryWithTextvideoContainerRightSubHeading\">\"Until 2 months ago, I would feel short of breath just by walking 2 steps. Then one day, my friend recommended this product. After trying it for 2 months, I could feel the changes in my body. Now I walk around, feel energetic, complete daily tasks and feel fitter than ever.\"        <\/p>\n        <p class=\"testimonialStoryWithTextvideoContainerRightName\">Mr. Gupta<\/p>\n      <\/div>\n<\/div>\n\n\n\n  \n  <style>\n.testimonialStoryWithTextvideoContainerRightHeading {\n    text-align: left;\n    font-weight: 600;\n    font-size: 2.5rem;\n    margin: 0;\n    line-height: 3.5rem;\n}\n.testimonialStoryWithTextvideoContainerRightSubHeading {\n    text-align: left;\n    font-weight: 500;\n    font-size: 1.5rem;\n    margin: 0;\n    line-height: 2rem;\n}\n.testimonialStoryWithTextvideoContainerRightName {\n    text-align: left;\n    font-weight: 600;\n    margin: 0;\n    font-size: 1.7rem;\n}\n    .testimonialStoryWithTextvideoContainerRight{\n        width: 50%;\n        display: flex;\n        flex-direction: column;\n        justify-content: start;\n        align-items: start;\n        text-align: left;\n        gap: 20px;\n    }\n    .testimonialStoryWithText{\n        display: flex;\n        width: 75%;\n        height: auto;\n        margin: 0 auto;\n    }\n    .testimonialStoryWithTextvideoContainerLeft {\n    display: flex;\n    flex-wrap: wrap;\n    align-items: center;\n    justify-content: center;\n    width: 50%;\n    padding: 0 30px 0 0;\n    margin: 0;\n}\n  \n    .testimonialStoryWithTextvideoContainerLeft video {\n      width: 100%;\n      object-fit: cover;\n      height: auto;\n      background-color: #002c0020;\n      margin: 0;\n      border-radius: 10px;\n    }\n  <\/style>\n  \n  <script>\n  const video = document.getElementById('autoplayVideo2');\n  const options = {\n    root: null,\n    rootMargin: '0px',\n    threshold: 0.4, \/\/ Adjust this threshold to control when the video starts playing\n  };\n  \n  const handleIntersection = (entries, observer) => {\n    entries.forEach((entry) => {\n      if (entry.isIntersecting) {\n        video.play();\n      } else {\n        video.pause();\n      }\n    });\n  };\n  \n  const observer = new IntersectionObserver(handleIntersection, options);\n  observer.observe(video);\n  <\/script>",
         "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 0,
+        "padding_bottom": 40
       }
     },
     "6ec49e80-6dda-425a-b60c-f7e239b21beb": {
@@ -294,8 +294,8 @@
       "settings": {
         "custom_liquid": "<div class=\"testimonialStoryWithText\">\n    <div class=\"testimonialStoryWithTextvideoContainerRightBottom\">\n        <p class=\"testimonialStoryWithTextvideoContainerRightHeadingBottom\">Rejuvenates your body with its Natural\n            goodness<\/p>\n        <p class=\"testimonialStoryWithTextvideoContainerRightSubHeadingBottom\">\"Allopathic medicines didn't have\n            long-lasting and effective results for me. My kids suggested I try Suwasthi's True Herbs Karela Jamun Juice\n            to help regulate my sugar levels. After consuming the juice twice daily, I started feeling better and I did\n            not feel weak or tired anymore.\"<\/p>\n        <p class=\"testimonialStoryWithTextvideoContainerRightNameBottom\">Raj Shekhar<\/p>\n    <\/div>\n    <div class=\"testimonialStoryWithTextvideoContainerLeftBottom\">\n        <video id=\"autoplayVideo3\" src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/cade06bee53c46b987614660ad39b4f1.mp4\"\n            controls muted loop><\/video>\n    <\/div>\n<\/div>\n<style>\n    .testimonialStoryWithTextvideoContainerRightHeadingBottom {\n        text-align: right;\n        font-weight: 600;\n        font-size: 2.5rem;\n        margin: 0;\n        line-height: 3.5rem;\n    }\n\n    .testimonialStoryWithTextvideoContainerRightSubHeadingBottom {\n        text-align: right;\n        font-weight: 500;\n        font-size: 1.5rem;\n        margin: 0;\n        line-height: 2rem;\n    }\n\n    .testimonialStoryWithTextvideoContainerRightNameBottom {\n        text-align: right;\n        font-weight: 600;\n        margin: 0;\n        font-size: 1.7rem;\n    }\n\n    .testimonialStoryWithTextvideoContainerRightBottom {\n        width: 50%;\n        display: flex;\n        flex-direction: column;\n        justify-content: end;\n        align-items: end;\n        text-align: right;\n        gap: 20px;\n    }\n\n    .testimonialStoryWithTextBottom {\n        display: flex;\n        width: 75%;\n        height: auto;\n        margin: 0 auto;\n    }\n\n    .testimonialStoryWithTextvideoContainerLeftBottom {\n        display: flex;\n        flex-wrap: wrap;\n        align-items: center;\n        justify-content: center;\n        width: 50%;\n        padding: 0 0 0 30px;\n        margin: 0;\n    }\n\n    .testimonialStoryWithTextvideoContainerLeftBottom video {\n        width: 100%;\n        object-fit: cover;\n        height: auto;\n        background-color: #002c0020;\n        margin: 0;\n        border-radius: 10px;\n    }\n<\/style>\n\n<script>\n    const video = document.getElementById('autoplayVideo3');\n    const options = {\n        root: null,\n        rootMargin: '0px',\n        threshold: 0.4, \/\/ Adjust this threshold to control when the video starts playing\n    };\n\n    const handleIntersection = (entries, observer) => {\n        entries.forEach((entry) => {\n            if (entry.isIntersecting) {\n                video.play();\n            } else {\n                video.pause();\n            }\n        });\n    };\n\n    const observer = new IntersectionObserver(handleIntersection, options);\n    observer.observe(video);\n<\/script>",
         "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "0e2f9845-ab8f-4b2e-959b-29c1cca83470": {
@@ -304,7 +304,16 @@
         "custom_liquid": "<div class=\"company-about-pdp\">\n    <div class=\"company-about-pdp-headings\">\n        <p class=\"company-about-pdp-heading-bold\">HOW IS IT DIFFERENT FROM<\/p>\n        <p class=\"company-about-pdp-heading-thin\">OTHER JUICE COMPANIES?<\/p>\n    <\/div>\n    <p class=\"company-about-pdp-paragraph-yellow\">Suwathi's Pure Karela Jamun juice is made from fresh Karela, Jamun seeds, and raw herbs with no added sugar giving maximum benefit to your overall health.    <\/p>\n    <p class=\"company-about-pdp-paragraph-white\">We extract its nutrients from the best parts of the fruit like seeds from the Jamun fruit and not the pulp as it contains richest vitamins that aid in regulating sugar levels, cholesterol levels, and restores your body to its peak freshness.    <\/p>\n    <p class=\"company-about-pdp-paragraph-yellow\">Its clean and simple ingredients undergo an age-old traditional process to create a juice blend relieving your Blood Sugar-related issues and other health problems naturally.    <\/p>\n    <p class=\"company-about-pdp-paragraph-white\">This nutrient-rich blend helps you achieve that enviable glowing skin, lustrous hair, and the overall beauty you deserve.<\/p>\n    <p class=\"company-about-pdp-paragraph-yellow\">Karela pulp and Jamun seeds are the superstar ingredients we chose to make this product your daily partner to drive your way to a healthier you.<\/p>\n<\/div>\n\n<style>\n    .company-about-pdp{\n        background-color: #002c00;\n        width: 100%;\n        height: auto;\n        padding: 7rem 12rem;\n        display: flex;\n        flex-direction: column;\n        gap: 40px;\n    }\n    .company-about-pdp-headings{\n        display: flex;\n        flex-direction: column;\n        gap: 10px;\n    }\n    .company-about-pdp p {\n        text-align: center;\n        margin: 0;\n        line-height: 2.5rem;\n}\n    .company-about-pdp-heading-bold{\n        font-size: 2.5rem;\n        color: white;\n        font-weight: 600;\n    }\n    .company-about-pdp-heading-thin{\n        font-size: 2.5rem;\n        color: white;\n        font-weight: 500;\n    }\n    .company-about-pdp-paragraph-yellow{\n        font-size: 2rem;\n        color: #fbe0ac;\n        font-weight: 500;\n    }\n    .company-about-pdp-paragraph-white{\n        font-size: 2rem;\n        color: white;\n        font-weight: 500;\n    }\n<\/style>",
         "color_scheme": "",
         "padding_top": 40,
-        "padding_bottom": 52
+        "padding_bottom": 40
+      }
+    },
+    "1b34bebe-d040-4760-bfc7-7eb7f3bdd91d": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<img class=\"make-in-india-image-pdp\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0830\/2723\/1038\/files\/6227463bda02af04510699e9.png?v=1697871058\" alt=\"\">\n\n<style>\n    .make-in-india-image-pdp{\n        width: 30vw;\n        margin: auto;\ndisplay: flex;\n    }\n<\/style>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "76983723-edf2-424d-919b-51c280d143df": {
@@ -447,6 +456,7 @@
     "232b2aff-f08b-48ef-8922-e236a990f366",
     "6ec49e80-6dda-425a-b60c-f7e239b21beb",
     "0e2f9845-ab8f-4b2e-959b-29c1cca83470",
+    "1b34bebe-d040-4760-bfc7-7eb7f3bdd91d",
     "76983723-edf2-424d-919b-51c280d143df",
     "1697562007abf553aa",
     "6c8b489a-b345-4017-9ab9-80a563a15ffb",
