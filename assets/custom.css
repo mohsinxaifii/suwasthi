@@ -2,7 +2,7 @@
     display: flex;
     justify-content: space-between !important;
 }
-.product-form__buttons button {
+.product-form__submit  {
     width: 40% !important;
 }
 .product-form__input {
