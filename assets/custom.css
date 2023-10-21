@@ -1,3 +1,7 @@
+.product .product__info-wrapper .product__info-container .icon-with-text{
+  margin-top: 2rem;
+}
+
 .product-form__buttons {
     display: flex;
     justify-content: space-between !important;
