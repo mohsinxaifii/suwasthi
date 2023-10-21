@@ -1,11 +1,12 @@
 .product-form__buttons {
     display: flex;
+  gap: 20px;
 }
 .product-form__buttons button {
-    width: 50%;
+    width: 40%;
 }
 .product-form__buttons div {
-    width: 50%;
+    width: 40%;
 }
 .product-form__input {
     margin: 0 !important;
