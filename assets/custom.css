@@ -10,6 +10,10 @@
 }
 .quantity-and-price-flex-container{
   display: flex;
+      display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 30px;
 }
 .product__info-container>*+* {
     margin: 1rem 0 !important;
