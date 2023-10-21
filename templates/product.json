@@ -79,7 +79,7 @@
         "2f9ccc49-5f93-4b44-8e4e-7672a5ada25b": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<hr class=\"hrPdpCard\">\n<style>\n  .hrPdpCard{\n     border:none;\n     height:2px;\n     width:70%;\n     background-color: #42200a;\nmargin: 30px auto;\n   }\n<\/style>"
+            "custom_liquid": "<hr class=\"hrPdpCard\">\n<style>\n.hrPdpCard {\n    border: none;\n    height: 1px;\n    width: 80%;\n    background-color: #42200a;\n    margin: 30px auto 18px !important;\n}<\/style>"
           }
         },
         "b5be05c1-5e8c-46a7-859d-449aa144358e": {
