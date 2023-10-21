@@ -5,6 +5,10 @@
 .product-form__submit  {
     width: 40% !important;
 }
+.shopify-payment-button__button {
+      width: 40% !important;
+
+}
 .product-form__input {
     margin: 0 !important;
 }
