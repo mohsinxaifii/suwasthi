@@ -1,5 +1,5 @@
 .product__info-container>*+* {
-    margin: 0.5rem 0 !important;
+    margin: 1rem 0 !important;
 }
 .full-unstyled-link {
     text-wrap: wrap;
