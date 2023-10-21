@@ -1,3 +1,10 @@
+.quantity-with-price-align {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 20px;
+}
+
 .product-form__input {
     flex: 0 !important;
 }
