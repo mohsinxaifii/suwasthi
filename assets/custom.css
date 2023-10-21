@@ -1,3 +1,6 @@
+.product-form__input{
+  margin: 0 !important;
+}
 .quantity-with-price-align {
     display: flex;
     justify-content: start;
