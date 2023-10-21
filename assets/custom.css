@@ -1,5 +1,5 @@
-.product .product__info-wrapper .product__info-container .icon-with-text{
-  margin-top: 2rem;
+.product .product__info-wrapper .product__info-container .icon-with-text {
+    margin-top: 2rem !important;
 }
 
 .product-form__buttons {
