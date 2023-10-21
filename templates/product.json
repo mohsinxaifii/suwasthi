@@ -298,6 +298,15 @@
         "padding_bottom": 52
       }
     },
+    "0e2f9845-ab8f-4b2e-959b-29c1cca83470": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"company-about-pdp\">\n    <p class=\"heading-bold\">HOW IS IT DIFFERENT FROM<\/p>\n    <p class=\"heading-thin\">OTHER JUICE COMPANIES?<\/p>\n    <p class=\"paragraph-yellow\">Suwathi's Pure Karela Jamun juice is made from fresh Karela, Jamun seeds, and raw herbs with no added sugar giving maximum benefit to your overall health.    <\/p>\n    <p class=\"paragraph-white\">We extract its nutrients from the best parts of the fruit like seeds from the Jamun fruit and not the pulp as it contains richest vitamins that aid in regulating sugar levels, cholesterol levels, and restores your body to its peak freshness.    <\/p>\n    <p class=\"paragraph-yellow\">Its clean and simple ingredients undergo an age-old traditional process to create a juice blend relieving your Blood Sugar-related issues and other health problems naturally.    <\/p>\n    <p class=\"paragraph-white\">This nutrient-rich blend helps you achieve that enviable glowing skin, lustrous hair, and the overall beauty you deserve.<\/p>\n    <p class=\"paragraph-yellow\">Karela pulp and Jamun seeds are the superstar ingredients we chose to make this product your daily partner to drive your way to a healthier you.<\/p>\n<\/div>\n\n<style>\n    .company-about-pdp{\n        background-color: #002c00;\n        width: 100%;\n        height: auto;\n        padding: 3rem 5rem;\n        display: flex;\n        flex-direction: column;\n        gap: 5px;\n    }\n    .company-about-pdp p {\n        text-align: center;\n    }\n    .heading-bold{\n        font-size: 2.5rem;\n        color: white;\n        font-weight: 600;\n    }\n    .heading-thin{\n        font-size: 2.5rem;\n        color: white;\n        font-weight: 500;\n    }\n    .paragraph-yellow{\n        font-size: 2rem;\n        color: #fbe0ac;\n        font-weight: 500;\n    }\n    .paragraph-white{\n        font-size: 2rem;\n        color: white;\n        font-weight: 500;\n    }\n<\/style>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "76983723-edf2-424d-919b-51c280d143df": {
       "type": "custom-liquid",
       "settings": {
@@ -437,6 +446,7 @@
     "c056bad4-a2fd-4f45-9818-754835b693e9",
     "232b2aff-f08b-48ef-8922-e236a990f366",
     "6ec49e80-6dda-425a-b60c-f7e239b21beb",
+    "0e2f9845-ab8f-4b2e-959b-29c1cca83470",
     "76983723-edf2-424d-919b-51c280d143df",
     "1697562007abf553aa",
     "6c8b489a-b345-4017-9ab9-80a563a15ffb",
