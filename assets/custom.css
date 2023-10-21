@@ -1,6 +1,12 @@
 .product-form__buttons {
     display: flex;
 }
+.product-form__buttons button {
+    width: 50%;
+}
+.product-form__buttons div {
+    width: 50%;
+}
 .product-form__input {
     margin: 0 !important;
 }
