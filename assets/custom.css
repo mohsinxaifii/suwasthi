@@ -5,7 +5,7 @@
 .product-form__submit  {
     width: 40% !important;
 }
-.shopify-payment-button__button {
+.product-form__buttons button {
       width: 40% !important;
 
 }
