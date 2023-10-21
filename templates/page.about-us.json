@@ -34,12 +34,22 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "ed3b1901-a54c-4e2b-bcf8-465e803428c0": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"company-about-pdp\">\n    <div class=\"company-about-pdp-headings\">\n        <p class=\"company-about-pdp-heading-bold\">Why you should choose<\/p>\n        <p class=\"company-about-pdp-heading-thin\">\"SUWASTI\" over other brands?<\/p>\n    <\/div>\n    <\/div>\n\n<style>\n    .company-about-pdp{\n        width: 100%;\n        height: auto;\n        display: flex;\n        flex-direction: column;\n        gap: 40px;\n    }\n    .company-about-pdp-headings{\n        display: flex;\n        flex-direction: column;\n        gap: 20px;\n    }\n    .company-about-pdp p {\n        text-align: center;\n        margin: 0;\n        line-height: 2.5rem;\n}\n    .company-about-pdp-heading-bold{\n        font-size: 3rem;\n        color: #002c00;\n        font-weight: 500;\n    }\n    .company-about-pdp-heading-thin{\n        font-size: 4rem;\n        color: #002c00;\n        font-weight: 600;\n    }\n<\/style>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
     "f137dc92-3faf-4678-9d76-66849ceb96c0",
     "dda2ec7c-ea82-4c1a-bd36-64e59a92517b",
-    "bd6208a6-0743-46d4-9d42-d548ce067dd9"
+    "bd6208a6-0743-46d4-9d42-d548ce067dd9",
+    "ed3b1901-a54c-4e2b-bcf8-465e803428c0"
   ]
 }
