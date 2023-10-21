@@ -1,3 +1,6 @@
+.product-form__input {
+    flex: 0 !important;
+}
 .quantity-and-price-flex-container{
   display: flex;
 }
