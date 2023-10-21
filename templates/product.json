@@ -343,6 +343,7 @@
     },
     "6c8b489a-b345-4017-9ab9-80a563a15ffb": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<div class=\"headingContainer\">\n    <hr class=\"hrBack\">\n    <p class=\"hrText\">FAQS<\/p>\n    <\/div>",
         "color_scheme": "",
@@ -396,6 +397,7 @@
         "template--21109731885374__30464990-ce86-4d16-91e5-649ff13d78b3-collapsible_row-3",
         "template--21109731885374__30464990-ce86-4d16-91e5-649ff13d78b3-collapsible_row-4"
       ],
+      "disabled": true,
       "settings": {
         "caption": "",
         "heading": "",
