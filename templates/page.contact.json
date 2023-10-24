@@ -34,6 +34,7 @@
       "blocks": {
         "template--21109731754302__a0206f20-55c8-4190-91b6-ef8138561c19-heading-1": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Subscribe to our emails",
             "heading_size": "h1"
@@ -42,7 +43,7 @@
         "template--21109731754302__a0206f20-55c8-4190-91b6-ef8138561c19-paragraph-1": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+            "text": "<p>Subscribe for Content<\/p>"
           }
         },
         "template--21109731754302__a0206f20-55c8-4190-91b6-ef8138561c19-email_form-1": {
